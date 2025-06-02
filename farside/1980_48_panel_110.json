@@ -1,0 +1,17 @@
+{
+  "description": "The scene depicts a bar aftermath where patrons lie incapacitated amidst scattered furniture and broken glass. A figure resembling a police officer converses with a large woman, surveying the chaos. The accompanying text attributes this bizarre scene to a 'little sailor dude' consuming spinach and triggering 'crazy music.' The juxtaposition of the mundane setting with the surreal explanation highlights the absurdity of the destructive power unleashed by such seemingly innocuous actions.",
+  "caption": "So then this little sailor dude whips out this can of spinach, this crazy music starts playin', and ... well, just look at this place.\u201d",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "7/14/80"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 190,
+  "think": 800
+}

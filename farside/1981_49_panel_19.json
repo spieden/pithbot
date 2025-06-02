@@ -1,0 +1,17 @@
+{
+  "description": "A caveman, dressed in a leopard-print loincloth, stands outdoors, striking himself in the forehead with a rake. The scene is set near a tree and a cave entrance, with scattered, disc-like objects on the ground. This depicts an ironic and absurd moment representing the initial, perhaps painful and clumsy, interaction with a newly discovered tool, contrary to the expected benefit.",
+  "caption": "The discovery of tools",
+  "other_text": [
+    {
+      "location": "top_left",
+      "text": "Larson"
+    },
+    {
+      "location": "top_right",
+      "text": "7/17/81"
+    }
+  ],
+  "in": 377,
+  "out": 161,
+  "think": 255
+}

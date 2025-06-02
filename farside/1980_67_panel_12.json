@@ -1,0 +1,21 @@
+{
+  "description": "A man reading the classifieds in a living room excitedly points out an advertisement for a \"Mad scientist needs assistant.\" This contrasts sharply with the mundane domestic scene where a woman irons nearby, appearing stressed. The specific nature of the bizarre job ad, found among ordinary listings, introduces an element of absurdism, suggesting a fantasy escape from the routine. A dog wearing glasses sits on the floor, adding another layer of oddity to the otherwise conventional setting. The man's enthusiasm for the peculiar job highlights a potential desire for adventure or change compared to their current life.",
+  "caption": "\u201cHey! Here\u2019s one! ... \u2018Mad scientist needs assistant.\u2019\u201d",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "9/30/80"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    },
+    {
+      "location": "on newspaper",
+      "text": "CLASSIFIEDS"
+    }
+  ],
+  "in": 376,
+  "out": 233,
+  "think": 758
+}

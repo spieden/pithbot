@@ -1,0 +1,21 @@
+{
+  "description": "A ship labeled H.M.S. Beagle carries a bearded man resembling Charles Darwin and a captain on its deck. Above them, several crew members exhibit chaotic, primate-like behaviors such as swinging from ropes, climbing rigging, and perching on rails. The captain asks the bearded man if he has reached any conclusions yet. This creates irony by juxtaposing Darwin's search for evolutionary evidence in nature with the immediate, absurd behavior of his own crew. The scene suggests that the principles he studies are vividly demonstrated by the people around him.",
+  "caption": "\u201cWell, Mr. Darwin ... have you reached any conclusions so far?\u201d",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "1/19/81"
+    },
+    {
+      "location": "ship nameplate",
+      "text": "H.M.S. BEAGLE"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 236,
+  "think": 867
+}

@@ -1,0 +1,21 @@
+{
+  "description": "A lone figure on a small island attempts to dispatch a message requesting assistance. Paradoxically, he has broken glass bottles, the standard vessel for such pleas, and is instead trying to place his note inside a cracked coconut using a feather. This highlights the absurd and ironic predicament where the tools for conventional rescue communication are destroyed in favor of a clearly ineffective method. The scene underscores the theme of futile desperation and bizarre logic under extreme duress. The isolated environment features a single palm tree and debris of broken bottles surrounding the attempted coconut message.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top left corner",
+      "text": "Larson"
+    },
+    {
+      "location": "top right corner",
+      "text": "4/30/82"
+    },
+    {
+      "location": "on the paper the man is writing on",
+      "text": "Send help"
+    }
+  ],
+  "in": 377,
+  "out": 214,
+  "think": 998
+}

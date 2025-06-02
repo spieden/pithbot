@@ -1,0 +1,17 @@
+{
+  "description": "A medical professional examines an X-ray that reveals an impossible internal landscape: a human skeleton containing multiple stethoscopes and a medical smock. This surreal finding presents a bizarre anomaly within the patient's body cavity. The absurdity lies in the presence of these external medical tools inside a person, defying biological reality. The scene highlights a moment of bewildered discovery in a clinical environment. It creates an ironic situation where the instruments of diagnosis are found to be the patient's internal contents.",
+  "caption": "\"My goodness, Mr. Osgood! Your X-ray reveals several stethoscopes, a smock, and ...\"",
+  "other_text": [
+    {
+      "location": "top_right",
+      "text": "12/22/81"
+    },
+    {
+      "location": "bottom_left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 206,
+  "think": 398
+}

@@ -1,0 +1,25 @@
+{
+  "description": "A publisher sits at his desk, reading a book titled \"MAN WITHOUT A NOSE\". Standing before him in the office of \"J&J Publishers\" is the author, seemingly presenting the work. The publisher asks if the book is an autobiography, creating an absurd and ironic situation by directly linking the author to the title's subject. This specific interaction highlights the publisher's deadpan assumption based solely on the book's title.",
+  "caption": "\"Autobiography I presume?\"",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "10/2/81"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    },
+    {
+      "location": "on book",
+      "text": "MAN WITHOUT A NOSE"
+    },
+    {
+      "location": "on door",
+      "text": "J&J Publishers"
+    }
+  ],
+  "in": 377,
+  "out": 227,
+  "think": 653
+}

@@ -1,0 +1,17 @@
+{
+  "description": "In a surreal street scene, a man in a fedora and trench coat approaches another man with a briefcase, offering to sell a 'hoofed mammal.' Partially concealed behind a wall are the 'goods': a llama or alpaca and a giraffe, both fitted with ornate coverings. The absurdity lies in the casual, illicit nature of the proposed transaction for such large, exotic animals in an urban environment. The irony is highlighted by the salesman's mundane proposition for the extraordinary merchandise. This depiction presents a black market exchange where the product is incongruously large and wild.",
+  "caption": "\u201cHey, buddy ... you wanna buy a hoofed mammal?\u201d",
+  "other_text": [
+    {
+      "location": "top_right",
+      "text": "1/25/82"
+    },
+    {
+      "location": "bottom_left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 206,
+  "think": 410
+}

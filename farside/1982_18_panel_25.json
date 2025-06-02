@@ -1,0 +1,21 @@
+{
+  "description": "A large sign advertising \"EAT\" is hung over the planet Earth, illuminated like a roadside diner marquee in the vastness of space. A futuristic spaceship is piloted by grotesque, sharp-toothed alien beings, one of whom looks out towards the Earth. The scene presents the entire planet as a mere food source, highlighted by the absurd and simplistic advertising. This treats Earth as a cosmic restaurant, ready for consumption. The aliens' appearance and their seemingly casual desire for a meal add to the surreal setup.",
+  "caption": "Say ... I could go for something.",
+  "other_text": [
+    {
+      "location": "Top right",
+      "text": "2/27/82"
+    },
+    {
+      "location": "Above Earth",
+      "text": "EAT"
+    },
+    {
+      "location": "Bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 209,
+  "think": 712
+}

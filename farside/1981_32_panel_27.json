@@ -1,0 +1,33 @@
+{
+  "description": "The finals of a competition titled 'Mr. Nose' are underway, featuring contestants and an audience all distinguished by their exaggeratedly large noses. A participant wearing the number six stands prominently on a podium, while others, including one with the number three and another with twelve, are present. The formal setting with a banner and applauding crowd provides an ironic contrast to the absurd premise of judging individuals based on this extreme physical characteristic, creating a surreal spectacle.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "5/4/81"
+    },
+    {
+      "location": "top center below date",
+      "text": "Larson"
+    },
+    {
+      "location": "banner",
+      "text": "MR. NOSE"
+    },
+    {
+      "location": "banner",
+      "text": "Finals"
+    },
+    {
+      "location": "contestant on left",
+      "text": "3"
+    },
+    {
+      "location": "contestant on right",
+      "text": "12"
+    }
+  ],
+  "in": 377,
+  "out": 265,
+  "think": 929
+}

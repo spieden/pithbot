@@ -1,0 +1,21 @@
+{
+  "description": "A sophisticated reptile arrives in a swamp via a yellow taxi, carrying a suitcase and wearing a Hawaiian shirt and sunglasses, a stark contrast to the primitive environment. Other reptiles submerged in the water react with surprise at the arrival of a relative from the urban environment of a city sewer. The situation is absurd due to the blend of human modes of transport and attire with animal characters and their natural habitat. The irony stems from the expectation of a sewer dweller visiting a swamp, which might be perceived as less glamorous. The character's specific origin, \"from the city sewer,\" adds a layer of surrealism.",
+  "caption": "\"Well, for crying out loud! ... It's Uncle Irwin from the city sewer!\"",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "6/23/82"
+    },
+    {
+      "location": "top_left",
+      "text": "Larson"
+    },
+    {
+      "location": "on_object",
+      "text": "TAXI"
+    }
+  ],
+  "in": 377,
+  "out": 244,
+  "think": 421
+}

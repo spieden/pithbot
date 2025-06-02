@@ -1,0 +1,17 @@
+{
+  "description": "In a grassy field, an injured centaur lies on the ground while a distressed female centaur looks on. A figure resembling a human doctor, holding a briefcase, examines the fallen centaur. The doctor's assessment and proposed solution, treating the mythical creature's broken leg as a reason for euthanasia typically applied to animals like horses, underscores the absurd clash between the creature's human and animal halves and the inappropriate application of veterinary practices to a being also possessing human characteristics.",
+  "caption": "\"I'm afraid his leg is broken, Ma'am. ... He'll have to be shot.\"",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "1/15/81"
+    },
+    {
+      "location": "bottom_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 200,
+  "think": 393
+}

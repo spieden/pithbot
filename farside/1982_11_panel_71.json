@@ -1,0 +1,17 @@
+{
+  "description": "The panel presents a surreal scenario where anthropomorphic microorganisms casually greet each other in their confined, microscopic world. It highlights the absurd scale difference by portraying their entire universe as merely a \"small petri dish.\" The irony lies in applying common human social interaction (\"Is that you?\") to such alien, microscopic life forms in a controlled environment. The dialogue suggests a familiar, almost mundane, encounter occurring within a truly alien and contained space.",
+  "caption": "\"Hey! Is that you, Arnie? ... Small petri dish!\"",
+  "other_text": [
+    {
+      "location": "top left",
+      "text": "Larson"
+    },
+    {
+      "location": "top center",
+      "text": "1/29/82"
+    }
+  ],
+  "in": 377,
+  "out": 139,
+  "think": 426
+}

@@ -1,0 +1,21 @@
+{
+  "description": "A talk show host interviews a prehistoric man who has been frozen in ice for 50,000 years. The absurd premise centers on expecting this ancient individual to comment on the dramatic changes across millennia. The scene highlights the vast disparity between deep history and modern media spectacle. The caveman, seated between two modern hosts on a set with a \"Hello America\" sign, represents an extreme fish-out-of-water scenario. The humor derives from the futility of the interview given the guest's likely lack of comprehension or relevant perspective.",
+  "caption": "\"And so, after being frozen in ice for almost 50,000 years, we'll ask our friend here what dramatic changes he's noticed.\"",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "8/26/80"
+    },
+    {
+      "location": "on sign",
+      "text": "Hello America"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 249,
+  "think": 797
+}

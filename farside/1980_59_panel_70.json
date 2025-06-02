@@ -1,0 +1,21 @@
+{
+  "description": "A large, powerful ape grips a tire in a cave-like enclosure while two human figures react with alarm. One human, carrying a tray of fruit, recoils with a startled expression, while the other, a zoo worker holding a broom and wearing a 'ZOO' hat, looks on nervously. The ape's seemingly calm interaction with the tire contrasts ironically with the humans' apprehension, emphasizing the underlying tension and unpredictability suggested by its nature. The scene presents an absurd scenario where zoo staff appear intimidated by an animal engaged in a simple activity, highlighting the potential for sudden shifts in behavior. The combination of the powerful animal, the mundane objects (tire, fruit, broom), and the humans' fear creates a sense of surrealism within the zoo environment.",
+  "caption": "\u201cQuick, powerful, and totally unpredictable\u2014that\u2019s our Bobo.\u201d",
+  "other_text": [
+    {
+      "location": "top right",
+      "text": "8/25/80"
+    },
+    {
+      "location": "top left",
+      "text": "Larson"
+    },
+    {
+      "location": "zoo worker's hat",
+      "text": "ZOO"
+    }
+  ],
+  "in": 376,
+  "out": 274,
+  "think": 474
+}

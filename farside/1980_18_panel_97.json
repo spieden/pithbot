@@ -1,0 +1,17 @@
+{
+  "description": "Three derelict figures, one resembling a scrawny human, one a dog, and one an ape, are lounging amidst trash and debris. One of the figures, while sitting in this foul environment, addresses another figure who is smoking. The irony lies in the figure's complaint about the smell of smoke in a setting that is already clearly squalid and filled with garbage, including a discarded bowling pin and banana peel on a large heap of dirt or sand. This highlights an absurd concern for a minor discomfort in the face of much greater surrounding unpleasantness.",
+  "caption": "\u201cExcuse me, but must you smoke that foul thing around here?\u201d",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "2/22/80"
+    },
+    {
+      "location": "bottom_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 208,
+  "think": 341
+}

@@ -1,0 +1,21 @@
+{
+  "description": "In a hospital room, two figures in surgical attire stand over a patient in a bed connected to medical equipment, including an IV and a heart monitor. One figure instructs the other to ensure the patient receives copious amounts of ice cream upon recovery. This scene presents a stark contrast between the serious medical environment and the trivial, indulgent post-operative instruction.",
+  "caption": "\"Well, that should do it. ... When Mr. Warner comes around, make sure he gets all the ice cream he wants.\"",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "6/5/82"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    },
+    {
+      "location": "on clipboard",
+      "text": "scribbled lines"
+    }
+  ],
+  "in": 377,
+  "out": 201,
+  "think": 458
+}

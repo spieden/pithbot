@@ -1,0 +1,21 @@
+{
+  "description": "A man holds a car radio, peering intently at it. Inside the radio's casing, a tiny jazz trio consisting of a saxophonist, a double bassist, and a pianist is actively performing. This surreal depiction literalizes the source of the car radio's music, presenting the band as physically residing and playing within the device itself. The man's expression suggests he has just made a surprising discovery about how the radio works.",
+  "caption": "\"Aha!\"",
+  "other_text": [
+    {
+      "location": "Top left corner of the panel",
+      "text": "Larson"
+    },
+    {
+      "location": "Top right corner of the panel",
+      "text": "7/5/80"
+    },
+    {
+      "location": "On the radio dial",
+      "text": "VOL"
+    }
+  ],
+  "in": 376,
+  "out": 201,
+  "think": 298
+}

@@ -1,0 +1,17 @@
+{
+  "description": "A distinguished classical musician, having presumably died, is welcomed to the afterlife by a smiling Devil. Instead of traditional torment, the Maestro's eternal fate is revealed to be sharing a room with an overly enthusiastic band of banjo players. This scenario presents an ironic and absurd form of damnation, tailored specifically to contrast with the Maestro's likely musical sensibilities. The punishment lies not in physical pain but in auditory agony from amateur musicianship, highlighting a surreal interpretation of hell.",
+  "caption": "\"Your room is right in here, Maestro.\"",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "2/8/82"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 178,
+  "think": 358
+}

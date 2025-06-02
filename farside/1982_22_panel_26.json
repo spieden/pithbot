@@ -1,0 +1,17 @@
+{
+  "description": "Two men sit at a table in a bar-like setting, holding beer bottles. Above them, a grotesque, multi-eyed creature clings to the ceiling, dropping debris. One man looks up in horror, while the other is about to open his bottle. The horrified man warns against opening 'that brand of beer'. This suggests a bizarre, causal link between the specific beverage and the appearance of the terrifying entity.",
+  "caption": "\u201cWait! Wait! ... Don't open that brand of beer!\u201d",
+  "other_text": [
+    {
+      "location": "top",
+      "text": "3/15/82"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 177,
+  "think": 984
+}

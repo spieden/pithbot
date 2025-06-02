@@ -1,0 +1,17 @@
+{
+  "description": "The image depicts several individuals seated under apple trees, each with writing materials, seemingly engaged in observation. A strikingly oversized apple hangs prominently from one of the trees, presenting a surreal and absurd element in the natural setting. The scene creates an ironic juxtaposition, showing figures patiently waiting for inspiration, specifically an apple to fall, which alludes to the apocryphal story of Isaac Newton's discovery of gravity. This highlights the unpredictable and often unusual circumstances that can precede moments of significant intellectual breakthrough. The presence of multiple observers underscores a theme of collective inquiry or perhaps competition in the pursuit of understanding natural phenomena.",
+  "caption": "\"Nothing yet. ... How about you, Newton?\"",
+  "other_text": [
+    {
+      "location": "top right",
+      "text": "6/23/81"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 211,
+  "think": 420
+}

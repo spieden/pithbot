@@ -1,0 +1,17 @@
+{
+  "description": "A group of wolves is gathered indoors for a party at night, engaging in human-like activities such as drinking, smoking, and socializing. The irony lies in their seemingly civilized behavior contrasted with their stated plan to leave the party, which they find dull, to engage in their natural predatory behavior: slaughtering chickens. The scene presents an absurd juxtaposition of the animal and human worlds, highlighting the mundane aspects of even a wild animal's social life being interrupted by their base instincts.",
+  "caption": "\"Listen ... this party's a drag. But later on, Floyd, Warren, and myself are going over to Farmer Brown's and slaughter some chickens.\"",
+  "other_text": [
+    {
+      "location": "top right",
+      "text": "7/6/81"
+    },
+    {
+      "location": "top left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 207,
+  "think": 354
+}

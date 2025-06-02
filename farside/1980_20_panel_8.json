@@ -1,0 +1,29 @@
+{
+  "description": "A pig-like creature peers menacingly over a table at a jar filled with sentient cookies. One cookie in the jar displays a look of fear, while others seem concerned. The presence of the cookies, who are aware and expressive, creates an absurd and darkly humorous dynamic with the determined creature approaching. The surrounding jars labeled \"Sugar\" and \"Flo\" suggest a domestic setting, heightening the surreal contrast. The scene depicts a recurring conflict between the creature and the self-aware baked goods.",
+  "caption": "\"It's back!\"",
+  "other_text": [
+    {
+      "location": "top left",
+      "text": "Larson"
+    },
+    {
+      "location": "top center",
+      "text": "3/3/80"
+    },
+    {
+      "location": "on the large jar",
+      "text": "Sugar"
+    },
+    {
+      "location": "on the smaller jar",
+      "text": "Flo"
+    },
+    {
+      "location": "on the cookie jar",
+      "text": "COOKies"
+    }
+  ],
+  "in": 376,
+  "out": 255,
+  "think": 520
+}

@@ -1,0 +1,25 @@
+{
+  "description": "Four adult men, dressed in lab coats and ties, are gathered around a blackboard covered in complex equations. Suddenly, their attention is diverted to an ice cream truck visible through a window, causing them to abandon their work and rush towards the window with expressions of excitement and urgency. The scene highlights the absurd contrast between intense intellectual work and the primal, universal appeal of simple pleasures like ice cream. The juxtaposition of advanced scientific pursuits with the childlike pursuit of frozen dessert creates an ironic commentary on human behavior.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top border",
+      "text": "6/16/82"
+    },
+    {
+      "location": "blackboard",
+      "text": "3XY > \u221a61,22K\n4X23' \u0398 \u2190\n\u2192G3\n16X\u221a18.2H\n63216HZ\n\u221aG1"
+    },
+    {
+      "location": "side of ice cream truck",
+      "text": "ICE CREAM"
+    },
+    {
+      "location": "bottom right corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 276,
+  "think": 529
+}

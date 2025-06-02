@@ -1,0 +1,17 @@
+{
+  "description": "Three large frogs are gathered around a formal dining table set with plates, cutlery, and various dishes. The dishes include a bowl filled with flies resembling a salad, a stick of butter on a plate, bread slices on a plate, and a bowl of spherical objects that appear to be eggs. One frog, significantly larger than the others, sits in the center with a distressed expression and holds a fork and knife, contemplating the meal. Another frog on the left reaches towards the bowl of flies with a webbed hand. The scene presents an absurd domestic setting where amphibians consume their natural prey with human-like formality, highlighting the surreal juxtaposition of animal behavior and human customs.",
+  "caption": "\"Sidney, just take one\b don't handle every fly.\"",
+  "other_text": [
+    {
+      "location": "top_left",
+      "text": "Larson"
+    },
+    {
+      "location": "top_center",
+      "text": "10/22/81"
+    }
+  ],
+  "in": 377,
+  "out": 231,
+  "think": 320
+}

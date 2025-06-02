@@ -1,0 +1,17 @@
+{
+  "description": "A parent bird offers food to its chicks, who express reluctance rather than eagerness. Their hesitation stems from the anticipation of a lecture about less fortunate birds in a far-off location. This scene presents an ironic twist by applying human-like guilt and global awareness to the natural act of feeding offspring. The situation is notable for its specific reference to \"Asia\" as the location of distant suffering used as a manipulative tactic. The absurdity lies in the human-like psychology and geographical knowledge attributed to the birds.",
+  "caption": "We better eat it ... or we'll get that old lecture again about the birds starving in Asia.",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "10/8/80"
+    },
+    {
+      "location": "bottom_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 200,
+  "think": 794
+}

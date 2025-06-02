@@ -1,0 +1,21 @@
+{
+  "description": "Two men are gathered around a large, vintage reel-to-reel tape recorder. One man holds the microphone and listens intently, while the other looks on amused.  The speaker reacts with surprise and laughter upon hearing his recorded voice played back.  This scene captures the common, often awkward, experience of hearing oneself objectively through technology for the first time. The irony lies in the speaker's sudden self-awareness prompted by the recording.",
+  "caption": "\"Oh, wow! I can't believe this thing! ... Does my voice really sound that funny?\"",
+  "other_text": [
+    {
+      "location": "On the tape recorder",
+      "text": "RECORDER"
+    },
+    {
+      "location": "Top right corner",
+      "text": "3/5/82"
+    },
+    {
+      "location": "Bottom left corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 217,
+  "think": 444
+}

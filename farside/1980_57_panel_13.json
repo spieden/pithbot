@@ -1,0 +1,29 @@
+{
+  "description": "A man lies trapped beneath a shelf of books labeled \"Self-Help\" that has collapsed upon him. This situation presents a sharp irony, where the source intended for improvement or aid has become the instrument of his downfall. The scene is absurd and surreal, with scattered books and a wall clock dripping, perhaps symbolizing the weight of the man's struggles or the passage of time in his predicament.  The collapse of the \"Self-Help\" section is a novel and notable event, especially contrasted with the stable \"Art\" and \"History\" sections.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "8/16/80"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    },
+    {
+      "location": "above top left shelf",
+      "text": "ART"
+    },
+    {
+      "location": "above left shelf",
+      "text": "HISTORY"
+    },
+    {
+      "location": "above collapsed shelf",
+      "text": "SELF-HELP"
+    }
+  ],
+  "in": 376,
+  "out": 267,
+  "think": 455
+}

@@ -1,0 +1,21 @@
+{
+  "description": "A stern-looking sheriff confronts a person mounted on a horse outside a sheriff's office. The mounted person wears an exceptionally tall hat. The sheriff informs the person that the town has a 'hat-check law' and instructs them to remove the distinctive headwear slowly. The scene presents an absurd situation where a trivial and peculiar law regarding headwear is strictly enforced by the authority figure in a setting that resembles a frontier town.",
+  "caption": "\"Hold it right there, stranger. We got us a hat-check law in this town ... so just take it off niiiiiice and slow.\"",
+  "other_text": [
+    {
+      "location": "Sign above entrance",
+      "text": "SHERIFF"
+    },
+    {
+      "location": "Top center",
+      "text": "6/15/82"
+    },
+    {
+      "location": "Top right signature",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 224,
+  "think": 345
+}

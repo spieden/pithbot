@@ -1,0 +1,17 @@
+{
+  "description": "A group of vultures is gathered in a desolate desert landscape featuring a saguaro cactus. One vulture is attempting to eat a wallet, an entirely unnatural object for a scavenger's diet. The other vultures look on with disbelief and appear to be scolding the one trying to eat the wallet. This scenario presents an absurd situation by placing a human object into an animal's natural environment and subverting the expected behavior of the animals. The humor derives from the surreal juxtaposition and the vultures' reactions to this bizarre meal choice.",
+  "caption": "\u201cYou fool! You can\u2019t eat that \u2026 it\u2019s a wallet!\u201d",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "10/1/80"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 202,
+  "think": 751
+}

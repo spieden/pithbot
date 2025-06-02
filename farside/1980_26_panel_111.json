@@ -1,0 +1,21 @@
+{
+  "description": "Two people relax in deck chairs on a ship, one smoking a pipe, the other holding a drink. A life preserver hanging above them is labeled with the ship's name. The couple's complaints about the ship's service are presented against the backdrop of the name of a notoriously ill-fated vessel, creating dark irony. Their mundane dissatisfaction becomes absurd when contrasted with the ship's historical destiny. This juxtaposition underscores the theme of misplaced concerns in a dire situation.",
+  "caption": "\u201cLousy food ... crummy service ... dinky cabins ... and that's only the tip of the iceberg!\u201d",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "4/3/80"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    },
+    {
+      "location": "on life preserver",
+      "text": "U.S.S. TITANIC"
+    }
+  ],
+  "in": 376,
+  "out": 231,
+  "think": 334
+}

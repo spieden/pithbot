@@ -1,0 +1,21 @@
+{
+  "description": "Dogs are shown driving in a car on a road, with one dog behind the wheel. The car displays a bumper sticker that reads, \"HAVE YOU LICKED YOUR KIDS TODAY?\". This image presents a surreal scenario where animal instincts intersect with human domestic life and communication. The juxtaposition of a commonplace human question with a specific canine behavior creates dark humor and highlights the absurdity of anthropomorphism. The scene is set on a simple road with minimal background details.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top",
+      "text": "8/24/81"
+    },
+    {
+      "location": "bumper sticker",
+      "text": "HAVE YOU LICKED YOUR KIDS TODAY?"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 201,
+  "think": 737
+}

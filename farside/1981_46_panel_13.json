@@ -1,0 +1,17 @@
+{
+  "description": "Three slug-like aliens are gathered on a couch, watching a film projector display an image of Earth on a screen. One of them comments on Earth as if it were a location they had previously visited. The alien uses the specific human idiom \"greasy spoon\" to describe the entire planet, reducing it to the level of a cheap, unappealing diner. This application of mundane, negative human slang to an entire world is highly absurd and ironic. It suggests the aliens have a distinctly unimpressed view of Earth based on their experience.",
+  "caption": "\u201cOh, yeah. ... Now that place was really a greasy spoon!\u201d",
+  "other_text": [
+    {
+      "location": "top_of_panel",
+      "text": "7/1/81"
+    },
+    {
+      "location": "bottom_left_of_panel",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 210,
+  "think": 1116
+}

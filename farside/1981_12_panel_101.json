@@ -1,0 +1,21 @@
+{
+  "description": "The scene depicts two individuals examining an ancient mummy within an open coffin. One figure uses a flashlight, from which a speech bubble emanates stating \"NO PRESERVATIVES ADDED.\" This specific detail creates an ironic and absurd situation by applying modern consumer product labeling concepts to a historical artifact. The novel environment of a tomb and the surreal detail of the talking flashlight beam emphasize the unexpected nature of the discovery. The juxtaposition highlights the contrast between ancient preservation methods and contemporary marketing.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top right",
+      "text": "2/6/81"
+    },
+    {
+      "location": "speech bubble",
+      "text": "NO PRESERVATIVES ADDED"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 197,
+  "think": 1075
+}

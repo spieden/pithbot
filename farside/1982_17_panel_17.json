@@ -1,0 +1,21 @@
+{
+  "description": "A lone figure stranded on a deserted island reacts with despair upon opening a crate that has washed ashore. What initially appears to be a life-saving supply of fresh fruit is revealed to be a collection of artificial, useless items. The specific labeling on the crate, identifying the fruit as \"ACME PLASTIC FRUIT,\" introduces an element of corporate absurdity into the man's dire predicament. This situation underscores the cruel irony of false hope in a desperate struggle for survival. The contrast between the man's initial excitement and the reality of his find highlights the themes of disappointment and the futility of unexpected fortune.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top",
+      "text": "2/24/82"
+    },
+    {
+      "location": "on crate",
+      "text": "ACME PLASTIC FRUIT"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 229,
+  "think": 822
+}

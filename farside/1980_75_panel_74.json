@@ -1,0 +1,17 @@
+{
+  "description": "A ship's large anchor hangs grotesquely twisted below the water, rendering it useless. From the deck, two figures observe this critical failure with surprising casualness. One suggests they simply move the ship to anchor elsewhere, treating the inability to anchor in the current spot as a minor inconvenience rather than a significant maritime problem. This creates an absurd contrast between the severity of the broken equipment and the nonchalant dialogue. The scene highlights the surreal notion of easily relocating a massive vessel because its primary anchoring device is irreparably tangled.",
+  "caption": "Listen, Wadsworth ... as far as I'm concerned we can just go anchor somewhere else.",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "11/4/80"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 204,
+  "think": 716
+}

@@ -1,0 +1,17 @@
+{
+  "description": "A couple relaxes in their living room, the man reading from a document while the woman looks at a bird in a cage on a table before them. The document contains specific instructions about the bird, noting its mimicking ability and warning against exposure to foul or abusive sounds. The irony stems from the implication that the couple's own environment is likely the source of such sounds, creating an absurd predicament where their pet could expose their habits. The scene highlights the potential conflict between owning a mimicking pet and the reality of everyday language.",
+  "caption": "Uh-oh! It says here: 'A good mimic, this bird should not be exposed to foul or abusive sounds.'",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "11/18/81"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 210,
+  "think": 664
+}

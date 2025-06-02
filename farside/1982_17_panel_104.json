@@ -1,0 +1,37 @@
+{
+  "description": "This four-panel sequence portrays a standoff between two figures exchanging gunfire from behind cover. After multiple shots are fired, one figure's weapon ceases to fire, producing only clicks. Simultaneously, the opposing figure pauses to reload his weapon. In a moment of dark irony, the first figure's weapon fires successfully just as the second figure is prepared to resume shooting, leading to his apparent demise. This subverts the expectation of a conventional gunfight outcome through an unlikely series of events.",
+  "caption": "null",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "2/20/82"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    },
+    {
+      "location": "panel 1 left",
+      "text": "BANG! BANG!"
+    },
+    {
+      "location": "panel 1 right",
+      "text": "BANG! BANG!"
+    },
+    {
+      "location": "panel 2 right",
+      "text": "BANG!"
+    },
+    {
+      "location": "panel 3 left",
+      "text": "Click! Click!"
+    },
+    {
+      "location": "panel 4 left",
+      "text": "BANG!"
+    }
+  ],
+  "in": 377,
+  "out": 309,
+  "think": 1369
+}

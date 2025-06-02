@@ -1,0 +1,17 @@
+{
+  "description": "Two dogs, depicted as angels with halos and wings, sit on clouds, seemingly discussing their past lives. One dog recounts a life dedicated to car-chasing, listing specific car brands. The irony lies in the fact that after successfully chasing cars for twelve years, the dog's death was caused by its own owner backing over it in the driveway, a mundane and absurd end contrasting sharply with the dog's adventurous pursuit.",
+  "caption": "\n\"For twelve perfect years I was a car-chaser.\nPontiacs, Fords, Chryslers-I took 'em all\non ... and yesterday my stupid owner\nbacks over me in the driveway. \"\n",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "9/10/80"
+    },
+    {
+      "location": "top_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 385,
+  "out": 219,
+  "think": 236
+}

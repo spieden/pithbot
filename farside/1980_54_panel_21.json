@@ -1,0 +1,25 @@
+{
+  "description": "On a rural road marked with a \"START\" line, a turtle stands ready while a rabbit lies prone, seemingly incapacitated, at the starting point. A large yellow moving truck from \"ACE MOVING CO.\" is driving away up the road, presumably the target or finish line of this unusual race. Woodland creatures watch from the trees as this absurd competition, a dark twist on a classic fable, unfolds. The irony lies in the typically speedy hare failing before the race even begins, while the slow turtle is prepared for the surreal challenge of pursuing a moving company vehicle. The scene presents a darkly humorous and unexpected outcome for the traditional race narrative.",
+  "caption": "null",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "8/4/80"
+    },
+    {
+      "location": "on the side of the moving truck",
+      "text": "ACE MOVING CO."
+    },
+    {
+      "location": "on the road",
+      "text": "START"
+    },
+    {
+      "location": "bottom left corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 263,
+  "think": 718
+}

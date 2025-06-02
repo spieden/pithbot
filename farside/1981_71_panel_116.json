@@ -1,0 +1,17 @@
+{
+  "description": "Cows are depicted in a pasture, engaging in their natural behavior. A central figure experiences a moment of profound, absurd realization about its environment and actions. The scenario creates irony by portraying creatures defined by grazing as astonished by the presence of grass. This highlights a surreal lack of fundamental self-awareness regarding their most basic sustenance. The scene presents the commonplace act of eating grass as a shocking discovery.",
+  "caption": "\u201cHey, wait a minute! This is grass! We\u2019ve been eating grass!\u201d",
+  "other_text": [
+    {
+      "location": "top right",
+      "text": "10/16/81"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 178,
+  "think": 449
+}

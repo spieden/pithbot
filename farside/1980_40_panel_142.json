@@ -1,0 +1,29 @@
+{
+  "description": "A prisoner in a cell receives a bizarre delivery intended to be a tool for escape. Instead of a metal file, he finds a small filing cabinet embedded within a large cake. This literal interpretation of 'file' and the impractical delivery method through the 'Bakery Dept.' box highlights the absurd lengths taken for smuggling. The note from 'Rosey' confirms this is the requested 'file,' underscoring the misunderstanding or dark humor. The scene presents a surreal twist on the common trope of smuggling tools into prison.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "6/7/80"
+    },
+    {
+      "location": "Prisoner's back",
+      "text": "7636"
+    },
+    {
+      "location": "Box on the floor",
+      "text": "BAKERY DEPT."
+    },
+    {
+      "location": "Note on the floor",
+      "text": "Ernie, Here's the file you wanted. Good luck. Love, Rosey"
+    },
+    {
+      "location": "Bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 280,
+  "think": 841
+}

@@ -1,0 +1,17 @@
+{
+  "description": "In this scene, multi-limbed, multi-eyed aliens engage in a social greeting. One alien extends several hands/limbs towards another, offering a gesture reminiscent of a human 'high five'. The humor derives from the absurd application of this human ritual to an alien physiology, twisting the expected number 'five' to 'six' to match their multiple limbs, creating a moment of surreal interaction.",
+  "caption": "\"Hey, Zoran! What's happenin'?... Give me six!\"",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "9/25/80"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 175,
+  "think": 300
+}

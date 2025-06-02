@@ -1,0 +1,21 @@
+{
+  "description": "The driver of an ice cream truck, who appears to be made of melting ice cream, desperately holds a telephone receiver to his head, his body slumping and dripping as he looks out the windshield. The truck is decorated with images of ice cream treats, creating a surreal situation where the vendor is literally melting into his product. This presents an absurd and darkly ironic scenario where the one tasked with keeping frozen desserts solid is himself liquefying. The figure's distress and phone call highlight the helplessness in this bizarre predicament.",
+  "caption": "\"This is Harold Schwartz! ... Something horrible is happening out here!\"",
+  "other_text": [
+    {
+      "location": "Top left",
+      "text": "Larson"
+    },
+    {
+      "location": "Top center",
+      "text": "10/14/81"
+    },
+    {
+      "location": "Side of truck",
+      "text": "ICE CREAM"
+    }
+  ],
+  "in": 377,
+  "out": 220,
+  "think": 256
+}

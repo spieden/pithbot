@@ -1,0 +1,21 @@
+{
+  "description": "A fortune teller peers into a crystal ball, expecting visions of destiny. The sphere reflects not a grand fate, but a mundane truck stop diner with a sign offering future readings. A truck labeled \"Al's Truck Co.\" is visible parked outside the diner. The scene presents an ironic contrast between mystical foresight and the banality of everyday life, suggesting even prophecy might reveal only the ordinary.",
+  "caption": "null",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "11/21/81"
+    },
+    {
+      "location": "inside_crystal_ball_on_sign",
+      "text": "Read your future"
+    },
+    {
+      "location": "inside_crystal_ball_on_truck",
+      "text": "AL's TRUCK CO."
+    }
+  ],
+  "in": 377,
+  "out": 201,
+  "think": 855
+}

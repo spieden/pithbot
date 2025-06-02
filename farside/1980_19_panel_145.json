@@ -1,0 +1,17 @@
+{
+  "description": "Two cowboys on horseback are leading an enormous herd of chickens across a landscape, with a covered wagon pulled by horses following behind. The scene is absurd because traditional trail drives involve cattle, not poultry. The dialogue from one cowboy expresses ironic regret about not reading the fine print of their contract, highlighting the surreal nature of their predicament and the consequences of unforeseen details in agreements.",
+  "caption": "\"And I tell ya ... the next trail drive I sign onto, I'm readin' the fine print!\"",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "2/28/80"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 176,
+  "think": 264
+}

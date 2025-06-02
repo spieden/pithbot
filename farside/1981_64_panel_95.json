@@ -1,0 +1,25 @@
+{
+  "description": "A man holding a butterfly net stands in a field of flowers, facing a small wooden stand. Behind the counter, another man is visible, standing amongst jars containing butterflies. A sign above the stand advertises 'BUTTERFLIES $1.00 ea.', creating an absurd commercial scenario. The situation is ironic as the man with the net, presumably a butterfly catcher, is being told he must now purchase what he typically seeks in the wild. This highlights a surreal inversion of the natural order, where freedom is replaced by commodification.",
+  "caption": "Well, they ain't free anymore, buddy.",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "9/21/81"
+    },
+    {
+      "location": "Sign on stand",
+      "text": "BUTTERFLIES"
+    },
+    {
+      "location": "Sign on stand",
+      "text": "$1\u2070\u2070 ea."
+    },
+    {
+      "location": "Bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 252,
+  "think": 758
+}

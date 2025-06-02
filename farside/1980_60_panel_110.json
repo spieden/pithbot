@@ -1,0 +1,25 @@
+{
+  "description": "A woman is tied to train tracks on a steep hill, a classic damsel-in-distress scenario. An old-fashioned train engine approaches, but its primary struggle is not the woman's peril. Instead, the train is depicted as personified, with visible eyes, vocalizing the mantra 'I think I can' as it labors up the incline. This creates dark irony by shifting the focus from the dramatic danger to the mundane difficulty of the train's task. The absurdity lies in the train's pre occupation with climbing the hill over the imminent threat it poses.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "8/30/80"
+    },
+    {
+      "location": "near train engine",
+      "text": "I think I can"
+    },
+    {
+      "location": "near train engine",
+      "text": "I think I can"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 251,
+  "think": 774
+}

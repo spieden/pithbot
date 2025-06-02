@@ -1,0 +1,17 @@
+{
+  "description": "Two small explorers, hidden in dense jungle foliage, peer up at the colossal legs and feet of giant figures wearing simple grass skirts and bone anklets. The explorers harbor an ironic hope that these beings of immense size, towering over them, will somehow perceive and revere the diminutive humans as gods. This ambition highlights the absurd contrast between the explorers' physical insignificance and their grand aspiration for deification by the towering inhabitants of the jungle.",
+  "caption": "\"With a little luck, they may revere us as gods.\"",
+  "other_text": [
+    {
+      "location": "top_right",
+      "text": "6/24/81"
+    },
+    {
+      "location": "bottom_left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 181,
+  "think": 403
+}

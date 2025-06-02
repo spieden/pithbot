@@ -1,0 +1,21 @@
+{
+  "description": "In a peculiar testing environment, a man wearing a bib with the number 2 runs directly towards a tall brick wall. Two figures in lab coats stand nearby, observing this strange activity. The ground in front of the wall is scattered with multiple pairs of eyeglasses, implying that previous test subjects have collided with the wall and lost their eyewear. A sign designates this location as a \"WARNING - EYEGLASS TESTING AREA,\" highlighting the absurd and perilous nature of the experiment. The scene captures the dark humor and surrealism of an extremely impractical and dangerous method for testing the durability or effectiveness of eyeglasses by apparently impacting them against a solid structure.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "3/28/80"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    },
+    {
+      "location": "sign",
+      "text": "WARNING-\nEYEGLASS\nTESTING\nAREA"
+    }
+  ],
+  "in": 376,
+  "out": 236,
+  "think": 825
+}

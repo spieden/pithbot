@@ -1,0 +1,17 @@
+{
+  "description": "A kangaroo sits precariously on the ledge of a building high above the ground. Meanwhile, a person inside a nearby window frantically calls for assistance, seemingly concerned the animal is contemplating a leap. The scene presents an absurd and surreal juxtaposition of a wild animal in an urban setting, highlighting the unusual human reaction to a situation that defies expectations. The irony lies in the panicked response to an animal potentially behaving in a way humans might, blurring the lines between wild instinct and perceived human distress.",
+  "caption": "\u201cWell, you better get someone over here right away. ... He really looks like he\u2019s going to jump.\u201d",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "12/27/80"
+    },
+    {
+      "location": "bottom_left",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 203,
+  "think": 551
+}

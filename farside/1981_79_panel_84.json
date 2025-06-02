@@ -1,0 +1,21 @@
+{
+  "description": "An alien creature stands on a rocky landscape under a starry sky, pointing towards a fleet of large, disc-shaped spacecraft. Below it, a USA Explorer II rover with multiple wheels and a prominent antenna surveys the ground. The alien appears agitated, shouting towards the rover, creating an ironic scenario where a human exploration vehicle designed to search for extraterrestrial life is present on a world where an alien already exists and is preoccupied with a different group of alien visitors. The absurdity is heightened by the alien seemingly directing the rover to locate the incoming spacecraft.",
+  "caption": "\"FIND THEM!\"",
+  "other_text": [
+    {
+      "location": "top_right",
+      "text": "11/25/81"
+    },
+    {
+      "location": "on_rover",
+      "text": "USA EXPLORER II"
+    },
+    {
+      "location": "bottom_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 222,
+  "think": 380
+}

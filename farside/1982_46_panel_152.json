@@ -1,0 +1,17 @@
+{
+  "description": "A scientist sits astride the neck of a large dinosaur skeleton, holding its skull like reins, while another scientist on the ground argues with him. The conflict centers on who claimed a specific part of the fossil second, rather than first, introducing an element of absurd one-upmanship to the process of paleontological discovery. The scene presents a surreal view of academic rivalry, where physical positioning on the ancient remains and the timing of arbitrary claims become paramount.",
+  "caption": "\u201cI assume you\u2019re being facetious, Andrews. \u2026 I distinctly yelled \u2018second!\u2019 before you did.\u201d",
+  "other_text": [
+    {
+      "location": "top_left",
+      "text": "Larson"
+    },
+    {
+      "location": "top_center",
+      "text": "6/30/82"
+    }
+  ],
+  "in": 377,
+  "out": 195,
+  "think": 377
+}

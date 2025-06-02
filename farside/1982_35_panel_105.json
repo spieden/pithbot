@@ -1,0 +1,17 @@
+{
+  "description": "A domesticated beaver sits comfortably in slippers on a couch, engrossed in reading a newspaper. Nearby, a woman speaks on the phone, claiming the beaver is not busy and that the notion of him being constantly active is a myth. This presents an absurd reversal of the common image of a beaver as a tireless worker, highlighted by the mundane human activity he is engaged in. The irony lies in the woman's denial of his \"busyness\" while he is clearly occupied, albeit in an unexpected way. The scene juxtaposes wild animal behavior with suburban domesticity.",
+  "caption": "\u201cNo, he\u2019s not busy. ... In fact, that whole thing is just a myth.\u201d",
+  "other_text": [
+    {
+      "location": "on_image",
+      "text": "5/12/82"
+    },
+    {
+      "location": "on_image",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 214,
+  "think": 1000
+}

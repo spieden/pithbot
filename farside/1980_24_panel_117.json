@@ -1,0 +1,29 @@
+{
+  "description": "The scene depicts two large bulls, dressed in suits, browsing delicate porcelain items in a shop. One bull in the foreground holds a plate while the other stands near shelves laden with teacups and pots. The absurdity lies in the literal portrayal of the idiom \"like a bull in a china shop,\" highlighting the inherent conflict between the creatures' size and the fragile environment. This creates an ironic tension as the bulls navigate a situation where their natural tendencies are ill-suited to the context.",
+  "caption": "\u201cI got a bad feeling about this, Harriet.\u201d",
+  "other_text": [
+    {
+      "location": "sign above counter",
+      "text": "CHINA"
+    },
+    {
+      "location": "sign on display case",
+      "text": "RARE CHINA"
+    },
+    {
+      "location": "sign near back shelves",
+      "text": "HANDLE CAREFULLY"
+    },
+    {
+      "location": "top right corner",
+      "text": "3/19/80"
+    },
+    {
+      "location": "bottom right corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 266,
+  "think": 797
+}

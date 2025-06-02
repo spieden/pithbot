@@ -1,0 +1,17 @@
+{
+  "description": "A primitive couple is depicted inside a cave dwelling. One figure is perched precariously on a wooden ladder, attempting to mount a modern smoke detector onto the rocky ceiling. The other figure below expresses exasperation, questioning the expense of the device given their ignorance about what could cause smoke. This scene presents an absurd juxtaposition of Stone Age life with contemporary safety technology. The irony lies in their concern about smoke while living in a cave, a setting inherently linked to fire and smoke production.",
+  "caption": "\"You idiot! ... Twenty bucks for a smoke alarm and we don't even know what the stuff is!\"",
+  "other_text": [
+    {
+      "location": "top right",
+      "text": "1/6/81"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 194,
+  "think": 1054
+}

@@ -1,0 +1,25 @@
+{
+  "description": "A figure rides a camel through a vast desert landscape, with a pyramid visible in the distance under a featureless sky. Strapped to the camel's back is a rolled banner revealing the rider's inner desire. The text on the banner presents a stark contrast between the arid, landlocked environment and the activity of sailing on water. This juxtaposition creates a sense of irony and quiet absurdity, highlighting the rider's longing for escape from their current, harsh reality to a preferred, entirely different setting.",
+  "caption": "null",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "4/24/80"
+    },
+    {
+      "location": "on banner",
+      "text": "I'D RATHER"
+    },
+    {
+      "location": "on banner",
+      "text": "BE SAILING"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 230,
+  "think": 842
+}

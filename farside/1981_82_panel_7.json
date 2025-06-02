@@ -1,0 +1,21 @@
+{
+  "description": "A large figure in a trench coat and fedora lurks in the shadows behind a house at night. The figure holds a container labeled \"SALT\" in one hand. In the foreground, two small snails with prominent eyes are partially hidden by bushes, appearing to look towards the hidden figure. This scene depicts an absurd predator-prey dynamic where a seemingly dangerous stalker targets tiny snails with a common household item. The irony lies in the dramatic, spy-like presentation contrasting with the simple, deadly nature of the salt for the snails.",
+  "caption": "null",
+  "other_text": [
+    {
+      "location": "on the container held by the figure",
+      "text": "SALT"
+    },
+    {
+      "location": "top border",
+      "text": "12/5/81"
+    },
+    {
+      "location": "bottom right corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 218,
+  "think": 681
+}

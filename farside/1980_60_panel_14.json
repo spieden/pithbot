@@ -1,0 +1,17 @@
+{
+  "description": "In an office setting featuring an American flag standard, a formal figure stands at a desk while another figure sits in a chair, spinning rapidly and looking dizzy. The standing figure is evaluating the spinning figure's performance, comparing it unfavorably to a 'former president' who could achieve a specific, high number of spins before stopping. This presents an absurd scenario where chair-spinning endurance is treated as a measure of capability in a seemingly serious context. The irony stems from applying formal evaluation criteria to a trivial and nonsensical action, using a past leader as an arbitrary benchmark.",
+  "caption": "\"I'm afraid you'll have to do better than that, sir. ... The former president could spin twenty-six times before stopping.\"",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "8/27/80"
+    },
+    {
+      "location": "bottom_left",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 226,
+  "think": 623
+}

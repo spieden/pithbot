@@ -1,0 +1,17 @@
+{
+  "description": "Two anthropomorphic forks, one seated reading a newspaper and the other standing holding a note, are experiencing domestic turmoil. The standing fork is distressed, having discovered a note revealing their partner has left them. The note states the partner has eloped with a 'spoon,' highlighting the absurd premise of cutlery forming relationships and engaging in infidelity. The situation is rendered surreal by attributing human emotional drama and relationship conflicts to inanimate objects like forks and spoons. This specific scenario, involving a romantic entanglement between different types of cutlery, creates situational irony based on their functional differences.",
+  "caption": "\"Harry! I found this note from Mary Beth! ... She's run off with a spoon!\"",
+  "other_text": [
+    {
+      "location": "top_left",
+      "text": "Larson"
+    },
+    {
+      "location": "top_right",
+      "text": "12/1/81"
+    }
+  ],
+  "in": 377,
+  "out": 211,
+  "think": 600
+}

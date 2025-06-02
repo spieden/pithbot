@@ -1,0 +1,17 @@
+{
+  "description": "Anthropomorphic carrots are depicted underground. One large carrot appears to be telling a bedtime story to three smaller carrots. The story describes a horrific fate: being yanked from the ground, skinned, boiled, and eaten by mysterious 'creatures.' This scene inverts the typical relationship between humans and carrots, presenting the vegetable as the fearful victim of human consumption, framed as a macabre bedtime tale for the young.",
+  "caption": "\"... And then the creatures yanked him out of the ground, skinned him alive, boiled him, and ate him. The end. Now go to sleep!\"",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "1/21/80"
+    },
+    {
+      "location": "top_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 197,
+  "think": 327
+}

@@ -1,0 +1,25 @@
+{
+  "description": "A snake stands before an audience of other snakes, utilizing a pointer and a diagram on a screen to deliver a lesson. The diagram illustrates a human leg, contrasting a bare lower leg labeled \"NO good\" with a leg wearing a boot labeled \"ok\". This surreal scene depicts snakes conducting a strategic seminar on effective biting locations, ironically reversing the typical predator-prey dynamic and highlighting the absurdity of animals adopting human-like educational methods for predatory purposes. The presentation focuses on the tactical advantage of avoiding boots when targeting human prey.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top left",
+      "text": "Larson"
+    },
+    {
+      "location": "top center",
+      "text": "12/28/81"
+    },
+    {
+      "location": "on screen above leg in boot",
+      "text": "ok"
+    },
+    {
+      "location": "on screen pointing to bare leg",
+      "text": "NO good"
+    }
+  ],
+  "in": 377,
+  "out": 238,
+  "think": 693
+}

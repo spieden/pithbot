@@ -1,0 +1,21 @@
+{
+  "description": "Three men in Wild West attire stand before a wooden sign bearing the name \"OKEEDOKEE CORRAL\". One of the men consults a document, realizing their error. The situation presents an ironic contrast between the men's serious appearance and the comically trivial name of their mistaken location. This highlights the absurd situation of ending up at the \"Okeedokee Corral\" when seeking a different place.",
+  "caption": "\"Well, no wonder! ... This ain't the place.\"",
+  "other_text": [
+    {
+      "location": "sign",
+      "text": "OKEEDOKEE CORRAL"
+    },
+    {
+      "location": "top",
+      "text": "5/19/82"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 198,
+  "think": 1329
+}

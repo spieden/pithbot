@@ -1,0 +1,17 @@
+{
+  "description": "A farmer is shown collecting a basket full of eggs from a hen house. Four chickens, depicted with sack-like bodies and visible legs and heads, sit on nests made of straw. A wooden ladder provides access to the upper nests. One of the chickens expresses extreme anger and plans violence against the farmer due to the egg collection, highlighting an absurd scenario where farm animals harbor murderous intent against their keeper over the product of their own bodies.",
+  "caption": "\"Well, that does it! ... Tomorrow he dies.\"",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "12/30/81"
+    },
+    {
+      "location": "bottom_left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 179,
+  "think": 363
+}

@@ -1,0 +1,17 @@
+{
+  "description": "A king on a viewing platform addresses several armored figures in an arena, outlining the rules of a contest. He declares that the ultimate winner will be the last person remaining alive from the competition. With an unexpected turn, he then announces that the very first event in this potentially deadly contest will be an egg-toss. This creates an absurd juxtaposition between the expectation of brutal combat and the reality of a trivial, non-violent game. The scene highlights the surreal humor found in trivializing a serious trial through an anticlimactic and nonsensical first challenge.",
+  "caption": "\n\u201cAnd the last gladiator left alive will win the contest.\nBut first ... the egg-toss!\u201d",
+  "other_text": [
+    {
+      "location": "top_right",
+      "text": "6/10/80"
+    },
+    {
+      "location": "bottom_left",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 217,
+  "think": 806
+}

@@ -1,0 +1,17 @@
+{
+  "description": "A ship is being broken apart by a large marine creature rising from beneath the waves. High on the mast, a figure with binoculars dramatically announces the sighting using traditional whaling terminology, unaware that the creature is actively destroying their vessel. Other figures are shown falling or clinging to the sinking wreckage. The irony lies in the classic announcement of a whale sighting coinciding with the immediate and fatal attack by the creature itself, turning a moment of potential triumph into one of disaster.",
+  "caption": "\"THAAAAAAR SHE BLOOOOOOOWS!\"",
+  "other_text": [
+    {
+      "location": "top left",
+      "text": "Larson"
+    },
+    {
+      "location": "top center",
+      "text": "2/28/81"
+    }
+  ],
+  "in": 377,
+  "out": 183,
+  "think": 492
+}

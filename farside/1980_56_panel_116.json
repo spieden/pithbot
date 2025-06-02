@@ -1,0 +1,21 @@
+{
+  "description": "A patient reclines on a couch in a psychiatrist's office, speaking to the psychiatrist seated beside him. The irony lies in the patient's complaint of feeling followed, while seemingly oblivious to the psychiatrist's physical presence literally 'following' his session. The setting includes a sign on the wall for 'PSYCHIATRY' and a framed abstract painting. The situation is an absurd play on the concept of paranoia in a therapeutic context.",
+  "caption": "It's quite strange ... almost like I'm being followed.",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "8/14/80"
+    },
+    {
+      "location": "on_sign",
+      "text": "PSYCHIATRY DR. CA..."
+    },
+    {
+      "location": "bottom_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 215,
+  "think": 567
+}

@@ -1,0 +1,21 @@
+{
+  "description": "In a bizarre scene, two figures stand outside a ski lodge at the base of an erupting volcano, while skiers descend nearby. One figure points at the other, seemingly complaining about their assigned duty for the year. The discussion centers on the annual, yet casual, responsibility of ascending the dangerous volcano to perform a ritual sacrifice of a goat. This juxtaposition of a mundane argument with the highly unusual and dangerous act of volcano sacrifice highlights the absurdism and dark humor of the situation. The setting itself, a ski resort on an active volcano, adds to the surreal nature of the environment.",
+  "caption": "\u201cMe? This year it was your turn to go up and sacrifice the goat!\u201d",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "5/13/80"
+    },
+    {
+      "location": "top_right",
+      "text": "Larson"
+    },
+    {
+      "location": "on_building",
+      "text": "SKI LODGE"
+    }
+  ],
+  "in": 376,
+  "out": 184,
+  "think": 259
+}

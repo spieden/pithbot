@@ -1,0 +1,17 @@
+{
+  "description": "Two astronauts in a spaceship observe the Earth depicted as a balloon floating in space, tied by a string. This highly absurd visual presents a surreal vision of our planet's fragility or precarious position in the cosmos. The speaking astronaut's worried expression and quiet suggestion imply a secret or responsibility for this bizarre situation. The scene uses dark humor and irony to comment on humanity's relationship with its home world. It highlights the unexpected and unsettling vulnerability conveyed through the image of a tethered Earth-balloon.",
+  "caption": "\"Listen. I think we better keep this quiet.\"",
+  "other_text": [
+    {
+      "location": "top border",
+      "text": "10/4/80"
+    },
+    {
+      "location": "lower left corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 191,
+  "think": 747
+}

@@ -1,0 +1,25 @@
+{
+  "description": "A taxi driver is in his car with a passenger who has pointed ears, small horns, and a goatee, resembling a demon. The driver looks back at the passenger with an angry expression while gripping the steering wheel. The passenger, wearing a hat and coat, appears to be giving directions. The scene suggests the driver is reacting strongly to being told to drive the demon passenger to 'there', implying a location like Hell. This creates an absurd situation by combining the mundane act of taking a taxi with the surreal passenger and destination.",
+  "caption": "\"Hey, Buddy! Nobody tells me to go there and gets away with it!\"",
+  "other_text": [
+    {
+      "location": "On top of the taxi",
+      "text": "TAXI"
+    },
+    {
+      "location": "License plate",
+      "text": "JR63MS"
+    },
+    {
+      "location": "Bottom right corner",
+      "text": "Larson"
+    },
+    {
+      "location": "Top center",
+      "text": "10/23/80"
+    }
+  ],
+  "in": 376,
+  "out": 253,
+  "think": 803
+}

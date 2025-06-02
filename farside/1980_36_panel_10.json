@@ -1,0 +1,33 @@
+{
+  "description": "This image presents a surreal scenario where a man in a suit is physically embedded within a traffic signal pole, literally experiencing being stuck by the 'Don't Walk' signal. Two utility workers in a City Electric van observe him, implying a bureaucratic or systemic issue rather than a mere accident. The absurdity highlights the feeling of being trapped by rules or systems that dictate movement and progress. The presence of the utility workers suggests that the problem might be a malfunction or a maintenance issue, adding a layer of dark humor to the man's predicament. The situation is both novel and notable due to the literal depiction of being stuck within the infrastructure.",
+  "caption": "This is the place, all right ... and it looks like it's been stuck on \u2018Don\u2019t Walk\u2019 for some time.\u201d",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "5/19/80"
+    },
+    {
+      "location": "Traffic signal box",
+      "text": "PUSH BUTTON FOR SIGNAL"
+    },
+    {
+      "location": "Traffic signal sign",
+      "text": "DON'T WALK"
+    },
+    {
+      "location": "Van side",
+      "text": "CITY ELECTRIC"
+    },
+    {
+      "location": "Van license plate",
+      "text": "A 4W"
+    },
+    {
+      "location": "Bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 338,
+  "think": 688
+}

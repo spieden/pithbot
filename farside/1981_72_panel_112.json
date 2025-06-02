@@ -1,0 +1,21 @@
+{
+  "description": "The scene presents a figure engrossed in a book titled \"CAREERS IN COMPUTERS\" while positioned amidst massive, ringing bells and their ropes. This juxtaposition highlights an absurd contrast between traditional, manual labor, symbolized by the bell ringer's task, and the pursuit of a modern, technological profession. The surreal environment of the bell tower clashes ironically with the forward-looking subject matter of the book. The individual's focused expression amidst the potential cacophony suggests a detachment from their immediate, anachronistic surroundings.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top left",
+      "text": "Larson"
+    },
+    {
+      "location": "top center",
+      "text": "10/27/81"
+    },
+    {
+      "location": "on book cover",
+      "text": "CAREERS IN COMPUTERS"
+    }
+  ],
+  "in": 377,
+  "out": 213,
+  "think": 522
+}

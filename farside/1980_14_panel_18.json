@@ -1,0 +1,17 @@
+{
+  "description": "Two bears are shown on a cliff edge, one actively chewing through the rope of a human climber dangling below. This presents an absurd scenario where predators use calculated sabotage rather than direct attack to secure prey. The situation is a dark inversion of typical climbing dangers, implying a level of premeditation and planning in the bears' hunting strategy. The act of deliberately cutting the rope with teeth introduces a surreal method for bears to acquire food. This highlights the unexpected and darkly humorous nature of the encounter.",
+  "caption": "\"We'll be eating in tonight.\"",
+  "other_text": [
+    {
+      "location": "top_right",
+      "text": "2/1/80"
+    },
+    {
+      "location": "bottom_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 186,
+  "think": 571
+}

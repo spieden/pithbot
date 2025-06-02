@@ -1,0 +1,17 @@
+{
+  "description": "The scene is a corporate office where a large executive, smoking a cigar, sits behind a desk across from a small, shabbily dressed man seated on a chair. Suspended from the ceiling above the desk is a gigantic pencil, its sharpened point hanging over the executive. The absurd scale of the pencil in the mundane office setting creates a surreal environment, satirizing the idea of a company being dominated by its product. The executive's question, posed under this enormous symbol of the product, adds irony to the sales pitch scenario.",
+  "caption": "\u201cSo ... you wanna sell our pencils, do you?\u201d",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "8/13/80"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 197,
+  "think": 518
+}

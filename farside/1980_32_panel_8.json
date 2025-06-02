@@ -1,0 +1,17 @@
+{
+  "description": "A crime scene is depicted with detectives investigating, surrounded by numerous clocks that have been violently damaged, seemingly by the rifle held by one of the investigators. The central irony lies in the detectives having the weapon and motive but being unable to establish the time of death because the very instruments used to measure time have been destroyed. This creates an absurd situation where the focus on a precise detail (time of death) is rendered impossible by the chaotic state of the environment, likely caused by the perpetrator or even the investigators.",
+  "caption": "\u201cWe\u2019ve got the murder weapon and the motive ... now if we can just establish time of death.\u201d",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "5/5/80"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 202,
+  "think": 719
+}

@@ -1,0 +1,17 @@
+{
+  "description": "Two figures discuss the excessive drinking of their household objects. One, the lampshade named Sidney, appears intoxicated, clutching a curtain and holding a glass. Another object, an armchair, lies sprawled on the floor, also seemingly affected. This absurd scenario presents a surreal world where furniture exhibits human-like behaviors, including substance abuse. The casual tone of the conversation provides irony against the bizarre reality.",
+  "caption": "\"Uh-oh, Gladys. ... Looks like your Sidney has had too much to drink again.\"",
+  "other_text": [
+    {
+      "location": "top",
+      "text": "2/11/82"
+    },
+    {
+      "location": "top_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 174,
+  "think": 555
+}

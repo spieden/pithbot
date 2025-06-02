@@ -1,0 +1,21 @@
+{
+  "description": "The scene shows an astronaut standing on the surface of the moon next to an American flag, reading a note, while a rocket ascends into the starry sky in the distance. This depicts the absurd situation of an astronaut being left behind on the moon, highlighting extreme isolation in a surreal environment. The note and the caption reveal that the astronaut was forgotten by the departing crew, creating a sense of abandonment. Footprint tracks leading away from the flag emphasize the recent presence and subsequent departure of others. The dark irony lies in the contrast between the monumental achievement of landing on the moon and the mundane failure of miscommunication or oversight leading to someone being stranded.",
+  "caption": "\u201cDear Henry: Where were you? We waited and waited but finally decided that ...\u201d",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "6/29/81"
+    },
+    {
+      "location": "on the note held by the astronaut",
+      "text": "Where were you?"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 254,
+  "think": 884
+}

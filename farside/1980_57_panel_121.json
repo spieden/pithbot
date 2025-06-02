@@ -1,0 +1,17 @@
+{
+  "description": "Two soldiers are positioned in a trench, with a line of enemy helmets visible over a distant ridge. One soldier is receiving instructions while holding a grenade. The command is specific: pull the pin, throw the grenade, but crucially, refrain from yelling 'Heads!' This implies a previous instance where the soldier inappropriately warned the enemy during an attack. The scenario creates dark irony by injecting sports etiquette into a battlefield context, highlighting a bizarre form of incompetence.",
+  "caption": "\u201cThis time, Johnson, just pull the pin, throw the grenade, and refrain from yelling \u2018Heads!\u2019\u201d",
+  "other_text": [
+    {
+      "location": "top",
+      "text": "8/18/80"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 193,
+  "think": 878
+}

@@ -1,0 +1,17 @@
+{
+  "description": "A group of anthropomorphic figures resembling beach creatures preach repentance on a beach. They hold a sign warning that the tide is coming in. They stand near a sandcastle, inside which sits another figure with a spear and cross. The irony is that their warning concerns an inevitable natural event that will destroy their fragile sand structure. This highlights the absurdism of their misplaced fear and futile efforts against nature's power.",
+  "caption": "null",
+  "other_text": [
+    {
+      "location": "top",
+      "text": "2/3/81"
+    },
+    {
+      "location": "sign",
+      "text": "REPENT! THE TIDE IS COMING IN!"
+    }
+  ],
+  "in": 377,
+  "out": 168,
+  "think": 936
+}

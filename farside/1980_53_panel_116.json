@@ -1,0 +1,25 @@
+{
+  "description": "A sign maker, identified by his company hat and discarded pen, has fallen victim to the very hazard he was warning others about. The partially completed \"DANGER QUICK-SAN\" sign stands askew in the sand, with a trail of wet ink dripping downwards, implying the sign painter was swallowed by quicksand mid-task. This situation presents a dark irony, as the expert creating the warning is consumed by the danger itself. The presence of a sign company's hat adds a layer of specificity and reinforces the painter's professional identity. The desert environment and the unfinished sign highlight the sudden and inescapable nature of the threat.",
+  "caption": "The sign painter",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "8/5/80"
+    },
+    {
+      "location": "On the sign",
+      "text": "DANGER QUICK- SAN"
+    },
+    {
+      "location": "On the hat",
+      "text": "ACE SIGN CO"
+    },
+    {
+      "location": "Bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 262,
+  "think": 189
+}

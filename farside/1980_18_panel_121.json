@@ -1,0 +1,21 @@
+{
+  "description": "In the vastness of space, a sleek, rocket-like vehicle carrying four gleeful, green-skinned alien joyriders speeds past a lone, distressed human inside a classic American space capsule. One alien stands atop the vehicle with wind-blown tendrils, another leans out, while the driver and a passenger inside grin widely. The scene contrasts the human's predicament with the aliens' casual, almost suburban cruising, underscored by a nonsensical, perhaps dismissive, suggestion.",
+  "caption": "\"GET A ZORB!\"",
+  "other_text": [
+    {
+      "location": "top right",
+      "text": "2/25/80"
+    },
+    {
+      "location": "on space capsule",
+      "text": "USA"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 205,
+  "think": 202
+}

@@ -1,0 +1,17 @@
+{
+  "description": "In a hospital room, a patient is almost entirely covered in bandages, lying in bed. Standing beside the bed are a doctor and another man who is heavily bandaged with casts on his arm and leg. The bandaged man is speaking to the doctor, discussing the state of the patient in the bed. The absurd conversation centers on whether the severely injured individual is merely sleeping or has died. This scenario highlights a darkly humorous perspective on injury and mortality within a clinical environment.",
+  "caption": "\u201cSo there he was\u2014this big gorilla just lying there. And Jim here says, \u2018Do you suppose it\u2019s dead or just asleep?\u2019\u201d",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "4/27/81"
+    },
+    {
+      "location": "Bottom left, on the bed frame",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 207,
+  "think": 965
+}

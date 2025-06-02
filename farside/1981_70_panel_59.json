@@ -1,0 +1,21 @@
+{
+  "description": "A spider has written \"Goodbye world\" within the intricate structure of its web. Below, it hangs from a single strand of silk, having tied a noose around its neck. The scene presents the morbid absurdity of an animal committing suicide by hanging, a human method, using its own natural material. This literal and dark depiction is ironic, contrasting the spider's web-weaving skill with its ultimate act of self-destruction. The combination of the familiar web and the shocking act creates a surreal image.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "in the web",
+      "text": "goodbye world"
+    },
+    {
+      "location": "top center",
+      "text": "10/23/81"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 205,
+  "think": 682
+}

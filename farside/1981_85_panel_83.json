@@ -1,0 +1,17 @@
+{
+  "description": "On a dark, starry night under a full moon, a series of footprints ascends a textured hill. The tracks at the bottom are narrow and elongated, resembling human footprints, while those further up the slope transition into wide, webbed shapes characteristic of a duck. This sequence visually depicts a bizarre transformation process occurring under the lunar influence, implying the presence of a creature that changes from a human-like form into a duck, an absurd twist on traditional lycanthropy.",
+  "caption": "The wereduck cometh.",
+  "other_text": [
+    {
+      "location": "top",
+      "text": "12/18/81"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 180,
+  "think": 451
+}

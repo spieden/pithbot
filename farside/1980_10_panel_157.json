@@ -1,0 +1,21 @@
+{
+  "description": "A man crashes cymbals loudly while auditioning in an office setting. Another man sits at a desk covering his ears, indicating the overwhelming nature of the event, while a sign directs people to the audition area. Outside the door, another person waits with cymbals, ready for their turn. This depicts a surreal bureaucratic process for evaluating the ability to make noise, highlighting the absurdity of formal selection for such a task.",
+  "caption": "\"Next!\"",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "1/16/80"
+    },
+    {
+      "location": "sign",
+      "text": "CYMBAL AUDITIONS"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 138,
+  "think": 885
+}

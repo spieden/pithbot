@@ -1,0 +1,25 @@
+{
+  "description": "In front of a store, an elderly man in a hat and coat is riding a coin-operated rocking horse, similar to those typically used by children. Two adults and a child are waiting behind him. The scene presents an absurd inversion of expected behavior, highlighting a moment of peculiar adult indulgence or regression in a mundane setting, contrasting sharply with the waiting family.",
+  "caption": "\u201cOh, all right, Barnaby! ... One more quarter and then we\u2019re going home!\u201d",
+  "other_text": [
+    {
+      "location": "top left",
+      "text": "Larson"
+    },
+    {
+      "location": "top center",
+      "text": "7/20/81"
+    },
+    {
+      "location": "top right sign 1",
+      "text": "SALE PRODUCE DEPT."
+    },
+    {
+      "location": "top right sign 2",
+      "text": "MILK"
+    }
+  ],
+  "in": 377,
+  "out": 230,
+  "think": 454
+}

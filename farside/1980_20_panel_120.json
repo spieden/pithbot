@@ -1,0 +1,21 @@
+{
+  "description": "In a boardroom meeting dominated by a large, brightly colored sign advertising \"Wonker Wieners\" with a graphic of a hot dog, a speaker addresses his fellow businessmen. He delivers the conclusion that the \"Wonker Wiener Company\" is riddled with incompetence. The absurd juxtaposition of the company's product (suggested by the name and sign) and its stated failure highlights the dark humor and irony of the situation.",
+  "caption": "\"And so I\u2019ve reached the conclusion, gentlemen, that the Wonker Wiener Company is riddled with incompetence.\"",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "3/5/80"
+    },
+    {
+      "location": "on_sign",
+      "text": "Wonker Wieners"
+    },
+    {
+      "location": "bottom_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 214,
+  "think": 721
+}

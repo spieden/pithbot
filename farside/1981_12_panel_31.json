@@ -1,0 +1,21 @@
+{
+  "description": "A large crowd of individuals, some with peculiar features, gathers for a demonstration, carrying three blank protest signs.  They collectively hold a prominent banner displaying text that is oriented upside down.  The banner boldly declares the group to be the \"IMBECILES of AMERICA,\" presenting a striking image of self-deprecation and societal commentary.  The scene on the ground is marked by discarded items, adding a touch of realism to the otherwise absurd situation.  The blank signs amplify the sense of ironic pointlessness in their stated identity.",
+  "caption": "null",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "2/2/81"
+    },
+    {
+      "location": "banner",
+      "text": "IMBECILES of AMERICA"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 212,
+  "think": 806
+}

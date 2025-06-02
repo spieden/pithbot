@@ -1,0 +1,17 @@
+{
+  "description": "A group of figures in lab coats examines a vast, imposing machine covered in numerous complex dials, lights, and buttons, suggesting cutting-edge technology. Despite the machine's intricate facade, one figure points out a single, simple button located conspicuously low on the panel. The irony lies in these presumably knowledgeable individuals being baffled by the machine's operation until discovering the most fundamental control. This highlights the absurd situation where expertise can sometimes blind one to the obvious solution amidst overwhelming complexity. The panel presents a novel scenario of advanced technical personnel struggling with a basic function of sophisticated equipment.",
+  "caption": "\u201cWait a minute, gentlemen. ... Here\u2019s the \u2018on\u2019 switch over here.\u201d",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "1/13/82"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 212,
+  "think": 1119
+}

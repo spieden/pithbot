@@ -1,0 +1,25 @@
+{
+  "description": "At a roadside stand selling worms, a bird is haggling with the human vendor over the price of a specific worm. The bird, acting as a discerning customer, points out a flaw in the product, indicating a level of consumer sophistication and communication ability unexpected from a bird. This interaction inverts the typical predator-prey dynamic and consumer roles found in nature. The scene presents a surreal marketplace where birds are the patrons of a worm shop.",
+  "caption": "\"Well, I dunno. This one's a little beak-worn. ... How much do you want for it?\"",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "9/28/81"
+    },
+    {
+      "location": "Sign on stand",
+      "text": "WORMS"
+    },
+    {
+      "location": "Sign on stand",
+      "text": "50\n doz."
+    },
+    {
+      "location": "Bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 246,
+  "think": 249
+}

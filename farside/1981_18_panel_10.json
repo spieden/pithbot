@@ -1,0 +1,21 @@
+{
+  "description": "A couple navigates a mundane car wash environment, receiving sprays of water and passing under a large brush. However, in the back seat, a monstrous green creature reacts with discomfort to the washing process. The driver excitedly points towards the creature, alerting his passenger to its distress as if it were a recurring, expected phenomenon. The absurdity lies in the focus on the creature's reaction to the water rather than its presence as a passenger. This juxtaposes the ordinary setting with a surreal passenger, highlighting the peculiar priorities of the occupants.",
+  "caption": "\"Quick, Agnes! Look! ... There it is again!\"",
+  "other_text": [
+    {
+      "location": "top right",
+      "text": "3/4/81"
+    },
+    {
+      "location": "sign",
+      "text": "CAR WASH"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 215,
+  "think": 1501
+}

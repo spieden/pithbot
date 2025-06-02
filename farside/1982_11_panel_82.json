@@ -1,0 +1,25 @@
+{
+  "description": "A bewildered man stands before the Pearly Gates, traditionally the entrance to heaven, only to find a sign indicating that the location has moved. The sign provides a mundane street address, 4223 Maple Ave., introducing a sense of bureaucratic absurdity and earthly inconvenience into the concept of the afterlife. The scene presents an ironic twist on the expected arrival in paradise, suggesting the spiritual realm is subject to the same logistical challenges as the physical world. This juxtaposition of the sublime and the mundane highlights the surreal nature of the situation.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "Above the gate",
+      "text": "PEARLY GATES"
+    },
+    {
+      "location": "On the gate",
+      "text": "WE'VE MOVED TO 4223 Maple Ave."
+    },
+    {
+      "location": "Top center",
+      "text": "1/30/82"
+    },
+    {
+      "location": "Bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 249,
+  "think": 494
+}

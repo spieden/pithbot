@@ -1,0 +1,25 @@
+{
+  "description": "Mushroom clouds billow over a ruined city reduced to rubble, implying a recent catastrophic event like a nuclear attack. Three ladybugs are depicted navigating the debris, suggesting they have survived the devastation. The scene presents a dark irony, contrasting the vast destruction with the minuscule scale of the survivors who seem to be waiting for the danger to pass. The absurdity lies in the anthropomorphized ladybugs discussing the aftermath of a human-scale catastrophe from their perspective amongst the ruins of Main Street and Cherry Street.",
+  "caption": "\u201cCome on out. ... I think they\u2019re through.\u201d",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "11/19/80"
+    },
+    {
+      "location": "on street sign",
+      "text": "MAIN st."
+    },
+    {
+      "location": "on street sign",
+      "text": "CHERRY"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 240,
+  "think": 378
+}

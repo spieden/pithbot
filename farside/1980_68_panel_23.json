@@ -1,0 +1,17 @@
+{
+  "description": "A very large man is tumbling headfirst over a wall into an unseen area next to a sign that reads \"DO NOT FEED THE ANIMALS\". His companion, a woman holding a purse, stands behind him with an expression of annoyance. The scene creates an absurd and ironic situation where the man himself seems to be treated or falling into an animal enclosure, implicitly becoming the 'animal' not to be fed or perhaps the subject of public spectacle. The woman's reaction emphasizes the social embarrassment of this bizarre public mishap.",
+  "caption": "\"You\u2019re embarrassing me, Warren.\"",
+  "other_text": [
+    {
+      "location": "sign",
+      "text": "DO NOT FEED THE ANIMALS"
+    },
+    {
+      "location": "top",
+      "text": "10/2/80"
+    }
+  ],
+  "in": 376,
+  "out": 193,
+  "think": 526
+}

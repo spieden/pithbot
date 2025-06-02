@@ -1,0 +1,21 @@
+{
+  "description": "The scene depicts a suburban yard where trees have been severely gnawed at the base, indicating activity by beavers. A sign on the fence gate reads \"BEWARE OF BEAVER,\" humorously mirroring common \"Beware of Dog\" signs but warning of a wild animal typically associated with forests and rivers. The irony lies in the mundane suburban setting being threatened by beavers and the understated warning despite the visible damage. This highlights an absurd intrusion of nature's destructive power into a controlled environment. A wooden puppet walks past, seemingly unconcerned by the unusual warning and the damaged trees.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "2/20/81"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    },
+    {
+      "location": "sign on gate",
+      "text": "BEWARE OF BEAVER"
+    }
+  ],
+  "in": 377,
+  "out": 223,
+  "think": 1032
+}

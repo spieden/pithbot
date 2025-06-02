@@ -1,0 +1,17 @@
+{
+  "description": "A man is seated at his desk, speaking on the telephone, while outside his window, another man is being forcefully thrown from a building, trailing a telephone receiver and cord amidst shattered glass and debris. A thought bubble above the man at the desk shows a telephone operator asking if he will accept a collect call. The proposed caller's name, Mr. Aaaaaaaaaa, is a prolonged sound that mimics a scream of distress. This creates an absurd juxtaposition between a routine request for a collect call and the violent, chaotic event occurring simultaneously outside.",
+  "caption": "\u201cYes. Will you accept a collect call from a Mr. Aaaaaaaaaa?\u201d",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "2/9/82"
+    },
+    {
+      "location": "Bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 205,
+  "think": 482
+}

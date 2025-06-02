@@ -1,0 +1,20 @@
+{
+  "description": "A space rocket marked \"U.S.A.\" launches directly from a moon picnic site, blasting off from a cloud of smoke and steam where a green alien's hand is visible, seemingly caught in the exhaust. A picnic basket and a red and white checkered blanket are scattered nearby on the lunar surface, surrounded by conical moon craters. This scene highlights the surreal juxtaposition of human activity (picnicking and space travel) with an alien environment and its inhabitants, implying an absurdly casual and disruptive encounter.",
+  "other_text": [
+    {
+      "location": "top border",
+      "text": "4/17/82"
+    },
+    {
+      "location": "on the rocket",
+      "text": "U.S.A."
+    },
+    {
+      "location": "bottom left corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 204,
+  "think": 275
+}

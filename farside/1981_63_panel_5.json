@@ -1,0 +1,17 @@
+{
+  "description": "Two figures on a large vessel observe a peculiar sight on the open sea. Floating nearby is a large, pea-green sphere with a tattered flag atop a pole protruding from it. The sight is deeply strange and unexpected in this environment, presenting an object unlike any typical maritime vessel. The dialogue reveals the observers' confusion about this bizarre, seemingly abandoned floating object that inexplicably contains skeletons. The contrast between the mundane observation and the surreal object creates an effect of absurd mystery.",
+  "caption": "\"What do you make of it, Earl? ... A small, pea-green boat, drifting way out here\nempty, except for those two little skeletons.\"",
+  "other_text": [
+    {
+      "location": "top",
+      "text": "9/14/81"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 208,
+  "think": 1127
+}

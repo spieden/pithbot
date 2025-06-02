@@ -1,0 +1,25 @@
+{
+  "description": "A man points out a chameleon vendor to a boy, commenting that the vendor was selling the same kind of lizards thirty years prior. The vendor's sign advertises that the chameleons 'change,' but the man's statement implies they are unchanging, highlighting an ironic contrast between the expectation set by the sign and the reality observed over a long period. This suggests an absurd stagnation or perhaps highlights the futility of waiting for something to change that never will.",
+  "caption": "\u201cWell, my gosh, Mr. Turner ... I remember you selling these things thirty years ago!\u201d",
+  "other_text": [
+    {
+      "location": "Sign above vendor",
+      "text": "CHAMELEONS"
+    },
+    {
+      "location": "Sign below 'CHAMELEONS'",
+      "text": "WATCH THEM CHANGE!!"
+    },
+    {
+      "location": "Top border",
+      "text": "10/15/80"
+    },
+    {
+      "location": "Bottom left corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 251,
+  "think": 301
+}

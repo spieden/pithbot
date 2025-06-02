@@ -1,0 +1,61 @@
+{
+  "description": "A suited figure falls down the side of a lighthouse, repeatedly making impact with the structure as indicated by numerous 'WUMP!' sound effects trailing their descent. The trajectory is unnatural, suggesting the figure is bouncing or hitting ledges on the way down, rather than falling freely. This repeated, impactful descent adds an absurd and darkly comedic layer to the scene of someone tumbling from a great height. The figure lies crumpled at the base, emphasizing the finality after the series of impacts.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "9/4/81"
+    },
+    {
+      "location": "top_right",
+      "text": "Larson"
+    },
+    {
+      "location": "middle_left",
+      "text": "WUMP!"
+    },
+    {
+      "location": "top_right",
+      "text": "WUMP!"
+    },
+    {
+      "location": "top_left",
+      "text": "WUMP!"
+    },
+    {
+      "location": "top_right",
+      "text": "WUMP!"
+    },
+    {
+      "location": "middle_left",
+      "text": "WU"
+    },
+    {
+      "location": "middle_left",
+      "text": "WUMP!"
+    },
+    {
+      "location": "middle_left",
+      "text": "WUMP!"
+    },
+    {
+      "location": "middle_right",
+      "text": "WUM P!"
+    },
+    {
+      "location": "middle_right",
+      "text": "UMP!"
+    },
+    {
+      "location": "bottom_left",
+      "text": "WUM"
+    },
+    {
+      "location": "bottom_left",
+      "text": "WUMP!"
+    }
+  ],
+  "in": 377,
+  "out": 438,
+  "think": 408
+}

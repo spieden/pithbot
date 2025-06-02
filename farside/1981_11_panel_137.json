@@ -1,0 +1,21 @@
+{
+  "description": "A large, imposing figure hitchhikes on the side of a road, holding a sign indicating they wish to go 'ANYWHERE'. A small yellow car drives past, carrying two elderly women, one of whom looks back with apprehension. The scene presents irony by suggesting that picking up this unusual, potentially intimidating stranger constitutes a desirable 'spirit of adventure' for the car's elderly occupants. The contrast between the figure seeking an undefined journey and the likely mundane trip of the car's occupants highlights the absurdity of the proposition. The dialogue questions why Sylvia lacks the willingness to embrace this unpredictable opportunity.",
+  "caption": "\u201cC\u2019mon, Sylvia ... where\u2019s your spirit of adventure?\u201d",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "1/30/81"
+    },
+    {
+      "location": "On the sign",
+      "text": "ANYWHERE"
+    },
+    {
+      "location": "Bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 238,
+  "think": 1025
+}

@@ -1,0 +1,29 @@
+{
+  "description": "In a surreal park setting, a rooster, inexplicably dressed in a suit jacket and hat, strides purposefully while holding a sign. The rooster's human-like action of declaring the wishing well 'out of order' injects an element of absurdism, as animals are typically not concerned with public utilities or maintenance. This juxtaposition of a barnyard animal performing a bureaucratic task creates an ironic situation where even magical services like a wishing well are subject to mundane issues like disrepair. The visual incongruity of the dapper rooster acting as a sort of well attendant underscores the panel's nonsensical humor. It presents a world where the natural order is subtly but pointedly disrupted.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "5/24/80"
+    },
+    {
+      "location": "sign_held_by_rooster",
+      "text": "OUT OF ORDER"
+    },
+    {
+      "location": "sign_by_well",
+      "text": "WISHING WELL"
+    },
+    {
+      "location": "sign_by_well",
+      "text": "5\u00a2"
+    },
+    {
+      "location": "bottom_left",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 304,
+  "think": 270
+}

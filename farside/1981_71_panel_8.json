@@ -1,0 +1,17 @@
+{
+  "description": "Two large bears stand near a tree, observing two humans enjoying a picnic with a guitar and book. One bear gestures emphatically, questioning why their impressive fangs and sharp claws imply a diet restricted to mere honey and berries. This dialogue creates irony, juxtaposing the common perception of bears with the bear's self-awareness of its predatory physiology. The scene is absurd, depicting wild animals engaged in a human-like discussion about dietary destiny. The bear's argument implicitly points towards the humans as a potential alternative food source, adding a layer of dark humor.",
+  "caption": "\"C'mon! Look at these fangs! Look at these claws! You think we're supposed to eat just honey and berries?\"",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "10/19/81"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 221,
+  "think": 863
+}

@@ -1,0 +1,17 @@
+{
+  "description": "A single bee in a densely populated honeycomb hive exhibits a distressed expression, eyes wide with apparent frustration. Surrounded by the collective activity of numerous other bees, this particular individual is overwhelmed by the constant noise. The situation presents an ironic and absurd scenario where a creature complains about the inherent sound of its own species in its natural environment. The novel aspect is the anthropomorphic depiction of a bee being driven to distraction by buzzing.",
+  "caption": "\"No more! No more! I can't take it!\" ... That incessant buzzing sound!\"",
+  "other_text": [
+    {
+      "location": "top right",
+      "text": "2/17/82"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 184,
+  "think": 700
+}

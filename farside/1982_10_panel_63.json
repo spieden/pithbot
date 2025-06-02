@@ -1,0 +1,17 @@
+{
+  "description": "A man resembling a stereotypical pirate, featuring an eyepatch and hook hand, is seated at a table having a drink. Across from him, a man in a large sombrero and cowboy attire challenges his identity. The man in the sombrero insists the pirate figure provide proof that he is the legendary bear tamer, Grizzly Adams. The scene presents an absurd situation where a figure strongly associated with the sea is being asked to verify his identity as a famous frontiersman. This juxtaposition creates irony through the wildly improbable nature of the encounter.",
+  "caption": "\"Okay, so you're Grizzly Adams. ... Let's see some proof!\"",
+  "other_text": [
+    {
+      "location": "top left",
+      "text": "Larson"
+    },
+    {
+      "location": "top right",
+      "text": "1/28/82"
+    }
+  ],
+  "in": 377,
+  "out": 201,
+  "think": 942
+}

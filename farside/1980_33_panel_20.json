@@ -1,0 +1,17 @@
+{
+  "description": "An ant stands atop a massive anthill, appearing to address a multitude of other ants clustered below. The scene presents an absurd scenario where an insect takes on the role of a leader delivering a motivational speech. This subverts expectations of ant colony behavior, which is typically governed by instinct and pheromones, not rhetoric. The situation highlights the irony of projecting complex human societal concepts onto a simple animal structure. It serves as a peculiar commentary on collective duty and individual contribution within a group.",
+  "caption": "\"And remember ... ask not what your anthill can do for you, but what you can do for your anthill.\"",
+  "other_text": [
+    {
+      "location": "top left",
+      "text": "Larson"
+    },
+    {
+      "location": "top right",
+      "text": "5/7/80"
+    }
+  ],
+  "in": 376,
+  "out": 201,
+  "think": 875
+}

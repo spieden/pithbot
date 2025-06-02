@@ -1,0 +1,21 @@
+{
+  "description": "Three small figures are hidden within the deep contours of an oversized, olive-green armchair, peering intently at a book. The peculiar choice of reading material, titled 'Little Women', is held open by the central figure. This juxtaposition of diminutive men concealed inside furniture reading a classic novel about women creates an absurd and ironic scenario. A small table next to the chair holds a vase of simple daisies, adding to the domestic setting which contrasts with the unusual activity occurring within the furniture.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top left",
+      "text": "Larson"
+    },
+    {
+      "location": "top right",
+      "text": "6/27/81"
+    },
+    {
+      "location": "on book cover",
+      "text": "Little Women"
+    }
+  ],
+  "in": 377,
+  "out": 199,
+  "think": 369
+}

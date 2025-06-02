@@ -1,0 +1,33 @@
+{
+  "description": "A man in a marriage counseling session is outraged, pointing accusatorily at his wife. He is fixated on the fact that his wife called him \"Bozo\" during the session. His intense reaction to this insult, rather than the underlying marital issues, creates an absurd situation. The wife sits stoically while the counselor observes impassively. This highlights how trivial arguments can derail attempts at resolving deeper relationship problems, often focusing on the symptom (name-calling) rather than the cause.",
+  "caption": "\"Bozo? Did you hear that? She called me a bozo!\"",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "11/11/81"
+    },
+    {
+      "location": "Top right",
+      "text": "Larson"
+    },
+    {
+      "location": "Sign on the wall",
+      "text": "DR. CARL M."
+    },
+    {
+      "location": "Sign on the wall",
+      "text": "SOCIAL"
+    },
+    {
+      "location": "Sign on the wall",
+      "text": "MEN..."
+    },
+    {
+      "location": "Door",
+      "text": "MARRIAGE COUNSELOR"
+    }
+  ],
+  "in": 377,
+  "out": 300,
+  "think": 523
+}

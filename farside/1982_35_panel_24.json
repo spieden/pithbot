@@ -1,0 +1,25 @@
+{
+  "description": "At a diner counter, a customer dines while vultures are inexplicably present behind the counter. A server holds up a sign asking if the customer wants \"carrion to go?\". This presents a surreal scenario where a human establishment caters to the dietary habits of scavengers, ironically offering their natural food source as a takeout option.",
+  "caption": "null",
+  "other_text": [
+    {
+      "location": "sign held by server",
+      "text": "CARRION to go?"
+    },
+    {
+      "location": "window/door sign",
+      "text": "LUCKY'S DINE"
+    },
+    {
+      "location": "top of image",
+      "text": "5/8/82"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 205,
+  "think": 534
+}

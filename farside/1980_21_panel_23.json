@@ -1,0 +1,21 @@
+{
+  "description": "This depicts a surreal scene where the burning city of Chicago is observed by two cows on a hillside, one seemingly reporting the success of a mission. The absurd premise lies in attributing a devastating urban fire, possibly referencing the Great Chicago Fire, to a bovine secret agent designated as 'agent 6373'. The irony highlights the contrast between the scale of the destruction and the mundane, domestic image of cows, suggesting a humorous subversion of typical espionage narratives.",
+  "caption": "It seems that agent 6373 has accomplished her mission.",
+  "other_text": [
+    {
+      "location": "signpost",
+      "text": "CHICAGO"
+    },
+    {
+      "location": "top right",
+      "text": "3/13/80"
+    },
+    {
+      "location": "bottom right corner of the panel",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 211,
+  "think": 581
+}

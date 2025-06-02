@@ -1,0 +1,29 @@
+{
+  "description": "A pirate ship is depicted with pirates participating in a bizarre diving competition. Instead of a standard dive, a pirate is poised on a plank, seemingly about to be forced off. Three pirates act as judges, holding up scorecards displaying diving scores, applying formal athletic evaluation to a situation typically associated with execution. Figures in the water below suggest previous participants, one appearing distressed, highlighting the grim absurdity of treating this act as a sport.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top left",
+      "text": "Larson"
+    },
+    {
+      "location": "top center",
+      "text": "4/21/80"
+    },
+    {
+      "location": "held by pirate judge on the left",
+      "text": "8"
+    },
+    {
+      "location": "held by pirate judge in the middle",
+      "text": "7\n\u00bd"
+    },
+    {
+      "location": "held by pirate judge on the right",
+      "text": "8"
+    }
+  ],
+  "in": 376,
+  "out": 252,
+  "think": 472
+}

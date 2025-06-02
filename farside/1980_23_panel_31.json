@@ -1,0 +1,25 @@
+{
+  "description": "A real estate agent shows a remote gingerbread house, complete with a gumdrop path and gingerbread man figures, to a prospective couple. The scene is unsettlingly marked by a gingerbread man lying face down on the path. The accompanying statement darkly suggests that the previous owner, implied to be the gingerbread man, was cooked after the property was vandalized by \"young punks,\" twisting a classic fairy tale outcome into a mundane real estate transaction gone wrong. The absurdity lies in the juxtaposition of the edible, fairy-tale house and its inhabitants with the grim, real-world implication of violence and property damage, framed within the casual language of a property listing.",
+  "caption": "\"We just listed it. ... Some young punks vandalized the place and cooked the owner.\"",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "3/20/80"
+    },
+    {
+      "location": "Sign near path",
+      "text": "FOR SALE"
+    },
+    {
+      "location": "Sign near path",
+      "text": "STAR REALTY"
+    },
+    {
+      "location": "Bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 279,
+  "think": 385
+}

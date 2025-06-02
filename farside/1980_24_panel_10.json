@@ -1,0 +1,45 @@
+{
+  "description": "Two men peer into a tattoo parlor window at a massive individual lying face down, receiving multiple tattoos of the name 'Sally'. One man points, identifying the person as 'Sally across the street' and expressing surprise that she is with 'some guy'. The humor arises from the scale of the person being tattooed contrasted with the mundane recognition and misinterpretation by the observers, highlighting a surreal moment of public spectacle and gossip. The scene features a small, muscular tattoo artist working on the extremely large client.  Multiple instances of the name Sally are visible on the client's back.",
+  "caption": "\u201cSay, Ernie ... that looks like Sally across the street. ... And she\u2019s with some guy.\u201d",
+  "other_text": [
+    {
+      "location": "above the window",
+      "text": "ZOOTAT"
+    },
+    {
+      "location": "top center",
+      "text": "3/25/80"
+    },
+    {
+      "location": "top right corner",
+      "text": "Larson"
+    },
+    {
+      "location": "on the wall, calendar",
+      "text": "Nov."
+    },
+    {
+      "location": "on the wall, calendar",
+      "text": "MTWTF"
+    },
+    {
+      "location": "on the wall, calendar",
+      "text": "1 2 3 4 5"
+    },
+    {
+      "location": "on the wall, calendar",
+      "text": "6 7 8 9 10"
+    },
+    {
+      "location": "on the wall, calendar",
+      "text": "11 12 13 14"
+    },
+    {
+      "location": "on the client's back, multiple times",
+      "text": "Sally"
+    }
+  ],
+  "in": 376,
+  "out": 429,
+  "think": 862
+}

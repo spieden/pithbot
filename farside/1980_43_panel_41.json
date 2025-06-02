@@ -1,0 +1,25 @@
+{
+  "description": "A monstrous figure with visible stitches and bolts stands beside his elderly, dishevelled creator, who is rummaging through a fast-food bag. The scene is set in a modern, mundane environment contrasting with the subjects' gothic origins. The irony lies in the creator, capable of constructing life, being forgetful about a simple condiment for his meal. The monster points out his own 'bolted on' head, highlighting the absurdity of the creator's forgetfulness in comparison to the very physical, unforgettable nature of his creation.",
+  "caption": "\"What? No tartar sauce? ... You'd forget your own head if it wasn't bolted on!\"",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "6/19/80"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    },
+    {
+      "location": "on fast food bag",
+      "text": "AL'S DRIVE-IN"
+    },
+    {
+      "location": "on fast food bag, repeated",
+      "text": "AL'S DRIVE-IN"
+    }
+  ],
+  "in": 376,
+  "out": 271,
+  "think": 749
+}

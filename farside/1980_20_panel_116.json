@@ -1,0 +1,25 @@
+{
+  "description": "A horse dressed in human clothing, including a trench coat and hat, appears visibly distressed while walking away from a movie theater. The theater's marquee advertises 'GODFATHER'. An accompanying woman attempts to comfort the distraught equine, suggesting its reaction is disproportionate to a film. The scene creates an absurd and surreal image of an animal profoundly affected by a human drama, highlighting the comedic contrast between animal nature and complex human narratives.",
+  "caption": "\u201cGet a hold of yourself! ... It was only a movie, for crying out loud!\u201d",
+  "other_text": [
+    {
+      "location": "top right",
+      "text": "3/7/80"
+    },
+    {
+      "location": "marquee",
+      "text": "GODFATHER GODFA"
+    },
+    {
+      "location": "ticket booth sign",
+      "text": "GODFATHER Admission: Adult 3.50. Chi......"
+    },
+    {
+      "location": "bottom right corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 247,
+  "think": 747
+}

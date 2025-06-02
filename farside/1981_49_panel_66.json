@@ -1,0 +1,21 @@
+{
+  "description": "The scene depicts a medical consultation where an overweight patient, Mr. Farnsworth, is being examined by a doctor. The patient presents with a surreal condition: small, anthropomorphic cows are physically attached to his head, shoulder, and leg. The doctor is delivering a diagnosis based on these bizarre, visible manifestations. The core irony lies in the medical professional diagnosing a literal case of 'having cows,' transforming a common idiom for agitation into a bizarre physical ailment within the clinical setting.",
+  "caption": "\"I'm afraid you've got cows, Mr. Farnsworth.\"",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "7/16/81"
+    },
+    {
+      "location": "Top left",
+      "text": "Larson"
+    },
+    {
+      "location": "Framed sign on wall",
+      "text": "DR. From mr. [scribble]"
+    }
+  ],
+  "in": 377,
+  "out": 221,
+  "think": 1007
+}

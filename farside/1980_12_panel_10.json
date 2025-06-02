@@ -1,0 +1,17 @@
+{
+  "description": "At a restaurant table, a large, ape-like figure in a suit sits opposite a man with a pointed nose and glasses. A waitress, wearing an apron and glasses, presents a tray with two plates of food. The scene combines a conventional dining environment with highly unusual patrons and a bizarre culinary identification challenge, highlighting the absurdity of the situation.",
+  "caption": "\"All right, let's see ... which one's the 'Viva la Vegetarian' and which one's the 'Prime Rib Papa'?\"",
+  "other_text": [
+    {
+      "location": "top_left",
+      "text": "Larson"
+    },
+    {
+      "location": "top_center",
+      "text": "1/24/80"
+    }
+  ],
+  "in": 376,
+  "out": 180,
+  "think": 303
+}

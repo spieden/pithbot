@@ -1,0 +1,17 @@
+{
+  "description": "The scene depicts two researchers or explorers camped in a lush, tropical environment. One man, holding a bowl of soup, expresses dismay at finding an insect in his meal. The humor stems from his precise identification of the offending creature as Drosophila melanogaster, a common fruit fly, using its scientific classification rather than a generic term. This specific, almost pedantic, scientific observation transforms a commonplace complaint about hygiene into an absurdly intellectual one, highlighting the clash between scientific rigor and everyday inconvenience. The setting, a remote camp, makes the presence of insects predictable, yet the precise identification remains unexpected and the source of the comic effect.",
+  "caption": "\"Hey! What's this Drosophila melanogaster doing in my soup?\"",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "8/12/81"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 217,
+  "think": 576
+}

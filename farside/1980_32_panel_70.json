@@ -1,0 +1,17 @@
+{
+  "description": "A couple approaches a massive, ancient tree in a forest. This tree features a prominent, expressive face formed by its bark and a large hollow mouth. The couple carries a knife, presumably to carve their initials into the trunk. The sentient tree speaks, expressing a hostile awareness of their romantic intention. This situation presents an absurd and ironic reversal of the typical passive tree and active carvers dynamic.",
+  "caption": "\u201cSo! The little sweethearts were going to carve their initials on me, eh?\u201d",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "5/1/80"
+    },
+    {
+      "location": "bottom_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 145,
+  "think": 454
+}

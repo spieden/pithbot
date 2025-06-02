@@ -1,0 +1,29 @@
+{
+  "description": "A woman prepares to deploy a monstrous, multi-limbed creature labeled \"Dogaway\" by shoving it out a window with a plank. Outside, dogs are already fleeing in terror from an unseen presence. A man reads instructions, oblivious to the creature's immediate effect and the extreme nature of this dog deterrent. The scene presents an absurd, literal interpretation of scaring dogs away using a terrifying, surreal entity.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top left",
+      "text": "Larson"
+    },
+    {
+      "location": "top center",
+      "text": "1/31/80"
+    },
+    {
+      "location": "on the box",
+      "text": "Dogaway"
+    },
+    {
+      "location": "on crumpled paper",
+      "text": "DOGS BOTHER YOU?"
+    },
+    {
+      "location": "on instruction paper",
+      "text": "INSTRUCTIONS PLACE YOUR DOGAWAY IN YARD. WATCH HOW FAST"
+    }
+  ],
+  "in": 376,
+  "out": 253,
+  "think": 824
+}

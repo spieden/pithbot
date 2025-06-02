@@ -1,0 +1,21 @@
+{
+  "description": "This scene presents a surreal rocket launch where a man communicates instructions via walkie-talkie for initiating pressure from a spigot attached to a giant, furry wall. A long hose runs from this peculiar structure towards a space rocket labeled \"USA,\" suggesting this mundane connection provides the power for lift-off. The casual command to \"start the pressure nice and easy\" highlights the ironic contrast between the high-stakes endeavor of a rocket launch and the low-tech, absurd means of propulsion. The presence of the inexplicable furry wall as the power source introduces an element of pure absurdity into the technological setting.",
+  "caption": "\"Okay, Pete! Start the pressure nice and easy.\"",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "7/25/81"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    },
+    {
+      "location": "on the rocket",
+      "text": "USA"
+    }
+  ],
+  "in": 377,
+  "out": 233,
+  "think": 1075
+}

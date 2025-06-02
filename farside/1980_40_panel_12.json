@@ -1,0 +1,17 @@
+{
+  "description": "Two minuscule individuals sit atop the head of the colossal Sphinx monument. Scattered stone fragments lie beneath the monument's face, which is notably missing its nose. One of the individuals holds a chisel, implying they were responsible for the damage. The accompanying text expresses frustration that the damage occurred due to an insistence on one final blow with the chisel, presenting an absurd and ironic scenario for the monument's altered state. This depiction creates a surreal contrast between the scale of the figures and the monument, and the trivial reason for its disfigurement.",
+  "caption": "\u201cThat\u2019s fine,\u2019 I said. \u2018Good nose,\u2019 I said. But no, you had to go and hit the chisel one more time.\u201d",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "6/9/80"
+    },
+    {
+      "location": "bottom_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 219,
+  "think": 745
+}

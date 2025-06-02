@@ -1,0 +1,21 @@
+{
+  "description": "A suburban backyard barbecue is disrupted by the presence of a large Polaris missile embedded in the ground. The scene depicts a man addressing a woman while standing by the grill, seemingly downplaying the dramatic arrival of the missile. The juxtaposition of a nuclear weapon landing in a mundane setting highlights the absurd and surreal nature of the situation. The casual reaction of the couple and a dog sniffing the missile further emphasizes the dark humor and irony. This creates a sense of unsettling normalcy in the face of an extraordinary and dangerous event.",
+  "caption": "\"Let's not overreact, Agnes. ... For one thing, it was only a dud.\"",
+  "other_text": [
+    {
+      "location": "Top left corner",
+      "text": "Larson"
+    },
+    {
+      "location": "Top center",
+      "text": "10/13/81"
+    },
+    {
+      "location": "On the missile",
+      "text": "POLARIS"
+    }
+  ],
+  "in": 377,
+  "out": 230,
+  "think": 442
+}

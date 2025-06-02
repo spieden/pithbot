@@ -1,0 +1,21 @@
+{
+  "description": "A cleaning woman is depicted jumping towards a banana suspended from the ceiling by a string. Her actions mimic the behavior often associated with primates attempting to reach food. The scene takes place inside a room, with a prominent door sign indicating it is a primate research lab. This creates an ironic and absurd situation where a human subject is exhibiting primate-like behavior within the context of scientific observation.",
+  "caption": "null",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "6/15/81"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    },
+    {
+      "location": "on the door",
+      "text": "PRIMATE RESEARCH LAB"
+    }
+  ],
+  "in": 377,
+  "out": 184,
+  "think": 669
+}

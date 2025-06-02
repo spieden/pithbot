@@ -1,0 +1,17 @@
+{
+  "description": "Two people have apparently crashed in a flying saucer into a landscape dotted with fiery pits under a dark, ominous sky. One figure, emerging from the craft, expresses relief at being alive, while the other stands beside him, seemingly oblivious to the hellish environment they have landed in. The central irony lies in their misplaced optimism about survival in a location strongly resembling the conventional depiction of Hell, where salvation is typically not an option. This juxtaposition of a hopeful human reaction with a clearly infernal setting creates an absurd and surreal situation.",
+  "caption": "\"Thank God, Sylvia! We're alive!\"",
+  "other_text": [
+    {
+      "location": "top right",
+      "text": "12/8/81"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 195,
+  "think": 340
+}

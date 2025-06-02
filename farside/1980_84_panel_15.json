@@ -1,0 +1,17 @@
+{
+  "description": "An artist lies sprawled on the floor, seemingly incapacitated, with his easel and a self-portrait canvas board landed on top of him. Red paint is spilled nearby, and a paintbrush lies abandoned next to his outstretched hand. The painting depicts the artist with wide, startled eyes, eerily mirroring a potential reaction to his current predicament. This surreal scene captures a moment of creative endeavor gone disastrously wrong, where the act of self-representation results in a physical collapse under the weight of the work itself.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top_middle",
+      "text": "12/12/80"
+    },
+    {
+      "location": "top_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 183,
+  "think": 812
+}

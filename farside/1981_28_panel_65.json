@@ -1,0 +1,21 @@
+{
+  "description": "A room is shown after a destructive event where a pogo stick apparently broke a window. The window is shattered outwards with jagged edges, revealing a view of city buildings. Black spots are scattered across the wooden floor. An open red box labeled \"POGO STICK\" lies on the floor, implying the object responsible for the damage. The scene highlights the absurd potential for chaos from a simple, seemingly innocuous toy.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top border",
+      "text": "4/25/81"
+    },
+    {
+      "location": "on a red box",
+      "text": "POGO STICK"
+    },
+    {
+      "location": "bottom left corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 191,
+  "think": 662
+}

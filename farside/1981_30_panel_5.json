@@ -1,0 +1,17 @@
+{
+  "description": "The scene features two figures in a primeval forest observing a third figure near a cave. One figure advises the other to approach the third with caution, emphasizing the need for recognizable courtship behavior. The warning highlights an absurd juxtaposition: the primitive threat of being eaten is mitigated only by successful social signaling. This creates irony by contrasting brutal survival instincts with the nuanced concept of courtship recognition.",
+  "caption": "\"Remember, Thag, approach her carefully. If she doesn't recognize your courtship behavior, she might eat you.\"",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "4/22/81"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 175,
+  "think": 713
+}

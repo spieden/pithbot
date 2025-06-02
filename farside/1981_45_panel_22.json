@@ -1,0 +1,21 @@
+{
+  "description": "The scene presents a suburban interior with a woman looking out a window at a taxi parked outside. The taxi's back seat is occupied by two cows, creating a highly unusual form of transportation for farm animals. This literal and absurd depiction plays on the common idiom, showing the unexpected 'arrival home' of the cows via a taxi. The woman's reaction suggests bewilderment at the bizarre sight unfolding in her front yard.",
+  "caption": "Andrew ... the cows have come home.",
+  "other_text": [
+    {
+      "location": "top of image",
+      "text": "6/22/81"
+    },
+    {
+      "location": "on taxi roof",
+      "text": "TAX"
+    },
+    {
+      "location": "signature",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 197,
+  "think": 1083
+}

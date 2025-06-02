@@ -1,0 +1,21 @@
+{
+  "description": "In a cavernous, infernal setting, a large, horned figure resembling the Devil sits on a throne-like structure, holding a trident. Two smaller, monstrous figures approach him, one holding a fire extinguisher labeled 'FIRE EXTING.', while the other clutches a large, patterned sack. The scene presents an absurd situation where a tool designed to suppress fire is being confiscated in a realm defined by intense heat and flames. The irony highlights the comical futility of bringing such an item to this environment, suggesting a prisoner's desperate, yet illogical, attempt to escape the very nature of his punishment.",
+  "caption": "\u201cYes, sir ... we caught him trying to smuggle this in under his coat.\u201d",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "5/27/80"
+    },
+    {
+      "location": "on fire extinguisher",
+      "text": "FIRE EXTING."
+    },
+    {
+      "location": "bottom left corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 245,
+  "think": 600
+}

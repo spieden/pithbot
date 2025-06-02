@@ -1,0 +1,17 @@
+{
+  "description": "The panel depicts two men and a dog stranded in a boat on choppy water. One man informs the other, identified as Larry, that he lost a straw draw to determine who would be eaten due to a lack of food. The phrase \"fair is fair\" is used ironically to justify this life-or-death decision. The scene presents a darkly comedic situation where survival instincts lead to a lottery for cannibalism. The presence of the dog adds a layer of absurdity to the grim predicament.",
+  "caption": "\u201cFair is fair, Larry. \u2026 We\u2019re out of food, we drew straws\u2014you lost.\u201d",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "12/2/81"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 200,
+  "think": 563
+}

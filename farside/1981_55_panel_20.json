@@ -1,0 +1,21 @@
+{
+  "description": "In an absurd scene, several snakes gather beneath a tree from which a large, unrolled board game hangs. The game is titled 'Playsnake', presenting an ironic twist as the snakes are depicted engaging in a human-like leisure activity based on their own form. The sheer length of the game board suggests an elaborate, perhaps tedious, endeavor for the serpentine players.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "8/7/81"
+    },
+    {
+      "location": "on the game board",
+      "text": "PLAYSNAKE"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 177,
+  "think": 397
+}

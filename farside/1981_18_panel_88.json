@@ -1,0 +1,17 @@
+{
+  "description": "The scene depicts a person lying motionless on the floor inside a room, near a chair and a closed door. A parrot in a cage perched on a stand is present in the room. The parrot appears to be repeating phrases associated with someone trying to gain entry to a house. The situation creates dark irony as the bird asks if anyone is home while a person is clearly within the room but unresponsive.",
+  "caption": "\u201cKnock, knock, knock ... ding-dong, ding-dong ... anybody home? ... knock, knock, knock ...\u201d",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "3/5/81"
+    },
+    {
+      "location": "bottom_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 187,
+  "think": 622
+}

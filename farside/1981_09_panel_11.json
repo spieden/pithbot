@@ -1,0 +1,21 @@
+{
+  "description": "In a prehistoric landscape featuring mammoths and rocky outcrops, a caveman operates a service stand constructed from straw and palm trees. Above the counter, a sign proudly proclaims 'OVER 3 SERVED'. This absurd scene juxtaposes modern business metrics and marketing boasts with a primitive era, highlighting the irony of celebrating such a minimal customer count in a time focused on basic survival. The straw hut resembling a contemporary food stand adds to the surreal blending of different time periods.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top border",
+      "text": "1/17/81"
+    },
+    {
+      "location": "sign above service stand",
+      "text": "OVER 3 SERVED"
+    },
+    {
+      "location": "bottom right corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 201,
+  "think": 597
+}

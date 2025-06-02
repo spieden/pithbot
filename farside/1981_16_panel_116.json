@@ -1,0 +1,21 @@
+{
+  "description": "Inside a cafe, two women are seated when a man with extremely large ears enters. One woman leans in to caution the other specifically about mentioning the man's ears. This creates immediate irony, as the warning directly highlights the man's most prominent feature. The situation is absurd due to the exaggerated size of the man's ears and the explicit attempt to avoid acknowledging them. The interaction underscores the social discomfort surrounding physical differences.",
+  "caption": "\"Oh! Here he comes. ... Now, whatever you do, don't say anything about his ears.\"",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "2/25/81"
+    },
+    {
+      "location": "Top right",
+      "text": "Larson"
+    },
+    {
+      "location": "On door",
+      "text": "CAFE"
+    }
+  ],
+  "in": 377,
+  "out": 212,
+  "think": 1160
+}

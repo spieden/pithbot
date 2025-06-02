@@ -1,0 +1,29 @@
+{
+  "description": "Riot police face away from the viewer, observing a chaotic scene where protesters holding signs are gathered near a building, with one figure lying on the ground. An ice cream truck, shaped like a giant popsicle and cone, drives through, blaring music. The absurd sight of the cheerful, themed vehicle entering the tense confrontation creates a stark, ironic contrast. The specific design of the truck and its presence in this environment introduce a surreal element. The juxtaposition highlights the strange interruptions of the mundane into moments of conflict.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top_date",
+      "text": "8/9/80"
+    },
+    {
+      "location": "top_signature",
+      "text": "Larson"
+    },
+    {
+      "location": "ice_cream_truck",
+      "text": "ICE CREAM"
+    },
+    {
+      "location": "protest_sign_1",
+      "text": "GET THE NO! OUT THE NOW!"
+    },
+    {
+      "location": "protest_sign_2",
+      "text": "DOWN THE MAN NOW."
+    }
+  ],
+  "in": 376,
+  "out": 272,
+  "think": 858
+}

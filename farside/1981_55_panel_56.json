@@ -1,0 +1,17 @@
+{
+  "description": "Two figures are visible inside the lantern room of a lighthouse at night, reacting with evident annoyance. A figure resembling a superhero, complete with cape and boots, is flying in the beam of the lighthouse's searchlight, circling it repeatedly. The flying figure appears disoriented or bothered by the bright light, leaving a trail behind it. This interaction between a powerful, flying being and a standard navigational aid creates a situation of absurd inconvenience for the people operating the light. Their reaction suggests this unusual disturbance is a recurring problem disrupting their duty.",
+  "caption": "\u201cFor God\u2019s sake, kill the lights, Murray\u2014he\u2019s back again!\u201d",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "8/18/81"
+    },
+    {
+      "location": "on the lighthouse tower",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 209,
+  "think": 479
+}

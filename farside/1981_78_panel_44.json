@@ -1,0 +1,17 @@
+{
+  "description": "A red car occupied by two humans is surrounded and dwarfed by numerous colossal ants with large, shiny bodies and prominent mandibles. The occupants appear distressed, trapped within their vehicle in a surreal environment that resembles a giant-sized forest. The scene presents an absurd and terrifying inversion of scale, where humans are insignificant compared to the insects and their surroundings. The man driving expresses disorientation, noting the stark contrast between their current predicament and a mundane highway. This situation highlights themes of being overwhelmed and the unsettling nature of scale distortion.",
+  "caption": "\u201cSomething\u2019s wrong here, Harriet. This is starting to look less and less like Interstate 95.\u201d",
+  "other_text": [
+    {
+      "location": "Bottom left corner",
+      "text": "Larson"
+    },
+    {
+      "location": "Top right corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 204,
+  "think": 907
+}

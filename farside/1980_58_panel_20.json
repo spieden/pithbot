@@ -1,0 +1,21 @@
+{
+  "description": "A large group of people stands under a 'WELCOME AMELIA' banner, many looking skyward or into the distance through binoculars, as if awaiting an arrival. One person in the foreground, also holding binoculars, expresses concern about a roast in the oven. The scene contrasts a seemingly significant public event with a mundane, private worry, highlighting the absurdity of conflicting priorities.",
+  "caption": "\u201cWell, I\u2019m just starting to worry about that roast in the oven, that\u2019s all.\u201d",
+  "other_text": [
+    {
+      "location": "Top left corner",
+      "text": "Larson"
+    },
+    {
+      "location": "Top center",
+      "text": "8/19/80"
+    },
+    {
+      "location": "Banner",
+      "text": "WELCOME AMELIA"
+    }
+  ],
+  "in": 376,
+  "out": 202,
+  "think": 277
+}

@@ -1,0 +1,25 @@
+{
+  "description": "Two gigantic cowboys face off in a dusty street lined with miniature Western buildings. One cowboy, viewed from the back, is significantly larger than the other, who faces forward with an aggressive expression. The absurd scale of the cowboys relative to the town creates a surreal scene where a dramatic showdown feels utterly disproportionate. Their imposing size dwarfs the Silver Saloon and Hotel, typically central elements of a Western town. Tumbleweeds roll past their immense feet.",
+  "caption": "\u201cThis town ain\u2019t big enough for both of us, Redeye.\u201d",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "6/13/80"
+    },
+    {
+      "location": "on the Silver Saloon building",
+      "text": "Silver Saloon"
+    },
+    {
+      "location": "on the Hotel building",
+      "text": "HOTEL"
+    },
+    {
+      "location": "bottom right corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 241,
+  "think": 693
+}

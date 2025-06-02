@@ -1,0 +1,17 @@
+{
+  "description": "A person in a watchtower of a wooden stockade fort reports to their superior. A massive arrow is lodged horizontally through the wooden wall of the fort, indicating a significant, perhaps absurdly large, threat. The person is seemingly relieved despite the obvious danger presented by the oversized projectile.",
+  "caption": "\"First the good news, sir! ... I count only one Indian!\"",
+  "other_text": [
+    {
+      "location": "top left",
+      "text": "Larson"
+    },
+    {
+      "location": "top center",
+      "text": "11/16/81"
+    }
+  ],
+  "in": 377,
+  "out": 152,
+  "think": 258
+}

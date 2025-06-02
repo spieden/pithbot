@@ -1,0 +1,29 @@
+{
+  "description": "This scene depicts an intense moment during a bumper car ride. A man in car number 7 shouts a warning to a man in car number 15 about the aggressive approach of an older woman in car number 11. The woman's menacing grin contrasts sharply with the common perception of older individuals, highlighting an ironic subversion of expectations. The heightened drama and warnings exchanged suggest a level of combativeness typically associated with more serious activities, rendering the leisure setting absurd. This interaction captures the unexpected ferocity that can surface even in trivial pursuits.",
+  "caption": "\u201cWatch it, Randy! ... She\u2019s on your case!\u201d",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "4/8/81"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    },
+    {
+      "location": "on bumper car",
+      "text": "11"
+    },
+    {
+      "location": "on bumper car",
+      "text": "7"
+    },
+    {
+      "location": "on bumper car",
+      "text": "15"
+    }
+  ],
+  "in": 377,
+  "out": 276,
+  "think": 1042
+}

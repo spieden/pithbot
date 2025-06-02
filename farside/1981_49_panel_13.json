@@ -1,0 +1,25 @@
+{
+  "description": "Snakes are depicted lining up to purchase tickets for a movie. The film's marquee advertises a title directly related to their primary predator. This presents a surreal scenario where the animals are seemingly eager to consume media about a creature that hunts them. The situation is deeply ironic, as their natural instinct would be to avoid any encounter with a mongoose. The image highlights the absurdity of their choice to attend this particular cinematic presentation.",
+  "caption": "Larson",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "7/18/81"
+    },
+    {
+      "location": "marquee",
+      "text": "THE MONGOOSE CAME AT MIDNIGHT"
+    },
+    {
+      "location": "marquee",
+      "text": "TH CAM"
+    },
+    {
+      "location": "above ticket window",
+      "text": "ADMISSION"
+    }
+  ],
+  "in": 377,
+  "out": 222,
+  "think": 434
+}

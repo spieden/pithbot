@@ -1,0 +1,21 @@
+{
+  "description": "Two figures are engaged in excavation, one holding a skull while the other chips at a bone embedded in the earth. The site appears to be rich in ancient remains, including pottery and a bull's skull. Unexpectedly, amidst these artifacts, a modern mailbox is unearthed bearing the names \"FRED AND WILMA\". This surreal discovery places fictional characters from a prehistoric animated series within a realistic archaeological context, highlighting the absurdity of treating their world as historical fact. The irony lies in the serious scientific approach applied to uncovering relics of a purely imagined existence.",
+  "caption": "null",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "7/29/80"
+    },
+    {
+      "location": "On mailbox",
+      "text": "FRED AND WILMA"
+    },
+    {
+      "location": "Bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 216,
+  "think": 787
+}

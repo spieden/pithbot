@@ -1,0 +1,25 @@
+{
+  "description": "A bovine figure is visible through the window of a building identified as a barber shop. A sign in the window indicates this unusual barber performs hair styling. The presence of a cow in this human profession is a distinctly absurd situation. The sign's phrasing suggests this cow barber also offers standard haircuts, amplifying the surrealism. This presents a humorous scenario through the unexpected and illogical vocational placement of a farm animal.",
+  "caption": "null",
+  "other_text": [
+    {
+      "location": "Above the cow figure, on the window",
+      "text": "BARBER"
+    },
+    {
+      "location": "On a sign in the window",
+      "text": "I Stile hair too"
+    },
+    {
+      "location": "Top center border",
+      "text": "2/26/82"
+    },
+    {
+      "location": "Bottom left corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 222,
+  "think": 1013
+}

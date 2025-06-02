@@ -1,0 +1,17 @@
+{
+  "description": "This scene features two octopuses in an underwater setting near a cave. One octopus confronts the other, accusingly pointing out suction marks on its tentacles. The accuser sarcastically suggests these marks were acquired at a \"meeting,\" implying infidelity. The irony stems from using a natural biological feature of the octopus as evidence of wrongdoing. The absurdism is highlighted by octopuses engaging in human-like relationship conflict and sarcasm.",
+  "caption": "\u201cOh, yeah? ... And I suppose you got those suction marks at the meeting, too!\u201d",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "5/13/81"
+    },
+    {
+      "location": "bottom_left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 186,
+  "think": 903
+}

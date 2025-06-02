@@ -1,0 +1,17 @@
+{
+  "description": "Two sharks are depicted in the ocean, one near the surface, the other deeper. A small orange fish is shown near the bottom left corner, apparently unnoticed. The scene highlights the absurdity of applying human social rituals, specifically a pick-up line, to the brutal, instinct-driven environment of a predatory feeding frenzy among sharks. This juxtaposition creates irony by contrasting the expected behavior of sharks with a polite, almost romantic, social query. The situation is notable for placing a human-like social interaction within a marine predatory context.",
+  "caption": "\"Say, honey . . . didn't I meet you last night at the feeding frenzy?\"",
+  "other_text": [
+    {
+      "location": "top right",
+      "text": "7/1/80"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 202,
+  "think": 205
+}

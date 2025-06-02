@@ -1,0 +1,17 @@
+{
+  "description": "A group of cavalry soldiers on horseback, led by a figure resembling General Custer, are depicted advancing towards a landscape under an American flag. A man identified as a scout or Native American is shown translating smoke signals coming from the distance. The irony lies in the scout's hesitant and contradictory interpretation of the smoke signals, suggesting uncertainty or ambivalence from the other party. This absurd communication breakdown contrasts sharply with the historical setting of military engagement. The scene highlights the potential for misinterpretation even in seemingly vital strategic communication.",
+  "caption": "\"Excuse me, General Custer, sir ... but smoke signals say, 'Ready ... or ... not ... here ... we ... come.'\"",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "11/17/80"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 209,
+  "think": 779
+}

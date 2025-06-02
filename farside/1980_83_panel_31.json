@@ -1,0 +1,65 @@
+{
+  "description": "Four individuals intensely observe a complex mathematical problem on a blackboard in what appears to be an academic setting. One person writes on the board while the others lean in, offering fervent, sports-like encouragement. The scene presents an ironic juxtaposition of intellectual pursuit with the high-pressure, competitive atmosphere of a championship game. This absurd situation highlights the extreme dedication and perhaps irrational stress sometimes associated with groundbreaking academic work. The nonsensical, sprawling equation further underscores the surreal intensity of the moment.",
+  "caption": "\u201cGo for it, Sidney! You\u2019ve got it! You\u2019ve got it! Good hands! Don\u2019t choke!\u201d",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "12/8/80"
+    },
+    {
+      "location": "Top right",
+      "text": "Larson"
+    },
+    {
+      "location": "On blackboard, top left",
+      "text": "3 \u221a2612\n16.23"
+    },
+    {
+      "location": "On blackboard, top center",
+      "text": "> (x-y)\n10^-3"
+    },
+    {
+      "location": "On blackboard, top right",
+      "text": "\u0398 mx\n\u221a16z^2"
+    },
+    {
+      "location": "On blackboard, middle line 1, left",
+      "text": "(r-26)(r+23)10^-6"
+    },
+    {
+      "location": "On blackboard, middle line 1, right",
+      "text": "= (26.18z)\nX"
+    },
+    {
+      "location": "On blackboard, middle line 2, left",
+      "text": "\u221aymx"
+    },
+    {
+      "location": "On blackboard, middle line 2, right",
+      "text": "(x-mr)"
+    },
+    {
+      "location": "On blackboard, bottom line 1, left",
+      "text": "(16-3.6)\nX"
+    },
+    {
+      "location": "On blackboard, bottom line 1, center",
+      "text": "\u221a28.6"
+    },
+    {
+      "location": "On blackboard, bottom line 1, right",
+      "text": "= 4xzm\n26.zx"
+    },
+    {
+      "location": "On blackboard, bottom line 2, left",
+      "text": "2-y"
+    },
+    {
+      "location": "On blackboard, bottom line 2, center",
+      "text": "11"
+    }
+  ],
+  "in": 376,
+  "out": 629,
+  "think": 889
+}

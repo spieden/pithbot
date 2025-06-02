@@ -1,0 +1,17 @@
+{
+  "description": "A knight on a horse confronts a massive rhinoceros-like creature partially hidden in a cave, mistakenly identifying it as a dragon and an overgrown chameleon. The irony stems from the knight's confident challenge directed at a creature that is clearly not a dragon by conventional fantasy depictions, highlighting a comedic misunderstanding or delusion. The creature's grumpy expression and imposing horn further emphasize the absurdity of the knight's specific insults. The scene presents a surreal twist on the classic knight-vs-dragon trope, replacing the mythical beast with a mundane yet enormous animal hybrid. This subversion creates a humorous scenario based on misidentification and misplaced heroic effort.",
+  "caption": "\u201cCome out of that cave and meet your doom, you miserable dragon! You can\u2019t hide in there forever, you overgrown chameleon!\u201d",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "1/13/81"
+    },
+    {
+      "location": "bottom_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 238,
+  "think": 572
+}

@@ -1,0 +1,17 @@
+{
+  "description": "In an operating room, several surgeons gather around a patient, one holding up a live porcupine with a surgical instrument. A bright surgical lamp illuminates this bizarre scene. The presence of the porcupine inside the abdomen is an absurd and surreal medical finding. The situation offers a darkly humorous, literal interpretation of abdominal pain caused by sharp quills. This unexpected discovery provides a novel explanation for the patient's condition.",
+  "caption": "\"Well, I guess that explains the abdominal pains.\"",
+  "other_text": [
+    {
+      "location": "top",
+      "text": "4/15/81"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 169,
+  "think": 1103
+}

@@ -1,0 +1,17 @@
+{
+  "description": "A figure on a stage dramatically introduces 'the world's greatest escape artist'. In a room just off-stage, presumably the artist, identified as The Great Waldo, is shown desperately attempting and failing to open a simple door marked with a star. This juxtaposition creates stark irony, highlighting the absurdity of a supposed master of escape being defeated by a simple doorknob. The situation is novel in its mundane failure contrasting with the grand expectation.",
+  "caption": "\"And now, ladies and gentlemen, I give you the world's greatest escape artist ... THE GREAT WALDO!\"",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "5/29/80"
+    },
+    {
+      "location": "bottom_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 191,
+  "think": 781
+}

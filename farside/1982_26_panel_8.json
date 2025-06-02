@@ -1,0 +1,25 @@
+{
+  "description": "A dog, scratching its back with its mouth, perceives its own hind leg as a menacing entity referred to as \"The Claw.\" The dog's internal monologue expresses alarm, noting that \"The Claw is the back,\" highlighting a bizarre disconnect from its own body. This moment of self-attack and confused identification is abruptly followed by a non-sequitur thought: \"Where are the children?\" This absurd transition from bodily discomfort to parental concern underscores the surreal and unpredictable nature of the internal life depicted.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "4/2/82"
+    },
+    {
+      "location": "speech bubble near dog's head",
+      "text": "The Claw!\nThe Claw is\nthe back!"
+    },
+    {
+      "location": "speech bubble near dog's head",
+      "text": "Where\nare the\nchildren?"
+    },
+    {
+      "location": "bottom right corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 250,
+  "think": 983
+}

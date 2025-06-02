@@ -1,0 +1,21 @@
+{
+  "description": "A person without a head leans into a window, searching through a box filled with detached human heads. They are presumably looking for their own head among the collection of lost items. Behind the counter, an attendant holds the box of heads, overseeing the search. This depicts a surreal situation where a crucial part of one's body is treated as a misplaced object. The scene highlights the absurdity of seeking personal integrity in a bureaucratic 'Lost & Found' setting.",
+  "caption": "C'mon, c'mon! Either it's here or it isn't!",
+  "other_text": [
+    {
+      "location": "sign above window",
+      "text": "LOST & FOUND"
+    },
+    {
+      "location": "top border",
+      "text": "10/1/81"
+    },
+    {
+      "location": "bottom right corner of drawing",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 218,
+  "think": 884
+}

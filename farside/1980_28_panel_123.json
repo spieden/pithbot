@@ -1,0 +1,21 @@
+{
+  "description": "A stranded man on a sandy island is writing a message in a bottle. He is sitting next to a partially submerged, broken boat and a palm tree. A pelican flies overhead. The man is writing on a piece of paper, repeatedly crossing out the word 'dessert' while trying to spell 'desert'. The absurdity lies in the repeated, persistent misspelling of the location he is trying to escape from, highlighting a potential disconnect or dark humor in his dire circumstances.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top right",
+      "text": "Larson"
+    },
+    {
+      "location": "top center",
+      "text": "4/15/80"
+    },
+    {
+      "location": "message paper",
+      "text": "Help! I'm stranded\non a desser\ndessert dessert\nisland"
+    }
+  ],
+  "in": 376,
+  "out": 215,
+  "think": 306
+}

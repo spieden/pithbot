@@ -1,0 +1,17 @@
+{
+  "description": "A caveman, wearing a leopard-print garment, lectures an audience of other cavemen inside a cave, pointing with a stick at a large drawing on a scroll depicting the tail of a dinosaur with prominent spikes. The lecture involves formally naming a specific part of the dinosaur's anatomy, the tail spikes, after an individual, which is an absurd projection of modern scientific practices into a prehistoric setting. The specific term used, \"thagomizer,\" is a real paleontological term for the spike arrangement on a stegosaur's tail, humorously originating from this very concept. The scene presents a novel situation of early humans conducting an anatomy lesson on dinosaurs with formal nomenclature.",
+  "caption": "\u201cNow, this end is called the thagomizer ... after the late Thag Simmons.\u201d",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "5/27/82"
+    },
+    {
+      "location": "top_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 237,
+  "think": 438
+}

@@ -1,0 +1,17 @@
+{
+  "description": "A heavily armored procession of warriors marches towards a castle, their intimidating appearance undercut by their visible annoyance. A small, persistent red animal follows them along the path, creating an absurd contrast between the serious military endeavor and a domestic nuisance. The humor arises from the mundane problem of a pet disrupting a seemingly significant march. The warriors' helmets reveal exasperated expressions as one calls out to a member named Richard about his dog.",
+  "caption": "\"Hey, Richard! Your stupid dog's following us again!\"",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "6/17/81"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 174,
+  "think": 715
+}

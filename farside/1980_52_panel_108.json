@@ -1,0 +1,21 @@
+{
+  "description": "At the dock for a \"Little Skipper\" boat ride, a large, imposing figure with a thick beard and captain's hat receives a ticket from a much smaller patron. The absurdity lies in this giant individual overseeing a ride named for small operators, creating a striking contrast in scale. This ironic situation features patrons navigating miniature boats designed for limited size. The stern demeanor of the ticket-taker further emphasizes the mismatch between the authority figure and the child-like nature of the attraction.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top_border",
+      "text": "7/30/80"
+    },
+    {
+      "location": "on_sign",
+      "text": "Little Skipper TICKETS"
+    },
+    {
+      "location": "bottom_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 206,
+  "think": 815
+}

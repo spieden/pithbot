@@ -1,0 +1,21 @@
+{
+  "description": "In a costume rental shop named Acme Costume Rental, a large, somewhat worn horse costume is lying on the floor, seemingly stuck or immobile. Two men inside the shop, possibly employees or customers, are observing the costume. One comments that the zipper appears to be stuck again, highlighting the mundane frustration associated with a bizarre and impractical situation.",
+  "caption": "\u201cUh-oh\u2014looks like the zipper has stuck on that thing again.\u201d",
+  "other_text": [
+    {
+      "location": "top left corner",
+      "text": "Larson"
+    },
+    {
+      "location": "top center",
+      "text": "12/11/80"
+    },
+    {
+      "location": "on door window",
+      "text": "ACME\nCOSTUME\nRENTAL"
+    }
+  ],
+  "in": 376,
+  "out": 196,
+  "think": 228
+}

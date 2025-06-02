@@ -1,0 +1,17 @@
+{
+  "description": "A man in a cluttered photographic darkroom excitedly holds up a small photograph, believing it contains definitive proof of a UFO. The image on the photo is a simple, dark square, likely a result of a photographic flaw or a mundane object in the room rather than extraterrestrial life. His wife enters the doorway carrying a tray laden with food, interrupting his moment of supposed scientific discovery with domestic reality. The scene presents an ironic contrast between the man's grand pronouncement and the likely mundane explanation for his 'evidence'. The distinguishing environment is a messy darkroom filled with photographic equipment.",
+  "caption": "\"I've done it! The first real evidence of a UFO! ... And with my own camera, in my own darkroom, and in my own ...\"",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "8/28/80"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 228,
+  "think": 392
+}

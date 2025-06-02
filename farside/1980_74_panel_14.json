@@ -1,0 +1,17 @@
+{
+  "description": "An ostrich hides its head in the ground, believing it is concealed. A lion lies nearby, extending its long tongue into the same hole. The lion's tongue reaches the ostrich's eye underground, creating an ironic situation where the ostrich's naive attempt at hiding is easily bypassed by an unexpected method. This highlights the absurdity of the ostrich's behavior and the predator's simple, yet surreal, counter-tactic.",
+  "caption": "\u201cI seeeeeeee you!\u201d",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "10/30/80"
+    },
+    {
+      "location": "bottom_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 176,
+  "think": 386
+}

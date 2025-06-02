@@ -1,0 +1,25 @@
+{
+  "description": "Two suspicious butchers observe a dog wearing a trench coat and fedora standing silently in front of their meat counter. The irony stems from the butchers treating the anthropomorphic dog like a potential human shoplifter or spy, rather than a non-customer animal. The setting is a butcher shop displaying cuts of meat including sirloin and ground round. Hanging carcasses, one resembling a chicken, are also visible in the background. The humor arises from the absurd notion of a dog loitering suspiciously in a place where its natural interest in the product is misconstrued as criminal intent.",
+  "caption": "\u201cKeep your eye on that guy. ... He hasn\u2019t said or bought a thing for over an hour.\u201d",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "5/14/80"
+    },
+    {
+      "location": "on sign in display case",
+      "text": "SIRLOIN"
+    },
+    {
+      "location": "on sign in display case",
+      "text": "GROUND ROUND"
+    },
+    {
+      "location": "bottom right corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 271,
+  "think": 396
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Three figures in trench coats and fedoras stand nervously at a railing, looking at a sign. They appear apprehensive, with sweat visible on one figure's head. The sign indicates the location is the \"OK CORRAL,\" famous for a historical shootout involving lawmen and outlaws. The irony lies in these figures, who seem to be gangsters or spies, expressing concern about being at this specific location, suggesting they might be out of place or have arrived at the wrong destination for their intended activities. Their reaction to the notorious site of a gunfight implies a comical misjudgment or fear despite their own likely violent professions.",
+  "caption": "\u201cHey look, guys ... maybe we got the wrong address.\u201d",
+  "other_text": [
+    {
+      "location": "Sign above figures",
+      "text": "OK CORRAL"
+    },
+    {
+      "location": "Top center",
+      "text": "11/24/80"
+    },
+    {
+      "location": "Bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 244,
+  "think": 605
+}

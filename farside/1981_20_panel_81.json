@@ -1,0 +1,17 @@
+{
+  "description": "Animals inhabit a human bar setting, with a rabbit and a bear seated at the counter and a moose serving drinks. The scene's absurdity is heightened by the rabbit's dialogue, which concerns the distinctly human financial burden of child-support payments. This juxtaposition of animal characters and a human financial hardship creates irony, suggesting that even in a surreal world, relatable struggles persist. The mundane human problem is placed within an unexpected, non-human context.",
+  "caption": "\"Listen\u2014if you think you got it rough, you should try my child-support payments.\"",
+  "other_text": [
+    {
+      "location": "top left",
+      "text": "Larson"
+    },
+    {
+      "location": "top center",
+      "text": "3/12/81"
+    }
+  ],
+  "in": 377,
+  "out": 189,
+  "think": 340
+}

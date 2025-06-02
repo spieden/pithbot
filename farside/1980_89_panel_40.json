@@ -1,0 +1,21 @@
+{
+  "description": "A creature in a hat and coat opens a large metal freezer locker. Inside, several human figures hang upside down, also wearing hats. The locker door is labeled 'FREEZER LOCKER 37'. This depicts a surreal and disturbing scene of human storage in a freezer, highlighting dark absurdity and inversion of typical roles.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top border",
+      "text": "12/29/80"
+    },
+    {
+      "location": "locker door",
+      "text": "FREEZER LOCKER 37"
+    },
+    {
+      "location": "bottom right corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 385,
+  "out": 174,
+  "think": 887
+}

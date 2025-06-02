@@ -1,0 +1,21 @@
+{
+  "description": "A powerful, muscular werewolf-like creature sits at a vanity table, preparing to put on a flea collar under the light of a full moon visible outside. The creature's need for an ordinary flea collar, despite its monstrous form, creates an absurd juxtaposition of the supernatural and the mundane. The scene highlights the irony of a fearsome beast dealing with a common animal ailment.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "3/10/80"
+    },
+    {
+      "location": "on box on table",
+      "text": "ACME FLEA COLLAR"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 183,
+  "think": 687
+}

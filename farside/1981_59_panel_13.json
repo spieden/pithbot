@@ -1,0 +1,17 @@
+{
+  "description": "A small group of penguins huddles on a tiny ice floe in the vastness of space, surrounded by other distant, disc-like ice floes. The surreal scene depicts the penguins contemplating their potential solitude in the universe while floating in a cosmic ocean. The absurdity lies in placing terrestrial creatures in an alien environment and having them ponder existential questions typically associated with humanity and space exploration. The scale and setting create a stark contrast between the small, familiar penguins and the immense, unknown cosmos they inhabit.",
+  "caption": "\u201cOn the other hand, what if we aren\u2019t alone in the universe?\u201d",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "8/25/81"
+    },
+    {
+      "location": "bottom_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 200,
+  "think": 200
+}

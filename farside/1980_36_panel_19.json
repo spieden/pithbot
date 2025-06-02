@@ -1,0 +1,21 @@
+{
+  "description": "A police officer focuses intently on a car's broken taillight while a pair of legs is clearly visible sticking out of the car's open trunk. A distressed person is seen in the front passenger seat. This highlights the absurd irony of authority figures sometimes fixating on minor infractions while overlooking blatant evidence of significant wrongdoing. The situation creates a dark comedic effect by contrasting the mundane concern over vehicle code with the likely scenario implied by the body parts in the trunk.",
+  "caption": "\u201cWell, well, well\u2014what do we have here? ... I do believe it\u2019s a broken taillight.\u201d",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "5/20/80"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    },
+    {
+      "location": "on motorcycle tank",
+      "text": "POLICE"
+    }
+  ],
+  "in": 376,
+  "out": 222,
+  "think": 697
+}

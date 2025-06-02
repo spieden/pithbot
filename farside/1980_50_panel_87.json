@@ -1,0 +1,29 @@
+{
+  "description": "A person shouting \"HELLO\" from a cliff edge is shown causing a rockslide on the opposite cliff face. The cascading rocks then fall upon the person who initiated the shout, resulting in them expressing pain. The comic presents an absurd scenario where sound waves possess physical force capable of triggering a geological event, leading to an ironic and self-inflicted consequence.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "7/22/80"
+    },
+    {
+      "location": "Panel 1, top left, above person",
+      "text": "HELLOoooooo..."
+    },
+    {
+      "location": "Panel 2, bottom left, near person",
+      "text": "HELLOoooooo..."
+    },
+    {
+      "location": "Panel 2, bottom left, near person",
+      "text": "ow! HEY! OW! OW! HEY! OW!"
+    },
+    {
+      "location": "Panel 2, bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 255,
+  "think": 783
+}

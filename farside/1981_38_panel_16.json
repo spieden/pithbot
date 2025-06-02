@@ -1,0 +1,25 @@
+{
+  "description": "The scene depicts a fork in a dusty path near a formidable rock face. A signpost offers two directions: one labeled \"THE PASS\" leading towards a seemingly open route, and the other labeled \"CUT 'EM OFF\" pointing towards a bottleneck alongside the rock. The path to \"THE PASS\" is marked by scattered individual horseshoe prints, indicating sparse traffic. In stark contrast, the path labeled \"CUT 'EM OFF\" is overwhelmed by a dense, continuous stream of overlapping horseshoe tracks, suggesting a panicked or compulsory stampede. This presents an absurd situation where a multitude of horses are heading towards a clearly undesirable or fatal destination, highlighted by the grim implication of the sign's instruction.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top left",
+      "text": "Larson"
+    },
+    {
+      "location": "top center",
+      "text": "5/26/81"
+    },
+    {
+      "location": "sign pointing left",
+      "text": "THE PASS"
+    },
+    {
+      "location": "sign pointing right",
+      "text": "CUT 'EM OFF"
+    }
+  ],
+  "in": 377,
+  "out": 270,
+  "think": 451
+}

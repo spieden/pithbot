@@ -1,0 +1,21 @@
+{
+  "description": "In a marine biology lab, three researchers examine a bizarre, distressed creature on a wheeled cart, which appears to be a hybrid of an octopus and a penguin wrapped in a large snake body. One scientist measures the creature while another sprays it with a hose, demonstrating an unusual examination method. The researchers express enthusiastic excitement about this unique specimen, highlighting the surreal nature of their discovery. A standard fish diagram on a screen serves as a stark contrast to the complex, unprecedented organism they study. This scene satirizes the potential for unusual opportunities arising from unexpected circumstances, even cries for help.",
+  "caption": "Excuse our excitement, Mr. Farnsworth, but your cries for help have afforded science a rare opportunity.",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "5/1/82"
+    },
+    {
+      "location": "on wall",
+      "text": "MARINE BIOLOGY"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 238,
+  "think": 1194
+}

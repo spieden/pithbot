@@ -1,0 +1,17 @@
+{
+  "description": "A woman stands inside a house, looking out a window at a rainy day, addressing two men who are also looking out. The two men have physical characteristics that resemble classic monster depictions: one is hunched over with a large head and prominent teeth, the other is tall and bulky with a furrowed brow and goatee. The woman suggests they go downstairs and 'build a monster,' creating an absurd irony given their monstrous appearances, implying this activity is a typical boredom cure for them on a rainy day.",
+  "caption": "\"Oh, c'mon now. ... I know! Why don't you two go downstairs today and build a monster?\"",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "4/24/82"
+    },
+    {
+      "location": "bottom_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 207,
+  "think": 270
+}

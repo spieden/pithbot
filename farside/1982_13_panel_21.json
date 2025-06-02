@@ -1,0 +1,69 @@
+{
+  "description": "The image depicts a writer slumped over a desk, surrounded by crumpled papers. The writer is grappling with the opening line of a novel titled \"Moby Dick\". Each discarded paper shows a variation on the famous opening phrase \"Call me Ishmael\", substituting other names like Bill, Larry, Al, Roger, and Warren. This absurd repetition highlights the creative struggle and the pressure to invent an iconic first sentence. The scene ironically contrasts the singular success of Melville's opening with a multitude of less inspired alternatives.",
+  "caption": "null",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "2/6/82"
+    },
+    {
+      "location": "Top right",
+      "text": "Larson"
+    },
+    {
+      "location": "On main paper",
+      "text": "\"MOBY DICK\""
+    },
+    {
+      "location": "On main paper",
+      "text": "CHAPTER 1"
+    },
+    {
+      "location": "On main paper",
+      "text": "Call me"
+    },
+    {
+      "location": "On crumpled paper",
+      "text": "CHAPTER 1"
+    },
+    {
+      "location": "On crumpled paper",
+      "text": "Call me Bill"
+    },
+    {
+      "location": "On crumpled paper",
+      "text": "CHAPTER 1"
+    },
+    {
+      "location": "On crumpled paper",
+      "text": "Call me Larry"
+    },
+    {
+      "location": "On crumpled paper",
+      "text": "CHAPTER 1"
+    },
+    {
+      "location": "On crumpled paper",
+      "text": "Call me Al."
+    },
+    {
+      "location": "On crumpled paper",
+      "text": "CHAPTER 1"
+    },
+    {
+      "location": "On crumpled paper",
+      "text": "Call me Roge"
+    },
+    {
+      "location": "On crumpled paper",
+      "text": "CHAPTER 1"
+    },
+    {
+      "location": "On crumpled paper",
+      "text": "Call me Warren."
+    }
+  ],
+  "in": 377,
+  "out": 516,
+  "think": 1327
+}

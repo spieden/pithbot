@@ -1,0 +1,21 @@
+{
+  "description": "In a city under attack by a giant metallic robot, a man in a trench coat is attempting to control the automaton with a remote control. The remote appears to be malfunctioning, emitting sputtering sounds, prompting the man to urgently instruct his hunchbacked assistant to acquire replacement batteries. The scene is notable for the juxtaposition of a monstrous, city-threatening robot with the mundane problem of dead batteries on its control device.",
+  "caption": "\"Curses! ... Quick, Igor! Run down to the store and get two size D flashlight batteries!\"",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "5/26/80"
+    },
+    {
+      "location": "remote_control",
+      "text": "Click!\nClick!\nsputter!"
+    },
+    {
+      "location": "bottom_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 213,
+  "think": 273
+}

@@ -1,0 +1,17 @@
+{
+  "description": "In a courtroom, a man holds up a banjo as evidence before a judge and a person on the witness stand. The juxtaposition of the solemn legal setting with the specific evidence of a banjo is unusual. The caption directly references the song 'I've Been Working on the Railroad', specifically the part about being in the 'kitchen with Dinah'. The humor arises from the absurd notion that ownership of a banjo found at a crime scene is being linked to the defendant's presence or absence in 'the kitchen with Dinah', a phrase from a folk song. The scenario creates a surreal blend of criminal proceedings and folk music lyrics.",
+  "caption": "\"So! You admit that this is, indeed, your banjo the police found at the scene, but you expect this jury to believe you were never in the kitchen with Dinah?\"",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "4/21/82"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 244,
+  "think": 485
+}

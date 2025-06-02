@@ -1,0 +1,25 @@
+{
+  "description": "A tandem bicycle speeds downhill directly towards a low brick tunnel, accompanied by sound effects indicating a forceful collision. A sign clearly labels the tunnel's restricted height, highlighting the impending absurdity of the situation where the cyclists will undoubtedly impact the structure. The scene captures a moment of imminent, comical disaster resulting from a seemingly oblivious or reckless descent towards a known obstacle.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "5/18/82"
+    },
+    {
+      "location": "above the tunnel",
+      "text": "WUMP!\nWUMP!"
+    },
+    {
+      "location": "on the tunnel",
+      "text": "LOW\nCLEARANCE"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 204,
+  "think": 304
+}

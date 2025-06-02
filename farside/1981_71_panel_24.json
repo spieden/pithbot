@@ -1,0 +1,21 @@
+{
+  "description": "A cow approaches a house, stands on its hind legs, and rings the doorbell. Immediately after performing this human-like action, it runs back onto the lawn and resumes grazing. A confused man in overalls then opens the door to find only a seemingly innocent cow. This absurd scenario contrasts animal behavior with human social rituals, creating a moment of surreal unexpectedness for the farmer.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top right",
+      "text": "10/24/81"
+    },
+    {
+      "location": "speech bubble",
+      "text": "DING DONG!"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 179,
+  "think": 584
+}

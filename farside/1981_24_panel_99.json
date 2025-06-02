@@ -1,0 +1,17 @@
+{
+  "description": "A cavalry unit rides across a dusty landscape, with one soldier conspicuously playing an accordion instead of a bugle while another carries a large American flag. This substitution of a traditional military signaling instrument with a musical one creates an absurd situation disrupting military norms. The scene highlights a humorous breakdown of expected military decorum and functionality. The commander's direct command for a bugle repair, juxtaposed with the presence of the accordion player, underscores the ironic impracticality. It presents a surreal image of military communication gone awry.",
+  "caption": "\u201cYou heard me, Simmons! You get that cursed bugle fixed!\u201d",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "3/25/81"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 198,
+  "think": 826
+}

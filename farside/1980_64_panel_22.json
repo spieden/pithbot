@@ -1,0 +1,21 @@
+{
+  "description": "Various insects are depicted attending a movie screening in a theatre. The film title on the screen, 'Return of the Killer Windshield,' reveals a profound irony, as this common object is a source of immense danger and death from an insect's perspective. The scene is rendered absurd by placing these creatures in a human environment and context, watching a horror film about their real-world predator. The surrealism lies in the anthropomorphism of the insects, engaging in leisure activities like humans, highlighting a dramatic shift in perspective. This portrayal underscores the existential threat a mundane human object poses to this particular community.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "9/17/80"
+    },
+    {
+      "location": "movie screen",
+      "text": "RETURN OF THE KILLER WINDSHIELD"
+    },
+    {
+      "location": "bottom right corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 228,
+  "think": 440
+}

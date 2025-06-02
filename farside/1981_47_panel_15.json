@@ -1,0 +1,21 @@
+{
+  "description": "In a butcher shop, two butchers stand behind a meat display case. One butcher, wearing an orange shirt and white apron, is speaking to a customer in a brown coat and hat. The customer's back is mostly to the viewer. The display case contains various cuts of meat, including what looks like ground meat with a price tag and several steak cuts. Two cuts of meat hang from the ceiling. The speaking butcher appears to be contemplating the value of his assistant, who is also wearing a white apron and purple shirt, holding a meat cleaver.",
+  "caption": "\u201cWell, I never thought about it before ... but I suppose I\u2019d let the kid go for about $1.99 a pound.\u201d",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "7/9/81"
+    },
+    {
+      "location": "On the price tag in the meat display case",
+      "text": "GRND. $1.99"
+    },
+    {
+      "location": "Bottom left corner of the panel",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 260,
+  "think": 288
+}

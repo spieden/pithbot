@@ -1,0 +1,21 @@
+{
+  "description": "A scientist in a lab coat leans over a microscope, peering intently at a slide. His eyes widen and mouth opens in surprise as a speech bubble emerges from his head. The exclamation 'THE EYE! THE EYE!' indicates a moment of profound discovery or shock. The absurdity lies in the dramatic reaction to finding something as common as an eye under scientific scrutiny, creating a humorous contrast between the expected complexities of microscopic study and the pedestrian nature of the subject matter.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "9/26/81"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    },
+    {
+      "location": "speech bubble",
+      "text": "THE EYE!\nTHE EYE!"
+    }
+  ],
+  "in": 377,
+  "out": 197,
+  "think": 585
+}

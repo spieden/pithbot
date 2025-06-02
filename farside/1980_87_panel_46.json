@@ -1,0 +1,17 @@
+{
+  "description": "Two large figures are logrolling on a river, causing the log to spin rapidly. Several ants are also on the surface of the log and appear to be affected by the motion. One of the large figures is yelling.",
+  "caption": "\u201cQuick! Back the other way! Back the other way!\u201d",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "12/23/80"
+    },
+    {
+      "location": "bottom_left",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 139,
+  "think": 330
+}

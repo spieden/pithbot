@@ -1,0 +1,17 @@
+{
+  "description": "Two commentators observe a sporting event from a booth, one of whom wears a blindfold, creating an absurd scenario for visual commentary. The irony lies in a blind individual attempting to describe the action on the court. The commentary itself, referencing a player numbered 26 \"taking his ball and going home,\" applies a petulant behavior idiom to a specific athlete, adding a touch of surreal specificity to the announcement. The scene is set in a packed arena overlooking a basketball court.",
+  "caption": "Well, I guess that does it, folks. ... Number 26 is taking his ball and going home.",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "7/16/80"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 197,
+  "think": 477
+}

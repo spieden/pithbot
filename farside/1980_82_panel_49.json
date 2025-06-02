@@ -1,0 +1,25 @@
+{
+  "description": "A farmer works on a peculiar multi-legged robot, the \"MILK-O-MAN,\" designed for milking. Two cows observe from their stall, exhibiting expressions of fear and apprehension towards the mechanical device. The scene highlights the potential unease and absurdity introduced by awkward automation into a traditional farming environment. The cows' reaction contrasts sharply with the implied purpose of efficiency or ease the farmer might seek. This juxtaposition creates a sense of surreal discomfort from the animals' perspective.",
+  "caption": "\u201cI don\u2019t like the looks of this.\u201d",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "12/2/80"
+    },
+    {
+      "location": "Bottom left",
+      "text": "Larson"
+    },
+    {
+      "location": "On robot box",
+      "text": "MILK-O-MAN"
+    },
+    {
+      "location": "On robot box",
+      "text": "WATCH-HIM-GO!"
+    }
+  ],
+  "in": 376,
+  "out": 239,
+  "think": 847
+}

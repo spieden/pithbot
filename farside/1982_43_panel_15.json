@@ -1,0 +1,29 @@
+{
+  "description": "A sign warning of quicksand advises preparedness. Inside the quicksand are several sandbags, partially submerged and sinking. A hat is also visible, partially swallowed by the treacherous ground. The scene presents an absurd scenario where the very material used for containment or preparation is succumbing to the hazard it warns against. This highlights the futility of conventional methods when faced with an inescapable force.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top right",
+      "text": "6/11/82"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    },
+    {
+      "location": "on sign",
+      "text": "QUICKSAND"
+    },
+    {
+      "location": "on sign",
+      "text": "BE"
+    },
+    {
+      "location": "on sign",
+      "text": "PREPARED"
+    }
+  ],
+  "in": 377,
+  "out": 226,
+  "think": 733
+}

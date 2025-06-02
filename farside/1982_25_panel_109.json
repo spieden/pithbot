@@ -1,0 +1,21 @@
+{
+  "description": "At a street corner, a man in a blue coat is reaching into the pouch of a kangaroo standing next to him. Two other people, a man in a green coat and a woman in a purple coat, are also waiting nearby. A traffic signal pole with a 'DON'T WALK' sign is visible. The situation depicts an unusual and surreal interaction between a person and a wild animal in an urban setting.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "sign",
+      "text": "DON'T WALK"
+    },
+    {
+      "location": "top border",
+      "text": "3/29/82"
+    },
+    {
+      "location": "bottom right corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 186,
+  "think": 231
+}

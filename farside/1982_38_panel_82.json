@@ -1,0 +1,17 @@
+{
+  "description": "A group of highly decorated military officials are gathered around a map. One general, leaning back and laughing, proposes an idea that introduces chaos and unpredictability into strategic planning. The suggestion of a war where participation is universal challenges the conventional military approach of controlled engagements. This presents an absurd scenario where the scale and nature of conflict are completely upended. The reactions of the other officers suggest surprise or discomfort with this unconventional perspective.",
+  "caption": "\"On the other hand, gentlemen, what if we gave a war and everybody came?\"",
+  "other_text": [
+    {
+      "location": "top_left",
+      "text": "5/29/82"
+    },
+    {
+      "location": "top_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 181,
+  "think": 347
+}

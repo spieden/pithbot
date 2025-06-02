@@ -1,0 +1,25 @@
+{
+  "description": "A businessman in a suit is being pulled down into the ground next to a wooden fence. He is reaching upwards, losing his hat and briefcase which is floating slightly above his hand. A sign on the gate next to him reads \"DANGER! CARNIVOROUS LAWN,\" indicating the surreal threat posed by the environment itself. The situation is absurd, presenting a mundane suburban element, the lawn, as a deadly entity. This twists the expectation that danger would be hidden behind the fence, locating it instead directly underfoot.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "2/13/82"
+    },
+    {
+      "location": "on briefcase",
+      "text": "ACME MM SALES, INC."
+    },
+    {
+      "location": "on sign on gate",
+      "text": "DANGER! CARNIVOROUS LAWN"
+    },
+    {
+      "location": "bottom center",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 244,
+  "think": 660
+}

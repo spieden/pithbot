@@ -1,0 +1,17 @@
+{
+  "description": "Two explorers in a dense jungle environment encounter an unexpected hazard. One explorer is struck directly in the face by a pie, revealing a bizarre \"pie trap\" set amidst the foliage. This surreal situation juxtaposes the expected dangers of a remote wilderness, specifically identified as \"Zubutu country\", with a comically domestic form of peril. The irony lies in the sophistication of the trap and the absurdity of its payload in such an environment. It subverts the typical expectations of danger in unexplored territories.",
+  "caption": "\"Pie trap! ... We're in Zubutu country, all right.\"",
+  "other_text": [
+    {
+      "location": "top left",
+      "text": "Larson"
+    },
+    {
+      "location": "top right",
+      "text": "9/16/80"
+    }
+  ],
+  "in": 376,
+  "out": 195,
+  "think": 603
+}

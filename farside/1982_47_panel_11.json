@@ -1,0 +1,21 @@
+{
+  "description": "A large, trench-coated figure wearing a hat and sunglasses stands before an open door, presenting a flyer or book to a lanky, bespectacled man. The item promotes an offer to 'double your IQ or no money back!' The man receiving the offer, despite its inherently absurd nature, readily accepts it, suggesting a lack of critical thinking or a surreal willingness to embrace the impossible. This highlights the irony of someone needing their IQ doubled accepting such an offer so easily.",
+  "caption": "\u201cWell, I dunno. ... Okay, sounds good to me.\u201d",
+  "other_text": [
+    {
+      "location": "Top right corner of the panel",
+      "text": "7/3/82"
+    },
+    {
+      "location": "Top left corner of the panel",
+      "text": "Larson"
+    },
+    {
+      "location": "On the flyer/book",
+      "text": "DOUBLE YOUR IQ OR NO MONEY BACK!"
+    }
+  ],
+  "in": 377,
+  "out": 228,
+  "think": 304
+}

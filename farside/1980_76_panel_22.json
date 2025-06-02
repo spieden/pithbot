@@ -1,0 +1,33 @@
+{
+  "description": "A street performer sits playing an accordion, with a sign advertising 'CHEECHEE The Dancing Monkey'. The monkey, however, is not dancing but is throwing a cup from above. Meanwhile, a large, ominous shadow of a bird of prey is cast on the ground nearby. This presents an ironic scene where the advertised entertainment is not occurring and an external threat is present. The juxtaposition of the mundane street performance, the misbehaving primate, and the predatory shadow creates an absurd situation.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "11/8/80"
+    },
+    {
+      "location": "on sign",
+      "text": "CHEECHEE"
+    },
+    {
+      "location": "on sign",
+      "text": "The"
+    },
+    {
+      "location": "on sign",
+      "text": "Dancing"
+    },
+    {
+      "location": "on sign",
+      "text": "Monkey"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 272,
+  "think": 878
+}

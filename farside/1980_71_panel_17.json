@@ -1,0 +1,17 @@
+{
+  "description": "In a macabre setting resembling a dungeon, a masked figure points towards a man stretched on a rack, presenting it to an elderly couple as if giving a casual demonstration. The scene is populated by other figures also appearing confined, including a man chained to a ball. The surreal juxtaposition of a horrific torture device being showcased as a normal exhibit for tourists highlights the absurd and darkly ironic nature of the situation.",
+  "caption": "\"Now over here, Mom and Dad, is what we call \n'The Rack,' and I'll show you how it works.\"",
+  "other_text": [
+    {
+      "location": "top_right",
+      "text": "10/14/80"
+    },
+    {
+      "location": "bottom_left",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 187,
+  "think": 384
+}

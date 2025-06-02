@@ -1,0 +1,21 @@
+{
+  "description": "This image presents an absurd scenario where a submarine, labeled \"ACE TOY CO.\", is apparently in distress in a body of water. A crew member inside looks fearful, reacting to a seemingly mundane event involving a rubber ducky being put down and someone reaching for a bar of soap. The irony lies in a vessel typically associated with deep-sea warfare facing peril from common bath items, creating a surreal juxtaposition of scale and consequence.",
+  "caption": "\"Get ready! He's put the rubber ducky down and now he's reaching for the bar of soap!\"",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "6/17/80"
+    },
+    {
+      "location": "top_right",
+      "text": "Larson"
+    },
+    {
+      "location": "on_object",
+      "text": "ACE TOY CO."
+    }
+  ],
+  "in": 376,
+  "out": 220,
+  "think": 333
+}

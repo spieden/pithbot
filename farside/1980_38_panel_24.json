@@ -1,0 +1,25 @@
+{
+  "description": "Inside a diner called \"Al's C-Food,\" a chef with bulging muscles and a sailor tattoo gives instructions to two seated customers, one of whom is a ship-in-a-bottle seemingly listening intently. The chef declares that they will \"sail\" at midnight after the establishment closes, suggesting a hidden maritime life or adventure planned within the mundane setting of a restaurant. The juxtaposition of the nautical elements (ship's wheel, ship-in-a-bottle, sailor tattoo, sailing plan) with the diner environment creates an absurd and surreal scenario. The chef's imposing figure and the serious tone of the command add to the unexpectedness of the situation.",
+  "caption": "\u201cOkay, it\u2019s settled\u2014tonight at midnight, when the place is closed, we sail!\u201d",
+  "other_text": [
+    {
+      "location": "Top right, on a sign",
+      "text": "AL'S C-FOOD"
+    },
+    {
+      "location": "Top right, on a sign below the name",
+      "text": "SOLE\nSHRIMP\nLOBSTER\nMUSSELS\nCLAMS\nOYSTERS\nN.E. CLAM C."
+    },
+    {
+      "location": "Top center",
+      "text": "5/28/80"
+    },
+    {
+      "location": "Top left",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 330,
+  "think": 229
+}

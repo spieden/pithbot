@@ -1,0 +1,33 @@
+{
+  "description": "A saber-toothed tiger chases a caveman towards a small cave entrance. The caveman squeezes into the surprisingly tiny opening, causing the larger tiger to become comically stuck while attempting to follow. The caveman emerges to strike the immobilized tiger with a club, demonstrating an unexpected advantage gained from the absurdly small refuge. Later, as the caveman departs, a small, pig-like creature wearing a loincloth also attempts to exit the same tiny cave opening, bonking its head. The scene highlights the surreal nature of the environment where size constraints apply inconsistently and unexpectedly.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "1/11/82"
+    },
+    {
+      "location": "Panel 2, near tiger",
+      "text": "BONK!"
+    },
+    {
+      "location": "Panel 2, near caveman's hand",
+      "text": "BONK!"
+    },
+    {
+      "location": "Panel 2, near caveman's head",
+      "text": "BONK!"
+    },
+    {
+      "location": "Panel 5, near cave opening",
+      "text": "BONK!"
+    },
+    {
+      "location": "Bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 316,
+  "think": 545
+}

@@ -1,0 +1,17 @@
+{
+  "description": "In a dimly lit bar, a dejected man sits alone while a woman walks away, presumably having just rejected him. The bartender leans in, offering a bottle of toothpaste, suggesting that his breath is the reason for his romantic failure. This presents an absurd and ironic juxtaposition of a common social rejection with a trivial, misguided remedy, highlighting the character's likely deeper issues through a comically superficial diagnosis.",
+  "caption": "Rejected again, huh Murray? Have you heard about this new breath-freshening toothpaste?",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "12/14/81"
+    },
+    {
+      "location": "top_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 181,
+  "think": 363
+}

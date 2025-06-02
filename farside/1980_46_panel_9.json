@@ -1,0 +1,25 @@
+{
+  "description": "Two conquistadors, presumably searching for the mythical Fountain of Youth, are depicted in a tropical jungle setting, sweating profusely. They stare in dismay at a modern-looking snack bar serving sodas and snacks, conspicuously labeled \"Yuth's Fountain & Snack Bar\". This surreal juxtaposition of 16th-century explorers with a mundane contemporary establishment creates a strong sense of absurdism. The location is a literal but unmagical 'Fountain of Youth'. The scene presents a humorous irony where the epic quest for eternal life culminates in finding a sugary drink vendor.",
+  "caption": "\u201cWhen we get back, I\u2019m gonna wring de Le\u00f3n\u2019s neck!\u201d",
+  "other_text": [
+    {
+      "location": "top right",
+      "text": "7/2/80"
+    },
+    {
+      "location": "sign on building",
+      "text": "YUTH'S"
+    },
+    {
+      "location": "sign on building",
+      "text": "Fountain & Snack bar"
+    },
+    {
+      "location": "bottom left, above caption",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 267,
+  "think": 463
+}

@@ -1,0 +1,21 @@
+{
+  "description": "An elderly woman stands at a doorway, pointing emphatically while a large, tentacled creature with multiple eyes emerges from the mail slot. The absurdity lies in the juxtaposition of the mundane domestic environment and the monstrous, surreal entity. The woman's calm accusation about a 'pet' creates dramatic irony, highlighting the detachment from the bizarre reality. This situation is notably distinguishing due to the specific appearance of the creature and its interaction with the mail slot. The scene captures a moment of bizarre confrontation at the threshold of a private space.",
+  "caption": "\u201cYoung man, if you\u2019ve got a pet in there ...\u201d",
+  "other_text": [
+    {
+      "location": "Top center of the door",
+      "text": "27"
+    },
+    {
+      "location": "Bottom left corner",
+      "text": "Larson"
+    },
+    {
+      "location": "Top center border",
+      "text": "10/17/80"
+    }
+  ],
+  "in": 376,
+  "out": 230,
+  "think": 320
+}

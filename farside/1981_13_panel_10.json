@@ -1,0 +1,17 @@
+{
+  "description": "A person inside a tent, completely enveloped by a herd of elephants at night, alerts their companion to the sound of footsteps. The scene presents an absurd irony where the character fears the subtle sound of walking while being oblivious to the overwhelming presence of massive animals surrounding them. This highlights a focus on minor anxieties despite facing an immense, obvious danger. The novel environment involves camping directly within a dense gathering of large mammals. The surreal situation underscores the human tendency to fixate on trivial concerns in the face of significant, apparent threats.",
+  "caption": "\"Lester! Wake up! Lester! ... I think I heard footsteps.\"",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "2/10/81"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 197,
+  "think": 473
+}

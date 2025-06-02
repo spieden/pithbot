@@ -1,0 +1,17 @@
+{
+  "description": "A Venus flytrap engages its prey, a fly, in dialogue before consumption, introducing an element of absurdism through its anthropomorphic ability to speak. The plant makes a request for the fly's stereo, demonstrating dark humor and irony as it prioritizes material possessions over the fly's impending fate. This interaction creates a surreal scenario where predator-prey dynamics are overlaid with mundane, social interactions.",
+  "caption": "\"I don't mean to be callous, Earl, but can I have your stereo?\"",
+  "other_text": [
+    {
+      "location": "top right",
+      "text": "3/19/82"
+    },
+    {
+      "location": "top left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 180,
+  "think": 301
+}

@@ -1,0 +1,21 @@
+{
+  "description": "A bearded man crawls across a barren landscape, following a trail of hot dogs leading directly into an open manhole. A sign clearly marked \"CAUTION\" stands next to the hole, yet the man persists in his pursuit of the peculiar bait. This scene presents an absurd situation where immediate, trivial gratification overrides common sense and explicit warnings. The trail of hot dogs and the open manhole create a surreal trap in an otherwise ordinary environment.",
+  "caption": "null",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "5/17/82"
+    },
+    {
+      "location": "on the sign",
+      "text": "CAUTION"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 193,
+  "think": 950
+}

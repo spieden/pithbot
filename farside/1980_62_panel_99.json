@@ -1,0 +1,17 @@
+{
+  "description": "Two cavemen-like figures are depicted in a prehistoric setting outside a cave opening. One character, holding a burning torch and a briefcase, appears to be making a delivery to the other. The scene presents an absurd situation by placing modern concepts like ordering goods and delivery services into an ancient environment with primitive inhabitants. The surrealism is heightened by the anachronistic objects and the casual, contemporary dialogue used by the characters. The delivery itself of unspecified \"stuff\" via briefcase adds another layer of strangeness to the interaction.",
+  "caption": "\"Hey, Oona! Did you order some of this stuff?\"",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "9/8/80"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 196,
+  "think": 397
+}

@@ -1,0 +1,25 @@
+{
+  "description": "The scene depicts sign painters in a workshop, surrounded by the apocalyptic vision of multiple nuclear mushroom clouds visible through a large window. One painter is finishing a sign announcing \"THE END OF THE WORLD IS COMING.\" The profound irony lies in the sign painters' business being ruined by the very event their product predicts, rendering their urgent warning obsolete and their livelihood destroyed. This highlights the absurd juxtaposition of mundane commerce with impending global catastrophe. The reflection of \"ACME SIGN CO.\" adds a touch of surrealism to the backdrop of destruction.",
+  "caption": "\u201cWell, wouldn\u2019t you know it! \u2026 There goes our market for these things!\u201d",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "6/19/82"
+    },
+    {
+      "location": "top left",
+      "text": "Larson"
+    },
+    {
+      "location": "reflected on window",
+      "text": "ACME SIGN CO."
+    },
+    {
+      "location": "on sign being held up",
+      "text": "THE END OF THE WORLD IS COMING"
+    }
+  ],
+  "in": 377,
+  "out": 265,
+  "think": 890
+}

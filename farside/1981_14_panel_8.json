@@ -1,0 +1,17 @@
+{
+  "description": "A historical figure, General Sherman on horseback, stands on a small patch of land or submerged object, attempting to lead a column of soldiers who are wading chest-deep or deeper in water, holding their rifles above the surface. The scene depicts an absurd situation where a famous historical land march is misinterpreted as a literal march into the sea, highlighting the folly of blindly following orders without regard for the environment or context. The soldiers appear resigned or bewildered by the impossible task, contrasting with the General's oblivious commanding posture.",
+  "caption": "\u201cThis is General Sherman! The march to the sea is over! Turn back, I say! HALT! HAAAAAALT!\u201d",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "2/12/81"
+    },
+    {
+      "location": "bottom_left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 211,
+  "think": 640
+}

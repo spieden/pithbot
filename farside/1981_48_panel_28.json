@@ -1,0 +1,21 @@
+{
+  "description": "Two snakes are on a stage with a grassy backdrop, facing an audience of seated snakes in theater seats. One snake dramatically declares, \"I'll come back to you, Sidney!...But I won't crawl!\" This statement is absurd and ironic because crawling is the natural form of locomotion for snakes. The image presents a surreal scenario where snakes participate in a human-like theatrical performance and audience.",
+  "caption": "null",
+  "other_text": [
+    {
+      "location": "speech bubble",
+      "text": "I'll come back to you, Sidney!...But I won't crawl!"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    },
+    {
+      "location": "top center",
+      "text": "7/10/81"
+    }
+  ],
+  "in": 377,
+  "out": 201,
+  "think": 878
+}

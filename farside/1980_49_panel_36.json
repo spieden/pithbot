@@ -1,0 +1,25 @@
+{
+  "description": "A man carrying a briefcase for 'Al's Rat Control' stands at a doorstep, greeted by an entity composed entirely of rats within a coat and hat. This surreal situation presents a literal embodiment of the pest problem answering the door, creating an absurd role reversal where the vermin are in control and seemingly rejecting the exterminator's services. The scene is darkly humorous, highlighting the futility of conventional solutions when the problem itself has become sentient and capable of negotiation or dismissal. The unusual 'person' at the door is a striking and novel visual.",
+  "caption": "\"I'm sorry, we did call an exterminator ... but we've changed our minds.\"",
+  "other_text": [
+    {
+      "location": "top left",
+      "text": "Larson"
+    },
+    {
+      "location": "top center",
+      "text": "7/17/80"
+    },
+    {
+      "location": "on briefcase",
+      "text": "AL'S RAT CONTROL"
+    },
+    {
+      "location": "on doormat",
+      "text": "WELCOME"
+    }
+  ],
+  "in": 376,
+  "out": 264,
+  "think": 317
+}

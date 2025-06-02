@@ -1,0 +1,17 @@
+{
+  "description": "A large, stern-looking woman in a floral apron confronts a man in elaborate, damaged clothing who carries a spiked mace. The man appears disheveled and guilty, having clearly been in some sort of physical altercation while wearing his supposedly new suit. The scene presents an absurd domestic confrontation where the concern is not the violence itself, but the state of one's expensive attire. The juxtaposition of medieval-style weaponry and dress with a typical scolding about ruined clothes highlights the mundane consequences of extraordinary actions.",
+  "caption": "\"So! You've been fighting again! ... And in your new suit, too!\"",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "6/20/80"
+    },
+    {
+      "location": "bottom_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 200,
+  "think": 415
+}

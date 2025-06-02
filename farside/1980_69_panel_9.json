@@ -1,0 +1,17 @@
+{
+  "description": "Two figures resembling executioners or guards are attempting to operate an electric chair. Instead of checking the electrical connections directly, one is using a handheld device to seemingly \"click\" or adjust contact points on the wall next to the chair. The condemned figure strapped into the chair appears distressed and sweating, while the executioners discuss fixing the apparent malfunction with detached, casual language, treating the fatal procedure like a simple technical issue. This approach underscores the bureaucratic and dehumanizing aspects of the process, reducing a human life to a faulty circuit.",
+  "caption": "\u201cThe contact points must be dirty. ... Just click it up and down a few times.\u201d",
+  "other_text": [
+    {
+      "location": "top_right",
+      "text": "10/9/80"
+    },
+    {
+      "location": "bottom_left",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 206,
+  "think": 368
+}

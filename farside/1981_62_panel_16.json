@@ -1,0 +1,17 @@
+{
+  "description": "Amidst the apocalyptic backdrop of a nuclear mushroom cloud and turbulent landscape, a couple is safely inside an underground bunker. One person, pointing emphatically, demands the other return above ground to retrieve a pet bird. This highlights the absurd contrast between imminent global destruction and trivial domestic concerns. The scene underscores the ironic persistence of mundane priorities even in the face of existential threat. It's a darkly humorous commentary on human nature's capacity for misplaced focus.",
+  "caption": "\"Arnold! The bird! The bird! ... You get back up there and get the bird!\"",
+  "other_text": [
+    {
+      "location": "top",
+      "text": "9/9/81"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 185,
+  "think": 558
+}

@@ -1,0 +1,21 @@
+{
+  "description": "The panel depicts a large cape buffalo partially obscured by tall grass, with a tic-tac-toe grid marked on its rear. The seemingly deadly game of encountering a wild buffalo is satirically recontextualized as a trivial board game played directly on the animal. This juxtaposition of the dangerous reality of African wildlife with the mundane absurdity of tic-tac-toe creates a sense of irony and surrealism. The image subverts expectations about both hunting and games, presenting a novel and unexpected scenario.",
+  "caption": "Africa's deadliest game",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "1/21/82"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    },
+    {
+      "location": "on the buffalo's rear",
+      "text": "X|\u00d8|X\n---\n\u00d8| |\u00d8\n---\n\u00d8| |X"
+    }
+  ],
+  "in": 377,
+  "out": 232,
+  "think": 689
+}

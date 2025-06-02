@@ -1,0 +1,17 @@
+{
+  "description": "This scene subverts the archetypal Western bar confrontation. A seemingly tough cowboy, with a menacing stance and attire, corners a smaller man at the bar. Instead of demanding money or instigating a fight, the intimidating figure aggressively poses a specific mathematical query. The absurdity lies in the complete mismatch between the aggressive posture and the intellectual nature of the question asked in this setting. This creates a jarringly humorous situation that defies typical genre expectations.",
+  "caption": "\u201cI asked you a question, buddy. ... What's the square root of 5,248?\u201d",
+  "other_text": [
+    {
+      "location": "top of the image",
+      "text": "1/8/82"
+    },
+    {
+      "location": "on the bar",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 192,
+  "think": 683
+}

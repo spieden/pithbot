@@ -1,0 +1,17 @@
+{
+  "description": "Humans in a small car find themselves in a surreal environment where they are dwarfed by gigantic ants and vegetation. The situation is rendered absurd by the driver's mundane comparison of the perilous insect-infested path to a busy highway. This scale reversal highlights the fragility of human perspective when confronted with an overwhelmingly alien world. The scene presents a novel predicament of navigating a seemingly familiar space transformed into a monstrous and unfamiliar landscape. The driver's comment injects dark humor into the bizarre and threatening circumstances.",
+  "caption": "\"Something's wrong here, Harriet. This is starting to look less and less like Interstate 95.\"",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "11/19/81"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 204,
+  "think": 426
+}

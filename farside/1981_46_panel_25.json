@@ -1,0 +1,21 @@
+{
+  "description": "A dog wearing a pilot's uniform, including a hat and jacket with wings insignia, stands in the cockpit doorway of an airplane, holding a book titled 'CAPTAIN MANUAL' upside down. Human passengers seated in the cabin appear uneasy, with one man looking back at the dog with wide eyes and a furrowed brow. The scene presents the absurd and surreal situation of a dog in command of an aircraft, highlighting a profound lack of confidence in the pilot's competence through the visual gag and the passengers' reactions. The humor derives from the unexpected and unsettling juxtaposition of a domestic animal in a role of critical responsibility, underscoring a theme of misplaced trust or authority. This specific scenario involves a canine pilot in a commercial airplane cabin, observed by human passengers.",
+  "caption": "\u201cGod help us all.\u201d",
+  "other_text": [
+    {
+      "location": "Top center of the panel border",
+      "text": "7/2/81"
+    },
+    {
+      "location": "On the book held by the dog",
+      "text": "CAPTAIN MANUAL"
+    },
+    {
+      "location": "Bottom left corner, signature",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 273,
+  "think": 375
+}

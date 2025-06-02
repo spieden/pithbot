@@ -1,0 +1,17 @@
+{
+  "description": "Two large yellow flowers with surprised expressions are depicted standing in a grassy field. On the ground nearby rests a pair of oversized garden shears, which the flowers are observing with fear. One flower speaks to another, indicating the shears are actively moving towards them. This scene portrays the surreal concept of sentient flowers fearing a gardening tool, reframing the act of pruning as a predatory event from the perspective of the flora.",
+  "caption": "\u201cThere! There! See it, Larry? ... It moved a little closer!\u201d",
+  "other_text": [
+    {
+      "location": "top_border",
+      "text": "3/2/82"
+    },
+    {
+      "location": "bottom_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 178,
+  "think": 584
+}

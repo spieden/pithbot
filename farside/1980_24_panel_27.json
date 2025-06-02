@@ -1,0 +1,21 @@
+{
+  "description": "An archaeologist exploring a cave discovers a prehistoric painting of a mammoth and a bovid. Illuminated by his flashlight, a speech bubble emerges from the ancient artwork. This bubble contains text advertising companionship, a surreal juxtaposition of the Paleolithic era and modern communication methods. The scene presents the absurd irony of finding what amounts to ancient graffiti or a solicitation within significant historical art. It subverts expectations by suggesting that even deep in the past, human concerns might have included such mundane exchanges.",
+  "caption": "null",
+  "other_text": [
+    {
+      "location": "top",
+      "text": "3/26/80"
+    },
+    {
+      "location": "speech bubble",
+      "text": "FOR GOOD TIME CALL OONA ANAG-AX."
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 202,
+  "think": 803
+}

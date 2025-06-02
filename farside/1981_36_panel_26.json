@@ -1,0 +1,17 @@
+{
+  "description": "On a stage, a presenter introduces the author of a book titled \"Mind over Matter.\" However, the author, a visibly overweight man, is shown physically stuck trying to squeeze through a narrow gap between a curtain and a wooden beam to get onto the stage. This predicament creates a sharp irony, directly contradicting the premise of his book which suggests mental power can overcome physical limitations. The scene highlights an absurd failure of \"mind over matter\" in a simple physical act. An audience waits, witnessing the author's struggle.",
+  "caption": "\"And so, without further ado, here's the author of Mind over Matter ...\"",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "5/20/81"
+    },
+    {
+      "location": "Right side, vertically",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 202,
+  "think": 587
+}

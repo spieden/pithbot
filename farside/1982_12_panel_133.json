@@ -1,0 +1,17 @@
+{
+  "description": "Two individuals in a cave or dig site are examining small, round objects scattered on the ground. One holds a pickaxe, while the other inspects a retrieved object, discussing its apparent freshness despite its presumed age. A large, dark shadow of a dinosaur with sharp teeth and claws looms directly behind them, suggesting the objects are recently laid eggs and the creature is the mother. The scene creates dramatic irony as the characters remain oblivious to the imminent threat and the true, recent origin of their discovery.",
+  "caption": "\"Millions of years old and they look as if they were laid yesterday!\"",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "2/4/82"
+    },
+    {
+      "location": "bottom_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 194,
+  "think": 429
+}

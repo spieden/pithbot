@@ -1,0 +1,33 @@
+{
+  "description": "In a diner setting, a large man is depicted intently eating large green pickles with a fork and knife. Behind him, a sign prominently advertises \"Today's Special: FROG LEGS FRESH!\". The scene presents an absurd situation where the advertised special is clearly not what the customer is consuming, creating a humorous contrast and implying either a bizarre culinary deception or a surreal reality where pickles are served as frog legs.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "5/7/81"
+    },
+    {
+      "location": "sign on wall",
+      "text": "Today's Special"
+    },
+    {
+      "location": "sign on wall",
+      "text": "FROG LEGS"
+    },
+    {
+      "location": "sign on wall",
+      "text": "FRESH!"
+    },
+    {
+      "location": "counter",
+      "text": "MENU"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 261,
+  "think": 469
+}

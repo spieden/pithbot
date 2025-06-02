@@ -1,0 +1,17 @@
+{
+  "description": "A snake, dressed in a suit and fedora, sits at a table smoking a cigar, evoking a figure from a crime drama. Another snake, seemingly arriving, addresses the seated one by the name \". The humor stems from the literal application of this name to a creature known for its length, creating an absurd situation. This parodies noir tropes by casting snakes in human roles and using wordplay related to their natural form. The scene highlights the comical juxtaposition of animal nature with human societal conventions.",
+  "caption": "\u201cSo ... you must be the one they call Mr. Long.\u201d",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "12/7/81"
+    },
+    {
+      "location": "bottom center above caption",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 198,
+  "think": 512
+}

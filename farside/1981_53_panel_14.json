@@ -1,0 +1,17 @@
+{
+  "description": "A mailman stands at a gate talking to a resident, attempting to deliver a massive wooden horse on wheels that looms behind him. The surreal scale of the object, resembling a Trojan horse, is juxtaposed with the mundane setting of a suburban street and a routine delivery interaction. The irony lies in the mailman having the wrong address for this extraordinarily large item. The absurdity is heightened by the recipient seemingly expecting such a delivery, just at a different 'big place'. This highlights the comical disruption of everyday life by the unexpected and the misplaced.",
+  "caption": "\u201cNo ... this is 221 Chestnut Drive. ... You want the big place around the corner.\u201d",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "8/3/'81"
+    },
+    {
+      "location": "bottom_left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 211,
+  "think": 278
+}

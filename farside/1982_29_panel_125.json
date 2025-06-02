@@ -1,0 +1,21 @@
+{
+  "description": "A bird is diligently building its nest in a tree, carrying a twig, while the ground directly below is cordoned off by barriers marked as a \"CONSTRUCTION AREA.\" This juxtaposition creates an absurd scenario where natural construction proceeds unimpeded above a human-defined zone of activity. A man in a hat and coat observes the scene, perhaps contemplating the arbitrary nature of these boundaries from a non-human perspective. The irony lies in the contrast between the purposeful, instinctive building of the bird and the presence of the stalled or designated human construction area. The environment features trees, grass, and simple landscape features framing the central elements.",
+  "caption": "null",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "4/14/82"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    },
+    {
+      "location": "bottom center",
+      "text": "CONSTRUCTION AREA"
+    }
+  ],
+  "in": 377,
+  "out": 229,
+  "think": 404
+}

@@ -1,0 +1,17 @@
+{
+  "description": "Two colossal monsters, one orange and hairy, the other green and spiky, tower over city skyscrapers, casually encountering each other amidst the urban landscape. One monster holds a tiny car in its claw, while a small airplane flies overhead, underscoring the immense scale of the creatures relative to their environment. The absurdity lies in the mundane nature of their interaction, remarking on the improbability of meeting someone in such a vast setting, despite their own dominating presence within it. This highlights the ironic contrast between the monstrous, destructive context and the trivial, human-like social exchange.",
+  "caption": "\u201cHey! Is that you, Dave? ... Small world!\u201d",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "10/20/80"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 209,
+  "think": 308
+}

@@ -1,0 +1,33 @@
+{
+  "description": "A massive herd of safari animals, including giraffes, elephants, rhinos, and ostriches, stampedes towards a fenced-off NASA facility. A large rocket stands ready for launch within the compound. A military policeman inside a guard booth frantically reports the approaching animals over the phone. The scene presents an absurd clash between the natural world and a high-security space program environment. The guard's call highlights the surreal and unexpected nature of the event.",
+  "caption": "\"Something big's going down, sir! ... They're heading your way now!\"",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "4/17/80"
+    },
+    {
+      "location": "top left building",
+      "text": "Larson"
+    },
+    {
+      "location": "on rocket",
+      "text": "USA"
+    },
+    {
+      "location": "on guard's helmet",
+      "text": "MP"
+    },
+    {
+      "location": "on guard booth",
+      "text": "NASA"
+    },
+    {
+      "location": "on stop sign",
+      "text": "STOP"
+    }
+  ],
+  "in": 376,
+  "out": 287,
+  "think": 410
+}

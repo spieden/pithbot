@@ -1,0 +1,21 @@
+{
+  "description": "Two people are violently ejected through a shattered window, falling towards the street below. This chaotic scene unfolds directly above a sign advertising \"Beginning Dance.\" The image creates a stark, absurd contrast between the expected gentle movements of a dance class and the dramatic, destructive exit. The irony suggests that the \"beginning dance\" was unexpectedly vigorous or disastrous.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "6/11/81"
+    },
+    {
+      "location": "sign",
+      "text": "BEGINNING DANCE"
+    },
+    {
+      "location": "bottom_left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 175,
+  "think": 455
+}

@@ -1,0 +1,17 @@
+{
+  "description": "A speaker on a stage introduces a man celebrated for conquering formidable mountains like Everest, the Matterhorn, and Kilimanjaro. Ironically, the same man is depicted dramatically falling down a set of stairs next to the stage during his introduction. The absurdity lies in the contrast between his legendary feats of ascending dangerous peaks and his failure to navigate simple architectural steps. An audience looks on, witnessing the man's unexpected tumble. This highlights the potential for even the most accomplished individuals to struggle with mundane tasks.",
+  "caption": "\"And now, standing at my side, I give you the man who conquered Everest, the Matterhorn, Kilimanjaro ...\"",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "1/20/81"
+    },
+    {
+      "location": "top_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 206,
+  "think": 325
+}

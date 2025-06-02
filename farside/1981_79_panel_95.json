@@ -1,0 +1,21 @@
+{
+  "description": "A large woman walks through a crowded parking lot towards a grocery store, moving faster than the cars gridlocked in traffic. A man in one of the cars leans out his window with a frustrated expression. Behind him, a dog in another vehicle appears happy despite the congestion. The scene highlights the irony that walking can be quicker than driving in heavy traffic. It satirizes the inefficiency of modern transportation in congested areas.",
+  "caption": "null",
+  "other_text": [
+    {
+      "location": "Sign above parking lot",
+      "text": "GROCERY"
+    },
+    {
+      "location": "Top right corner",
+      "text": "11/24/81"
+    },
+    {
+      "location": "Bottom left corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 191,
+  "think": 798
+}

@@ -1,0 +1,21 @@
+{
+  "description": "In a grim dungeon setting, several prisoners are shown in various forms of restraint including a spiked cage, chains and ball, and hanging upside down. An unusually cheerful prisoner, suspended by his feet, greets a hulking figure wearing a hood and holding a whip with a singsong 'Good mooorning.' This surreal scene contrasts the mundane pleasantry with the extreme and cruel circumstances of imprisonment and torture, highlighting the absurd resilience or detachment of the prisoner.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top right",
+      "text": "4/5/82"
+    },
+    {
+      "location": "speech bubble",
+      "text": "Good\nmooorning,\nMr. Johnson."
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 199,
+  "think": 487
+}

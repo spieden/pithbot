@@ -1,0 +1,21 @@
+{
+  "description": "A specialized vehicle, the \"Acme Bumaway,\" is positioned in a public park, aiming a large, vacuum-like tube at a person resting on a bench. This scene presents an absurd and surreal solution to the presence of individuals in public spaces. The literal \"bumaway\" machine employs dark irony, suggesting a mechanistic and dehumanizing approach to complex social issues. The operation contrasts sharply with the peaceful environment of the park bench.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "On the side of the large tank on the vehicle",
+      "text": "ACME BUMAWAY"
+    },
+    {
+      "location": "Top center of the panel",
+      "text": "1/23/81"
+    },
+    {
+      "location": "Bottom right corner of the panel",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 205,
+  "think": 812
+}

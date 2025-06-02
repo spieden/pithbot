@@ -1,0 +1,25 @@
+{
+  "description": "A group of woodland animals is celebrating the birthday of a bear wearing a hat marked 'SMO', implied to be Smokey Bear. The birthday cake features burning evergreen trees as candles, creating a darkly ironic situation given Smokey Bear's well-known fire prevention message. The bear covers his eyes, asking if he can look, highlighting the absurd presentation of a burning forest on his celebratory cake.",
+  "caption": "\u201cCan I look now?\u201d",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "5/12/80"
+    },
+    {
+      "location": "Banner",
+      "text": "HAPPY BIRTHDAY SMO"
+    },
+    {
+      "location": "Bear's hat",
+      "text": "SMO"
+    },
+    {
+      "location": "Bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 217,
+  "think": 378
+}

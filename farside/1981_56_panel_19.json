@@ -1,0 +1,17 @@
+{
+  "description": "In a classroom setting with a teacher at her desk and students at their desks, one student stands before the class holding a glass jar containing a grotesque, disembodied face. The teacher is announcing that this student will be presenting something he found on the beach for show-and-tell. The humor lies in the surreal and horrifying nature of the 'found object' being presented in a mundane school activity, contrasting the expected seashells or rocks with a preserved head.",
+  "caption": "\"And next, for show-and-tell, Bobby Henderson says he has something he found on the beach last summer. ...\"",
+  "other_text": [
+    {
+      "location": "top left",
+      "text": "Larson"
+    },
+    {
+      "location": "top center",
+      "text": "8/19/81"
+    }
+  ],
+  "in": 377,
+  "out": 197,
+  "think": 377
+}

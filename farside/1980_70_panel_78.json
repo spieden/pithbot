@@ -1,0 +1,17 @@
+{
+  "description": "A teacher informs a parent, identified as Mrs. Khan, about her son's behavior in class. The son, named little Genghis, is described as disruptive, fighting other children, and notably lacking any leadership ability. The core irony lies in the son's name, Genghis, juxtaposed with the teacher's complaint that he lacks leadership, directly contradicting the historical figure's defining trait. This absurd contrast between the legendary, disruptive leader and the ordinary, disruptive but un-leading schoolchild provides the specific humor.",
+  "caption": "\"And in addition, Mrs. Khan, little Genghis disrupts the class, fights with other children, and completely lacks any leadership ability.\"",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "10/13/80"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 215,
+  "think": 777
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Two prison guards are playing Hangman at a table in front of a prison cell, with a prisoner watching from inside the cell window. The scene presents a darkly absurd situation where the outcome of a game directly relates to the prisoner's fate, injecting a surreal element into the mundane prison environment. The irony lies in the casual nature of the guards' game contrasted with the high stakes it implies for the captive. The distinguishing elements include the specific setup of the game at the cell door and the prisoner's distressed reaction.",
+  "caption": "\"HANGMAN! ... You lose!\"",
+  "other_text": [
+    {
+      "location": "top right",
+      "text": "3/14/80"
+    },
+    {
+      "location": "guard's uniform",
+      "text": "SECUR"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 215,
+  "think": 258
+}

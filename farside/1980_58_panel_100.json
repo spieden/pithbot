@@ -1,0 +1,21 @@
+{
+  "description": "A large man holding a harpoon sits at a bar next to a smaller man wearing a \"SAVE THE WHALES\" shirt. The man with the harpoon responds to a comment about white whales by stating they have plenty of them. This exchange creates a sharp irony between the environmentalist's plea and the whaler's casual, dismissive attitude towards the abundance of a specific type of whale. The presence of the harpoon alongside the conservation message in a common setting like a bar underscores the clashing perspectives in an absurd juxtaposition.",
+  "caption": "\u201cOh, sure\u2014white whales. ...We\u2019ve got plenty of them.\u201d",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "8/21/80"
+    },
+    {
+      "location": "man's_shirt",
+      "text": "SAVE THE WHALES"
+    },
+    {
+      "location": "bottom_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 235,
+  "think": 776
+}

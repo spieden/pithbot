@@ -1,0 +1,21 @@
+{
+  "description": "A military truck transports a large, smoking missile down a rural road. Despite the immense and immediate danger posed by the potentially active weapon, a sign on the truck's rear bumper displays a mundane traffic safety message. This creates a sharp, absurd contrast between catastrophic potential and trivial precaution. The smoking missile implies it is active or malfunctioning, heightening the surreal nature of its public transport. The scene underscores a darkly humorous irony regarding perceived versus actual safety concerns in the context of military power.",
+  "caption": "null",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "2/4/81"
+    },
+    {
+      "location": "truck rear bumper sign",
+      "text": "OUR LIGHTS ARE ON FOR SAFETY"
+    },
+    {
+      "location": "bottom left corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 209,
+  "think": 647
+}

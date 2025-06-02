@@ -1,0 +1,21 @@
+{
+  "description": "The scene depicts two boys casually standing upon a large, prone dog in a suburban yard. A sign posted nearby explicitly reads \"STAY OFF THE DOG\". The homeowner emerges from his house, exasperated, questioning the boys' literacy despite the clear instruction. The humor derives from the absurd literalness of the sign and the blatant disregard shown by the boys, highlighting an ironic disconnect between the warning and the action.",
+  "caption": "\u201cHey! You kids! ... Can\u2019t you read?\u201d",
+  "other_text": [
+    {
+      "location": "sign in the yard",
+      "text": "STAY OFF THE DOG"
+    },
+    {
+      "location": "top right corner",
+      "text": "6/30/81"
+    },
+    {
+      "location": "bottom right corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 206,
+  "think": 867
+}

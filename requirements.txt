@@ -1,0 +1,6 @@
+sentence_transformers
+torch
+pymilvus
+opencv-python
+numpy
+google-genai

@@ -1,0 +1,17 @@
+{
+  "description": "Four cavepeople are gathered near a cave entrance. Two seated individuals, identified as Zag and Thena, are being welcomed by two standing figures with open arms. The greeters issue a specific instruction: \"Come on in and act uncivilized!\" This command introduces irony, suggesting that even among cave dwellers, there is a deliberate act of shedding any veneer of refinement for social interaction. The situation is notable for its inversion of typical social etiquette, treating 'uncivilized' behavior as a state one chooses to adopt rather than an inherent condition.",
+  "caption": "\"Zag and Thena! ... Come on in and act uncivilized!\"",
+  "other_text": [
+    {
+      "location": "top",
+      "text": "9/24/80"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 204,
+  "think": 672
+}

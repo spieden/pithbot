@@ -1,0 +1,57 @@
+{
+  "description": "In a classroom setting filled with complex mathematical equations written on blackboards, several scientists in lab coats are gleefully engaged in throwing chalkboard erasers at each other. The scene presents a stark irony, juxtaposing the formal, intellectual environment associated with scientific pursuit with the unexpected and childish behavior of an eraser fight. This absurd contrast highlights a humorous subversion of expectations, suggesting a playful, unconventional side hidden beneath the serious facade of esteemed individuals. The situation is a novel blend of high intellect and rudimentary conflict, making the setting and participants particularly distinguishing.",
+  "caption": "\"Eraser fight!!\"",
+  "other_text": [
+    {
+      "location": "Top left corner",
+      "text": "Larson"
+    },
+    {
+      "location": "Top right corner",
+      "text": "3/10/81"
+    },
+    {
+      "location": "Left blackboard",
+      "text": "3 > 64.22"
+    },
+    {
+      "location": "Left blackboard",
+      "text": "16 \u221a-u-"
+    },
+    {
+      "location": "Left blackboard",
+      "text": "0.23 X/0.\u00b723"
+    },
+    {
+      "location": "Left blackboard",
+      "text": "4\nm"
+    },
+    {
+      "location": "Left blackboard",
+      "text": "m \u221a 3 > .236\nx"
+    },
+    {
+      "location": "Left blackboard",
+      "text": "1.23/17.\u00ba"
+    },
+    {
+      "location": "Left blackboard",
+      "text": "32.63\nx-y"
+    },
+    {
+      "location": "Right blackboard",
+      "text": "39.6 x\na+\u03b8\n\u23af\n14 x"
+    },
+    {
+      "location": "Right blackboard",
+      "text": "8\u221a 17.6 y >"
+    },
+    {
+      "location": "Right blackboard",
+      "text": "15-n\nx+r\u00b2"
+    }
+  ],
+  "in": 377,
+  "out": 504,
+  "think": 701
+}

@@ -1,0 +1,25 @@
+{
+  "description": "A man in a brown suit and hat walks past a white picket fence holding a briefcase. In the yard of the house beyond the fence, there are two signs: one reads 'BEWARE OF DOG' and the other, closer to the sidewalk, reads 'DDS OK'. The man is presumably a dentist, indicated by the 'DDS OK' sign, which ironically exempts him from the usual 'BEWARE OF DOG' warning, playing on the common fear of dentists versus the typical fear of dogs.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "Sign near bushes",
+      "text": "BEWARE OF DOG"
+    },
+    {
+      "location": "Sign near sidewalk",
+      "text": "DDS OK"
+    },
+    {
+      "location": "Top right corner",
+      "text": "4/3/81"
+    },
+    {
+      "location": "Bottom left corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 232,
+  "think": 158
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Two figures in space suits peer over a lunar crater at a lander labeled \"USA\". Standing next to the lander is a large, smiling alien with three eyes and multiple limbs. The scene presents an absurd inversion of the expected first contact scenario. Instead of humans discovering alien life, the alien seems to be awaiting the arrival of the humans at their own landing site. This highlights the irony of human self-importance in the vastness of space.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "7/28/80"
+    },
+    {
+      "location": "on the landing craft",
+      "text": "USA"
+    },
+    {
+      "location": "bottom left corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 190,
+  "think": 706
+}

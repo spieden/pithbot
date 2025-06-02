@@ -1,0 +1,25 @@
+{
+  "description": "A young boy holds a magic lamp, having apparently used his first two wishes to trap his parents inside labeled glass jars. His parents, now miniaturized and distressed, are visible inside their respective containers. The boy eagerly asks about receiving a third wish, highlighting the absurd and twisted application of the genie's power for familial imprisonment. The weary expression of the towering, turbaned genie contrasts sharply with the boy's simple excitement. This panel presents a surreal situation where a child's desires lead to the literal bottling of his parents, offering a darkly humorous take on power and family dynamics.",
+  "caption": "\u201cGee, whiz ... you mean I get a third wish, too?\u201d",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "4/22/82"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    },
+    {
+      "location": "on left jar",
+      "text": "MOM"
+    },
+    {
+      "location": "on right jar",
+      "text": "DAD"
+    }
+  ],
+  "in": 377,
+  "out": 260,
+  "think": 1109
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Two gorillas in a jungle environment have acquired a large tire from \"ACME AIRLINES\". They are using the tire as a swing, highlighting the absurd juxtaposition of modern transportation artifacts with a primitive setting. The scene creates an ironic contrast between the intended purpose of the tire (air travel) and its actual use as a simple playground item. This surreal imagery emphasizes the unexpected ways objects can be reappropriated outside their designed context. The gorillas' playful interaction with the industrial artifact underscores a theme of finding amusement in the mundane, even in a wild setting.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "4/4/81"
+    },
+    {
+      "location": "on the tire",
+      "text": "ACME AIRLINES"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 215,
+  "think": 668
+}

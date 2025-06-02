@@ -1,0 +1,17 @@
+{
+  "description": "The scene depicts two distinct indoor environments. In the upper level, figures are engrossed in watching a television which displays a remarkably detailed, large face wearing glasses. Below, one figure sits with binoculars while another stands by a window peering intently through a telescope mounted on a tripod. This observation activity, performed indoors with optical equipment, is so compelling that it interrupts discussions about neighbors. The surreal television content contrasts with the focused, albeit unusual, telescopic viewing.",
+  "caption": "Say, Carl ... forget the Hendersons for a second and come look at this thing.",
+  "other_text": [
+    {
+      "location": "top_right",
+      "text": "5/26/82"
+    },
+    {
+      "location": "bottom_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 188,
+  "think": 921
+}

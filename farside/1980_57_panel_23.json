@@ -1,0 +1,21 @@
+{
+  "description": "A man is shown stuck to the ceiling of a room, having evidently been propelled there by a trampoline labeled \"MR.BOUNCY\" below him. The scene takes place in a domestic setting with a television and a framed picture on the wall, creating a striking contrast between the mundane environment and the absurd predicament. The irony lies in the extreme outcome of using an object intended for controlled bouncing. This surreal situation highlights the potential for unexpected and exaggerated consequences from simple activities.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "8/15/80"
+    },
+    {
+      "location": "On sign near trampoline",
+      "text": "MR.BOUNCY"
+    },
+    {
+      "location": "Bottom left signature",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 199,
+  "think": 616
+}

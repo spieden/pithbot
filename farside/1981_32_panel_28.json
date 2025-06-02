@@ -1,0 +1,37 @@
+{
+  "description": "This scene portrays the finals of a competition centered on nasal characteristics, held in an arena-like setting with a banner announcing \"MR. NOSE FINALS.\" One competitor, wearing jersey number 6, stands on a podium, seemingly the victor, facing a cheering audience. Two other competitors, wearing numbers 3 and 12, are visible nearby. The event is treated with the gravity of a major sporting final, despite the unusual basis for judging. The distinguishing large noses of the participants are central to the premise.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "5/4/81"
+    },
+    {
+      "location": "top center, below date",
+      "text": "Larson"
+    },
+    {
+      "location": "banner, top center",
+      "text": "MR. NOSE"
+    },
+    {
+      "location": "banner, top center, below MR. NOSE",
+      "text": "FINALS"
+    },
+    {
+      "location": "jersey of person on podium",
+      "text": "6"
+    },
+    {
+      "location": "jersey of person sitting on left",
+      "text": "3"
+    },
+    {
+      "location": "jersey of person standing on right",
+      "text": "12"
+    }
+  ],
+  "in": 377,
+  "out": 325,
+  "think": 1184
+}

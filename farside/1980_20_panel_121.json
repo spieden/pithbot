@@ -1,0 +1,21 @@
+{
+  "description": "A business meeting is taking place at a large table under a sign promoting \"Wonker Wieners,\" which depicts a grotesque hot dog. The stern-faced leader addresses his colleagues, concluding that their company, Wonker Wiener Company, suffers from incompetence. The humor arises from the absurd, unappetizing product name and image, creating irony in the serious declaration of incompetence about such a company.",
+  "caption": "\"And so I've reached the conclusion, gentlemen, that the Wonker Wiener Company is riddled with incompetence.\"",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "3/5/80"
+    },
+    {
+      "location": "Sign on wall",
+      "text": "Wonker Wieners"
+    },
+    {
+      "location": "Bottom right corner of image",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 206,
+  "think": 230
+}

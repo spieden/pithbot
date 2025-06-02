@@ -1,0 +1,17 @@
+{
+  "description": "The scene depicts a poker game under a hanging lamp where one player, Amos, is accused of bluffing. The accuser points directly at Amos, declaring his lack of a poker face. Amos's face is grotesquely contorted in an exaggerated expression of shock or fear, embodying his inability to conceal his hand. The irony stems from the extreme, almost surreal, physical manifestation of his 'poor poker face.' This highlights the absurd visual interpretation of a common phrase about emotional transparency in a high-stakes context.",
+  "caption": "\u201cHa! I knew you were bluffing, Amos! You never did have much of a poker face!\u201d",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "12/3/81"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 205,
+  "think": 575
+}

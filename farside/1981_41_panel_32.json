@@ -1,0 +1,17 @@
+{
+  "description": "Two anthropomorphic cows are depicted in a domestic setting, one on the telephone and the other seated in a chair holding a teacup. The surrealism arises from the animals adopting human roles and behaviors. The irony lies in the cow on the phone seemingly complaining about a \"heavy, chewing sound,\" a natural and constant action for cows themselves due to rumination. This highlights the absurdity of their human-like existence contrasting with their inherent bovine nature.",
+  "caption": "\"Agnes! It's that heavy, chewing sound again!\"",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "6/9/81"
+    },
+    {
+      "location": "bottom_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 182,
+  "think": 496
+}

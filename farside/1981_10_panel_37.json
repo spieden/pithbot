@@ -1,0 +1,21 @@
+{
+  "description": "A car travels down a road with dashed lines. The driver, visible inside, appears focused ahead. The car's license plate prominently displays the phrase \"I DON'T BRAKE.\" This presents an absurd and ironic declaration of extremely reckless driving behavior openly advertised on a vehicle, highlighting a dangerous disregard for safety.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "1/26/81"
+    },
+    {
+      "location": "Lower left",
+      "text": "Larson"
+    },
+    {
+      "location": "Rear license plate",
+      "text": "I DON'T BRAKE"
+    }
+  ],
+  "in": 377,
+  "out": 170,
+  "think": 559
+}

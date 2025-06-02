@@ -1,0 +1,17 @@
+{
+  "description": "Three scientists are conducting an experiment involving an elephant confined in a cage. One scientist prepares to introduce a single mouse to the elephant's trunk, while another holds a box containing a multitude of mice. The massive elephant displays a clear expression of anger, not fear, towards the situation. This scenario presents an absurd test of a common myth about elephant phobias. The irony is highlighted by the elephant's obvious lack of fear despite the significant number of mice present.",
+  "caption": "\"That won't be necessary, Carl. ... I think we can safely conclude that they're definitely not afraid of mice.\"",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "1/2/81"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 193,
+  "think": 955
+}

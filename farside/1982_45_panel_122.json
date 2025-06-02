@@ -1,0 +1,17 @@
+{
+  "description": "Two large bears are preparing what appears to be a meal, shaking small human-like figures from a tree. One bear holds several figures, while the other shakes the tree trunk. The dialogue treats the arrival of more figures as merely adding another guest to a gathering, highlighting the absurd indifference to the figures' fate. This juxtaposition of mundane conversation with a predatory act creates dark humor. The scene is set in a clearing with a single tree and discarded surgical implements.",
+  "caption": "\u201cLet's see ... I guess your brother's coming over, too\u2014better give it one more shake.\u201d",
+  "other_text": [
+    {
+      "location": "top right",
+      "text": "6/22/82"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 195,
+  "think": 360
+}

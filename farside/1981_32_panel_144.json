@@ -1,0 +1,17 @@
+{
+  "description": "A vintage gramophone plays music represented by floating musical notes. Two large snakes stand upright on their tails, their bodies contorted in a manner suggesting they are attempting to dance. One snake appears to be instructing the other in a dance that combines structured 'steps' with their natural 'slithering' movement. The situation presents an absurd juxtaposition of an animal known for fluid ground movement trying to execute a rhythmic, upright dance routine to recorded music.",
+  "caption": "\"Now follow me. Step, step, slither, step ... step, step, slither, step ...\"",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "5/9/81"
+    },
+    {
+      "location": "bottom_left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 190,
+  "think": 303
+}

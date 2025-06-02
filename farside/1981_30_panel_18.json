@@ -1,0 +1,17 @@
+{
+  "description": "A large, friendly monster leans over a bed, addressing a small, wide-eyed creature nestled under the covers. The monster, presumably the source of the small creature's fear, reassures it that there is nothing hidden in the closet. This creates an absurd situation where the 'monster in the closet' is the one denying the existence of other potential monsters, subverting the common childhood fear.",
+  "caption": "\u201cNow, close your eyes and go back to sleep, honey. ... There\u2019s nothing in your closet.\u201d",
+  "other_text": [
+    {
+      "location": "top left",
+      "text": "Larson"
+    },
+    {
+      "location": "top center",
+      "text": "4/23/81"
+    }
+  ],
+  "in": 377,
+  "out": 184,
+  "think": 783
+}

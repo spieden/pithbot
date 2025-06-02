@@ -1,0 +1,17 @@
+{
+  "description": "Two individuals are in a field collecting butterflies. One admires a captured butterfly, praising it as a symbol of beauty, innocence, and fragile life. Immediately after this poetic description, he requests a jar of ether. This request reveals the paradoxical and dark nature of scientific collection, which preserves by ending life. The scene juxtaposes appreciation for nature's fragility with the act of extinguishing it for study.",
+  "caption": "An excellent specimen ... the symbol of beauty, innocence, and fragile life. ... Hand me the jar of ether.",
+  "other_text": [
+    {
+      "location": "top left",
+      "text": "Larson"
+    },
+    {
+      "location": "top center",
+      "text": "12/10/80"
+    }
+  ],
+  "in": 376,
+  "out": 180,
+  "think": 811
+}

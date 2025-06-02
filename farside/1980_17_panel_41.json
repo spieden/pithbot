@@ -1,0 +1,49 @@
+{
+  "description": "In an elevator, a man in a green coat and hat presses the 'H' button on the control panel. Beside him stands a tall figure in a red coat and hat, displaying fangs and a visible tail, strongly suggesting a supernatural, perhaps demonic, identity. The man's casual action of selecting the 'H' floor (presumably representing Hell) for both himself and his companion presents a darkly ironic and absurd scenario, implying the man shares the same infernal destination. The mundane setting of an elevator contrasts starkly with the implied final destination, highlighting the surreal nature of the encounter and shared fate.",
+  "caption": "\"H,' please ... for both of us.\"",
+  "other_text": [
+    {
+      "location": "top right",
+      "text": "2/19/80"
+    },
+    {
+      "location": "elevator panel",
+      "text": "7"
+    },
+    {
+      "location": "elevator panel",
+      "text": "6"
+    },
+    {
+      "location": "elevator panel",
+      "text": "5"
+    },
+    {
+      "location": "elevator panel",
+      "text": "4"
+    },
+    {
+      "location": "elevator panel",
+      "text": "3"
+    },
+    {
+      "location": "elevator panel",
+      "text": "2"
+    },
+    {
+      "location": "elevator panel",
+      "text": "1"
+    },
+    {
+      "location": "elevator panel",
+      "text": "H"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 390,
+  "think": 370
+}

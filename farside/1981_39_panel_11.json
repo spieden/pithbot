@@ -1,0 +1,21 @@
+{
+  "description": "A prison guard introduces a new inmate to a cell where an existing inmate is chained to his bunk, wildly clutching a pillow and grinning maniacally. The guard's overly friendly tone in light of the extremely dangerous situation highlights the dark absurdity of the prison environment. The chained furniture and the existing inmate's appearance suggest a history of extreme violence or instability, making the casual introduction of a new cellmate deeply ironic. The new inmate appears oblivious to the imminent danger, adding to the surrealism of the scene.",
+  "caption": "\"Hey, Durk! ... New cellmate, Durk! ... New cellmate! ... Friend, Durk! ... Friend!\"",
+  "other_text": [
+    {
+      "location": "top",
+      "text": "6/2/81"
+    },
+    {
+      "location": "bottom_left",
+      "text": "Larson"
+    },
+    {
+      "location": "on_prisoner",
+      "text": "63273"
+    }
+  ],
+  "in": 377,
+  "out": 235,
+  "think": 434
+}

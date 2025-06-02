@@ -1,0 +1,17 @@
+{
+  "description": "In an operating room, several surgeons are gathered around a patient on an operating table beneath a surgical light. One surgeon is addressing the others, proposing a vote to determine the number of chambers in the heart during the procedure. The scene highlights the absurd and unsettling situation of medical professionals lacking fundamental anatomical knowledge during a critical surgery. The humor derives from the profound incompetence implied by the need to vote on such a basic fact.",
+  "caption": "\u201cOkay, Williams, we\u2019ll just vote. ... How many here say the heart has four chambers?\u201d",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "1/27/82"
+    },
+    {
+      "location": "top_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 187,
+  "think": 294
+}

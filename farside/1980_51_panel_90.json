@@ -1,0 +1,29 @@
+{
+  "description": "A runner is surprised and assaulted by a street cleaner vehicle whose rotating brush is aggressively sweeping the sidewalk directly in their path, kicking up debris. The driver of the vehicle observes the scene from the cab with a wide, malevolent grin. This presents an ironic and absurd conflict where a maintenance vehicle targets a pedestrian with excessive force, highlighting a surreal interaction between infrastructure and individual activity. The runner, wearing a numbered bib, is trapped between the wall and the encroaching brush. The vehicle is labeled as 'STREET CLEANER NO. 3'.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top left",
+      "text": "Larson"
+    },
+    {
+      "location": "top center",
+      "text": "7/25/80"
+    },
+    {
+      "location": "vehicle",
+      "text": "STREET CLEANER NO. 3"
+    },
+    {
+      "location": "vehicle",
+      "text": "CAUTION"
+    },
+    {
+      "location": "runner's shirt",
+      "text": "6"
+    }
+  ],
+  "in": 376,
+  "out": 266,
+  "think": 647
+}

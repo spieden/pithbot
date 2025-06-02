@@ -1,0 +1,21 @@
+{
+  "description": "Two figures plummet from a cliff marked \"LOVER'S LEAP,\" their hat and shoes trailing behind them. Perched on the cliff edge in a nest are two bird-like creatures. The scene creates dark irony by applying the concept of a tragic romantic suicide spot to a literal, fatal fall. The absurdity is heightened by the contrast between the dramatic cliff name and the mundane act of creatures leaving a nest, which the caption connects to the falling figures.",
+  "caption": "\u201cThere they go again ... leaving the nest too early.\u201d",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "4/9/81"
+    },
+    {
+      "location": "on sign on cliff",
+      "text": "LOVER'S LEAP"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 212,
+  "think": 449
+}

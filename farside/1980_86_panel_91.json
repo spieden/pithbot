@@ -1,0 +1,33 @@
+{
+  "description": "An individual selling goods is depicted with a bird's nest atop their head inhabited by live birds, while plants sprout from their shoulders. This figure is positioned behind a counter bearing signs promoting \"Earthy Goods,\" \"All Organic,\" and \"Natural Products.\" The extreme, literal representation of integration with nature on the person selling these items creates a sense of surrealism and dark humor. The reversed text \"Health Food\" is visible on the window behind them. This scene satirizes the pursuit of ultimate naturalness by portraying it through a bizarre, literal embodiment.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "Top center margin",
+      "text": "12/19/80"
+    },
+    {
+      "location": "Sign on shelf",
+      "text": "EARTHY GOODS!"
+    },
+    {
+      "location": "Sign on counter",
+      "text": "ALL ORGANIC!"
+    },
+    {
+      "location": "Sign in display bin",
+      "text": "NATURAL PRODUCTS"
+    },
+    {
+      "location": "Reversed text on window",
+      "text": "HEALTH FOOD"
+    },
+    {
+      "location": "Bottom right corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 300,
+  "think": 834
+}

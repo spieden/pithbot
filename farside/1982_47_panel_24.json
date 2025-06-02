@@ -1,0 +1,21 @@
+{
+  "description": "A large vulture carrying a bone flies over a desert towards a group of smaller birds, also holding bones. The smaller birds are gathered around a sign that reads \"YES! WE'RE OPEN!\". This presents a macabre scene where vultures are seemingly operating a business related to scavenging or bones. The use of a commercial phrase like \"We're Open!\" in this context creates an absurd and darkly humorous situation.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top left",
+      "text": "Larson"
+    },
+    {
+      "location": "top center",
+      "text": "7/1/82"
+    },
+    {
+      "location": "on sign",
+      "text": "YES!\nWE'RE\nOPEN!"
+    }
+  ],
+  "in": 377,
+  "out": 192,
+  "think": 764
+}

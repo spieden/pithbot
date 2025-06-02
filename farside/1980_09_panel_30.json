@@ -1,0 +1,17 @@
+{
+  "description": "Three scientists in lab coats appear disoriented, indicated by swirling stars above their heads. One holds a boomerang, while another covers his mouth in consternation, and the third looks concerned. The absurdity lies in these seemingly intelligent individuals being utterly perplexed and distressed by a simple object that keeps returning, treating it as a mysterious and unsolvable problem they must find a way to discard.",
+  "caption": "\"Egad! We must find some means of discarding the hideous thing!\"",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "1/8/80"
+    },
+    {
+      "location": "top_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 171,
+  "think": 360
+}

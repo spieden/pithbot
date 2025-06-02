@@ -1,0 +1,17 @@
+{
+  "description": "An abnormally proportioned father sits in an armchair, addressing his equally strange-looking young son, who sits on his lap. The mother, also unusually depicted, stands beside them with a duster. The father delivers a serious message about the son's origins. The irony stems from the fact that the son bears a striking resemblance to the father, making the revelation of adoption absurd.",
+  "caption": "\"This may be hard, son, but your mother and I agreed it was time you were told the truth. ... You were adopted.\"",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "3/18/81"
+    },
+    {
+      "location": "bottom_left",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 186,
+  "think": 514
+}

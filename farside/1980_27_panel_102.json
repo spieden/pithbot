@@ -1,0 +1,17 @@
+{
+  "description": "The scene presents a surreal convergence of characters from disparate fictional worlds, featuring iconic figures seeking fundamental attributes like a heart and a brain. An imposing figure, visually reminiscent of Frankenstein's monster, stands at a large door, turning away the hopeful group. The irony is sharp, as this figure claims he cannot assist, having just used his own 'last heart and brain,' subverting the expectation that he might provide or possess such qualities. Directing them to another 'wizard up the road' renders the quest for these vital traits transactional and adds to the absurdist nature of the encounter. This specific scenario highlights the unexpected and mundane difficulty in acquiring essential human elements.",
+  "caption": "\"I'm sorry ... try the wizard up the road. I just used my last heart and brain.\"",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "4/9/80"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 229,
+  "think": 707
+}

@@ -1,0 +1,21 @@
+{
+  "description": "A man, asleep in his bed at night, is having a vivid dream depicted above his head. The dream features a brass band comprised of figures with unusual, cone-shaped and bucket-like head coverings playing instruments. His distressed expression and posture indicate the dream is causing him discomfort despite being about a musical performance. An open newspaper on the floor titled \"CONCERT TOMORROW NIGHT\" suggests the dream is a manifestation of anxiety or anticipation regarding an upcoming concert. This creates an ironic scenario where the expectation of enjoying music leads to a surreal and disturbing nocturnal experience.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "Top border",
+      "text": "11/21/80"
+    },
+    {
+      "location": "Bottom left, next to newspaper",
+      "text": "Larson"
+    },
+    {
+      "location": "On the newspaper",
+      "text": "CONCERT TOMORROW NIGHT"
+    }
+  ],
+  "in": 376,
+  "out": 222,
+  "think": 758
+}

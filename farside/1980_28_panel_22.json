@@ -1,0 +1,21 @@
+{
+  "description": "The scene depicts two men observing a museum exhibit hall filled with dinosaur skeletons and scattered pieces of Cub Scout uniform. The humor derives from the absurd implication that the ancient, inanimate skeletons are somehow responsible for the disappearance of young boys, leaving only their attire behind. This creates a surreal juxtaposition between the historical setting and a bizarre, unexplained modern phenomenon. The dry observation of one character heightens the absurdity of the situation. The scattered hats and neckerchiefs serve as macabre evidence of this peculiar occurrence.",
+  "caption": "Most peculiar, Sidney ... another scattering of Cub Scout attire.",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "4/11/80"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    },
+    {
+      "location": "middle left wall",
+      "text": "MUSEUM HOURS 9-5"
+    }
+  ],
+  "in": 376,
+  "out": 222,
+  "think": 830
+}

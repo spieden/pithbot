@@ -1,0 +1,17 @@
+{
+  "description": "Three whales are depicted underwater, two larger ones seemingly listening to a smaller whale below. The smaller whale expresses profound fear of something above the surface, describing it in terms of \"wild, sunken eyes\" and a \"horrid wooden leg.\" The scene presents an ironic reversal of the traditional hunt narrative, portraying the whale as terrified of its human pursuer, particularly one echoing the iconic features of Captain Ahab, believing itself to be the specific target.",
+  "caption": "\u201cI tell you he's up there! ... Those wild, sunken eyes! That horrid wooden leg! ... And he's looking for me!\u201d",
+  "other_text": [
+    {
+      "location": "top left",
+      "text": "Larson"
+    },
+    {
+      "location": "top center",
+      "text": "4/2/80"
+    }
+  ],
+  "in": 376,
+  "out": 197,
+  "think": 810
+}

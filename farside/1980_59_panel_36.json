@@ -1,0 +1,17 @@
+{
+  "description": "A panel of robed men with beards reviews proposals for a 'ceiling project'. One artist presents a simplistic drawing of stick figures, including a man in a top hat, a woman with curly hair, and a child. In stark contrast, another artist presents a detailed, classical rendering of a reclining nude figure, strongly resembling a famous work. The irony lies in the apparent competition between vastly disparate levels of artistic skill for the same important commission. The absurdity is heightened by the notion that such a simplistic offering would be formally presented alongside a master's work.",
+  "caption": "\u201cI\u2019m sorry, Mr. Funucci, but we\u2019ve decided to award the ceiling project to Michelangelo.\u201d",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "8/22/80"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 217,
+  "think": 847
+}

@@ -1,0 +1,17 @@
+{
+  "description": "A historical figure known for a pivotal speech appears to be struggling with basic arithmetic to determine the date of a past event mentioned in his address. He is receiving calculating assistance from a companion who resembles a working man. The scene presents an absurd, literal interpretation of a famous historical phrase as a math problem. The contrast between the solemnity of the historical figure and the mundane task creates irony. This surreal scenario is set within what appears to be a train car or carriage.",
+  "caption": "\"Well, Mr. President, let's see\n take away three, carry the two\n be four score and seven years ago.\"",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "10/6/80"
+    },
+    {
+      "location": "top_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 204,
+  "think": 405
+}

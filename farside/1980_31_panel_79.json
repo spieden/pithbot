@@ -1,0 +1,21 @@
+{
+  "description": "The image depicts a line of cattle waiting to enter a building labeled as a meatpacking plant. One cow in the foreground expresses frustration about the length of the line, stating they will not return. The central irony lies in the animal's relatable human-like complaint about waiting, starkly contrasting with the fatal purpose of the facility they are queuing to enter. This juxtaposition of mundane inconvenience and existential threat creates a darkly humorous and absurd scenario. The specific environment is identified as Johnson's Meatpacking, a destination presented as merely an inconvenient wait rather than a place of slaughter.",
+  "caption": "\u201cJust look at this line! ... They'll never get me to come back here again!\u201d",
+  "other_text": [
+    {
+      "location": "top",
+      "text": "4/29/80"
+    },
+    {
+      "location": "sign",
+      "text": "Johnson's MEATPACKING"
+    },
+    {
+      "location": "bottom left",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 240,
+  "think": 842
+}

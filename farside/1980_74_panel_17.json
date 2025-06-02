@@ -1,0 +1,25 @@
+{
+  "description": "A person brings a cane topped with a snake's head into a veterinary clinic. The seated figure, presumably the vet, is diagnosing the snake-headed cane with \"lockbody.\" The instruction to keep the cane calm highlights the absurd treatment of an inanimate object as a living creature. This surreal scenario satirizes the intensity of pet care by applying a medical context to a non-living item.",
+  "caption": "\"Just keep him calm for a couple of days. ... He's got lockbody.\"",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "10/31/80"
+    },
+    {
+      "location": "on the wall",
+      "text": "DRAN M~ \\\r\n~~~\r\n~~"
+    },
+    {
+      "location": "on the door",
+      "text": "VETERINARY\r\nCLINIC\r\nDR. Robbins"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 255,
+  "think": 483
+}

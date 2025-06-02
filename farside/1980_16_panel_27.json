@@ -1,0 +1,21 @@
+{
+  "description": "A portly figure sits hunched over a table, intently reading a book titled \"YOU CAN BECOME SOMEONE!\". He is framed by a dense, dark crosshatching that suggests a restrictive or perhaps underground environment. The aspirational title of the book contrasts sharply with the figure's appearance and the seemingly confining atmosphere. The scene depicts a poignant, perhaps futile, attempt at self-improvement within perceived limitations. The absurdity lies in the setting under which such a self-help book is being earnestly consumed.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top_center",
+      "text": "2/11/80"
+    },
+    {
+      "location": "on_object",
+      "text": "YOU CAN BECOME\nSOMEONE!"
+    },
+    {
+      "location": "bottom_right",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 213,
+  "think": 800
+}

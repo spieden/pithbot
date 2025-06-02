@@ -1,0 +1,17 @@
+{
+  "description": "A post-apocalyptic landscape features two towering mushroom clouds in the background, signifying a nuclear event. The foreground shows a scene of destruction with a flipped blue car, a broken telephone pole, a damaged shack on a hill, and craters in the ground. Amidst the debris, a vintage television set sits upright, displaying a test pattern on its screen. A damaged bicycle is also visible nearby.",
+  "caption": "\u201cThis is a test. For the next thirty seconds, this station will conduct a test of the emergency broadcast system ...\u201d",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "4/21/81"
+    },
+    {
+      "location": "Bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 185,
+  "think": 1075
+}

@@ -1,0 +1,25 @@
+{
+  "description": "In a desolate desert landscape marked by a single saguaro, a dealership named \"Camelot\" offers \"New & Used\" camels for sale. A line of camels are displayed as if they were vehicles on a car lot, complete with festive flags. A lone figure lounges outside the structure, evoking the image of a relaxed salesman. The scene presents an absurd and ironic twist on the legendary court of King Arthur, reimagining it as a peculiar commercial enterprise.",
+  "caption": "",
+  "other_text": [
+    {
+      "location": "top center",
+      "text": "3/31/80"
+    },
+    {
+      "location": "top right",
+      "text": "Larson"
+    },
+    {
+      "location": "above the building entrance",
+      "text": "CAMELOT"
+    },
+    {
+      "location": "on the building wall",
+      "text": "NEW & USED"
+    }
+  ],
+  "in": 376,
+  "out": 223,
+  "think": 856
+}

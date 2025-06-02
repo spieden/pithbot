@@ -1,0 +1,21 @@
+{
+  "description": "An ostrich sits comfortably in an armchair in a domestic setting, reading a newspaper with a prominent headline about rising ax-murders. The environment includes a side table with a mug and a framed picture on the wall. The irony stems from a creature often associated with being prey engaging with news of violent human-style crime, suggesting a world where typical predator-prey dynamics are warped, or perhaps highlighting a general sense of unease that permeates even seemingly safe spaces.",
+  "caption": "The Far Side by Gary Larson",
+  "other_text": [
+    {
+      "location": "Top center",
+      "text": "12/4/80"
+    },
+    {
+      "location": "Newspaper headline",
+      "text": "AX-MURDERS ON RISE AGAIN"
+    },
+    {
+      "location": "Bottom right corner",
+      "text": "Larson"
+    }
+  ],
+  "in": 376,
+  "out": 212,
+  "think": 304
+}

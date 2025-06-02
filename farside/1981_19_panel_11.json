@@ -1,0 +1,17 @@
+{
+  "description": "A knight in full armor tells his opponent, also in armor but notably missing his head, to surrender because he has lost the duel. This presents a surreal image of continued combat despite a fatal blow. The absurdity stems from the intact knight's literal interpretation of the situation as a strategic defeat rather than a physical incapacitation resulting from decapitation. The irony lies in the formality of declaring victory to a literally headless opponent. The scene underscores the bizarre rituals of dueling.",
+  "caption": "\u201cGive up, Sir James. ... You\u2019ve lost.\u201d",
+  "other_text": [
+    {
+      "location": "top",
+      "text": "3/9/81"
+    },
+    {
+      "location": "bottom right",
+      "text": "Larson"
+    }
+  ],
+  "in": 377,
+  "out": 185,
+  "think": 1030
+}
